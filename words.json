@@ -1,0 +1,5002 @@
+[
+  {
+    "id": 1,
+    "en": "work",
+    "ru": "работать"
+  },
+  {
+    "id": 2,
+    "en": "mine",
+    "ru": "шахта"
+  },
+  {
+    "id": 3,
+    "en": "underground",
+    "ru": "подземный"
+  },
+  {
+    "id": 4,
+    "en": "surface",
+    "ru": "наземный"
+  },
+  {
+    "id": 5,
+    "en": "ore",
+    "ru": "руда"
+  },
+  {
+    "id": 6,
+    "en": "rock",
+    "ru": "порода"
+  },
+  {
+    "id": 7,
+    "en": "waste",
+    "ru": "пустая порода"
+  },
+  {
+    "id": 8,
+    "en": "grade",
+    "ru": "содержание"
+  },
+  {
+    "id": 9,
+    "en": "tonnage",
+    "ru": "тоннаж"
+  },
+  {
+    "id": 10,
+    "en": "dilution",
+    "ru": "разубоживание"
+  },
+  {
+    "id": 11,
+    "en": "recovery",
+    "ru": "извлечение"
+  },
+  {
+    "id": 12,
+    "en": "losses",
+    "ru": "потери"
+  },
+  {
+    "id": 13,
+    "en": "stope",
+    "ru": "очистная камера"
+  },
+  {
+    "id": 14,
+    "en": "face",
+    "ru": "забой"
+  },
+  {
+    "id": 15,
+    "en": "drift",
+    "ru": "штрек"
+  },
+  {
+    "id": 16,
+    "en": "crosscut",
+    "ru": "квершлаг"
+  },
+  {
+    "id": 17,
+    "en": "raise",
+    "ru": "восстающая"
+  },
+  {
+    "id": 18,
+    "en": "winze",
+    "ru": "нисходящая"
+  },
+  {
+    "id": 19,
+    "en": "shaft",
+    "ru": "ствол"
+  },
+  {
+    "id": 20,
+    "en": "portal",
+    "ru": "портал"
+  },
+  {
+    "id": 21,
+    "en": "ramp",
+    "ru": "уклон"
+  },
+  {
+    "id": 22,
+    "en": "level",
+    "ru": "горизонт"
+  },
+  {
+    "id": 23,
+    "en": "sublevel",
+    "ru": "подэтаж"
+  },
+  {
+    "id": 24,
+    "en": "hanging wall",
+    "ru": "висячий бок"
+  },
+  {
+    "id": 25,
+    "en": "footwall",
+    "ru": "лежачий бок"
+  },
+  {
+    "id": 26,
+    "en": "vein",
+    "ru": "жила"
+  },
+  {
+    "id": 27,
+    "en": "orebody",
+    "ru": "рудное тело"
+  },
+  {
+    "id": 28,
+    "en": "development",
+    "ru": "подготовка"
+  },
+  {
+    "id": 29,
+    "en": "production",
+    "ru": "добыча"
+  },
+  {
+    "id": 30,
+    "en": "mucking",
+    "ru": "погрузка породы"
+  },
+  {
+    "id": 31,
+    "en": "scaling",
+    "ru": "оборка заколов"
+  },
+  {
+    "id": 32,
+    "en": "ground control",
+    "ru": "управление горным давлением"
+  },
+  {
+    "id": 33,
+    "en": "ground support",
+    "ru": "крепление"
+  },
+  {
+    "id": 34,
+    "en": "rock bolt",
+    "ru": "анкер"
+  },
+  {
+    "id": 35,
+    "en": "mesh",
+    "ru": "сетка"
+  },
+  {
+    "id": 36,
+    "en": "shotcrete",
+    "ru": "торкрет"
+  },
+  {
+    "id": 37,
+    "en": "backfill",
+    "ru": "закладка"
+  },
+  {
+    "id": 38,
+    "en": "ventilation",
+    "ru": "вентиляция"
+  },
+  {
+    "id": 39,
+    "en": "airflow",
+    "ru": "воздушный поток"
+  },
+  {
+    "id": 40,
+    "en": "air quantity",
+    "ru": "расход воздуха"
+  },
+  {
+    "id": 41,
+    "en": "air velocity",
+    "ru": "скорость воздуха"
+  },
+  {
+    "id": 42,
+    "en": "anemometer",
+    "ru": "анемометр"
+  },
+  {
+    "id": 43,
+    "en": "auxiliary fan",
+    "ru": "ВМП"
+  },
+  {
+    "id": 44,
+    "en": "duct",
+    "ru": "вентрукав"
+  },
+  {
+    "id": 45,
+    "en": "gas",
+    "ru": "газ"
+  },
+  {
+    "id": 46,
+    "en": "oxygen",
+    "ru": "кислород"
+  },
+  {
+    "id": 47,
+    "en": "carbon monoxide",
+    "ru": "угарный газ"
+  },
+  {
+    "id": 48,
+    "en": "dust",
+    "ru": "пыль"
+  },
+  {
+    "id": 49,
+    "en": "dewatering",
+    "ru": "водоотлив"
+  },
+  {
+    "id": 50,
+    "en": "sump",
+    "ru": "водосборник"
+  },
+  {
+    "id": 51,
+    "en": "pump",
+    "ru": "насос"
+  },
+  {
+    "id": 52,
+    "en": "drilling",
+    "ru": "бурение"
+  },
+  {
+    "id": 53,
+    "en": "jumbo",
+    "ru": "джамбо"
+  },
+  {
+    "id": 54,
+    "en": "drill rig",
+    "ru": "буровая"
+  },
+  {
+    "id": 55,
+    "en": "bit",
+    "ru": "коронка"
+  },
+  {
+    "id": 56,
+    "en": "rod",
+    "ru": "штанга"
+  },
+  {
+    "id": 57,
+    "en": "burden",
+    "ru": "линия сопротивления"
+  },
+  {
+    "id": 58,
+    "en": "spacing",
+    "ru": "шаг скважин"
+  },
+  {
+    "id": 59,
+    "en": "stemming",
+    "ru": "забойка"
+  },
+  {
+    "id": 60,
+    "en": "charging",
+    "ru": "заряжание"
+  },
+  {
+    "id": 61,
+    "en": "explosive",
+    "ru": "ВВ"
+  },
+  {
+    "id": 62,
+    "en": "emulsion",
+    "ru": "эмульсия"
+  },
+  {
+    "id": 63,
+    "en": "ANFO",
+    "ru": "АНФО"
+  },
+  {
+    "id": 64,
+    "en": "detonator",
+    "ru": "детонатор"
+  },
+  {
+    "id": 65,
+    "en": "electronic detonator",
+    "ru": "электронный детонатор"
+  },
+  {
+    "id": 66,
+    "en": "primer",
+    "ru": "боевик"
+  },
+  {
+    "id": 67,
+    "en": "blast round",
+    "ru": "взрывной цикл"
+  },
+  {
+    "id": 68,
+    "en": "misfire",
+    "ru": "отказ заряда"
+  },
+  {
+    "id": 69,
+    "en": "re-entry",
+    "ru": "повторный вход"
+  },
+  {
+    "id": 70,
+    "en": "LHD",
+    "ru": "ПДМ"
+  },
+  {
+    "id": 71,
+    "en": "loader",
+    "ru": "погрузчик"
+  },
+  {
+    "id": 72,
+    "en": "truck",
+    "ru": "самосвал"
+  },
+  {
+    "id": 73,
+    "en": "haulage",
+    "ru": "транспортировка"
+  },
+  {
+    "id": 74,
+    "en": "pre-start inspection",
+    "ru": "предсменный осмотр"
+  },
+  {
+    "id": 75,
+    "en": "daily check",
+    "ru": "ежедневная проверка"
+  },
+  {
+    "id": 76,
+    "en": "preventive maintenance",
+    "ru": "ППР"
+  },
+  {
+    "id": 77,
+    "en": "breakdown",
+    "ru": "поломка"
+  },
+  {
+    "id": 78,
+    "en": "downtime",
+    "ru": "простой"
+  },
+  {
+    "id": 79,
+    "en": "hydraulic system",
+    "ru": "гидросистема"
+  },
+  {
+    "id": 80,
+    "en": "engine oil",
+    "ru": "моторное масло"
+  },
+  {
+    "id": 81,
+    "en": "coolant",
+    "ru": "антифриз"
+  },
+  {
+    "id": 82,
+    "en": "brake test",
+    "ru": "проверка тормозов"
+  },
+  {
+    "id": 83,
+    "en": "steering test",
+    "ru": "проверка рулевого"
+  },
+  {
+    "id": 84,
+    "en": "PPE",
+    "ru": "СИЗ"
+  },
+  {
+    "id": 85,
+    "en": "helmet",
+    "ru": "каска"
+  },
+  {
+    "id": 86,
+    "en": "cap lamp",
+    "ru": "головной светильник"
+  },
+  {
+    "id": 87,
+    "en": "self-rescuer",
+    "ru": "самоспасатель"
+  },
+  {
+    "id": 88,
+    "en": "risk assessment",
+    "ru": "оценка рисков"
+  },
+  {
+    "id": 89,
+    "en": "permit to work",
+    "ru": "наряд-допуск"
+  },
+  {
+    "id": 90,
+    "en": "lockout tagout",
+    "ru": "LOTO"
+  },
+  {
+    "id": 91,
+    "en": "incident report",
+    "ru": "отчет об инциденте"
+  },
+  {
+    "id": 92,
+    "en": "near miss",
+    "ru": "почти инцидент"
+  },
+  {
+    "id": 93,
+    "en": "sample",
+    "ru": "проба"
+  },
+  {
+    "id": 94,
+    "en": "core",
+    "ru": "керн"
+  },
+  {
+    "id": 95,
+    "en": "core box",
+    "ru": "керновый ящик"
+  },
+  {
+    "id": 96,
+    "en": "assay",
+    "ru": "анализ"
+  },
+  {
+    "id": 97,
+    "en": "survey",
+    "ru": "маркшейдерия"
+  },
+  {
+    "id": 98,
+    "en": "reference line",
+    "ru": "референс-линия"
+  },
+  {
+    "id": 99,
+    "en": "mark-up",
+    "ru": "разметка"
+  },
+  {
+    "id": 100,
+    "en": "crushing",
+    "ru": "дробление"
+  },
+  {
+    "id": 101,
+    "en": "grinding",
+    "ru": "измельчение"
+  },
+  {
+    "id": 102,
+    "en": "screening",
+    "ru": "грохочение"
+  },
+  {
+    "id": 103,
+    "en": "flotation",
+    "ru": "флотация"
+  },
+  {
+    "id": 104,
+    "en": "leaching",
+    "ru": "выщелачивание"
+  },
+  {
+    "id": 105,
+    "en": "cyanidation",
+    "ru": "цианирование"
+  },
+  {
+    "id": 106,
+    "en": "CIL",
+    "ru": "CIL"
+  },
+  {
+    "id": 107,
+    "en": "CIP",
+    "ru": "CIP"
+  },
+  {
+    "id": 108,
+    "en": "adsorption",
+    "ru": "адсорбция"
+  },
+  {
+    "id": 109,
+    "en": "elution",
+    "ru": "десорбция"
+  },
+  {
+    "id": 110,
+    "en": "electrowinning",
+    "ru": "электроосаждение"
+  },
+  {
+    "id": 111,
+    "en": "thickener",
+    "ru": "сгуститель"
+  },
+  {
+    "id": 112,
+    "en": "tailings",
+    "ru": "хвосты"
+  },
+  {
+    "id": 113,
+    "en": "tailings dam",
+    "ru": "хвостохранилище"
+  },
+  {
+    "id": 114,
+    "en": "reagent",
+    "ru": "реагент"
+  },
+  {
+    "id": 115,
+    "en": "lime",
+    "ru": "известь"
+  },
+  {
+    "id": 116,
+    "en": "cyanide",
+    "ru": "цианид"
+  },
+  {
+    "id": 117,
+    "en": "budget",
+    "ru": "бюджет"
+  },
+  {
+    "id": 118,
+    "en": "cost control",
+    "ru": "контроль затрат"
+  },
+  {
+    "id": 119,
+    "en": "CAPEX",
+    "ru": "CAPEX"
+  },
+  {
+    "id": 120,
+    "en": "OPEX",
+    "ru": "OPEX"
+  },
+  {
+    "id": 121,
+    "en": "procurement",
+    "ru": "закупки"
+  },
+  {
+    "id": 122,
+    "en": "purchase order",
+    "ru": "PO"
+  },
+  {
+    "id": 123,
+    "en": "invoice",
+    "ru": "инвойс"
+  },
+  {
+    "id": 124,
+    "en": "supplier",
+    "ru": "поставщик"
+  },
+  {
+    "id": 125,
+    "en": "contractor",
+    "ru": "подрядчик"
+  },
+  {
+    "id": 126,
+    "en": "KPI",
+    "ru": "KPI"
+  },
+  {
+    "id": 127,
+    "en": "schedule",
+    "ru": "график"
+  },
+  {
+    "id": 128,
+    "en": "deadline",
+    "ru": "дедлайн"
+  },
+  {
+    "id": 129,
+    "en": "actual audit",
+    "ru": "фактический аудит"
+  },
+  {
+    "id": 130,
+    "en": "actual checklist",
+    "ru": "фактический чеклист"
+  },
+  {
+    "id": 131,
+    "en": "actual inspection",
+    "ru": "фактический осмотр"
+  },
+  {
+    "id": 132,
+    "en": "actual maintenance",
+    "ru": "фактический обслуживание"
+  },
+  {
+    "id": 133,
+    "en": "actual meeting",
+    "ru": "фактический встреча"
+  },
+  {
+    "id": 134,
+    "en": "actual plan",
+    "ru": "фактический план"
+  },
+  {
+    "id": 135,
+    "en": "actual procedure",
+    "ru": "фактический процедура"
+  },
+  {
+    "id": 136,
+    "en": "actual report",
+    "ru": "фактический отчет"
+  },
+  {
+    "id": 137,
+    "en": "actual review",
+    "ru": "фактический ревью"
+  },
+  {
+    "id": 138,
+    "en": "actual task",
+    "ru": "фактический задача"
+  },
+  {
+    "id": 139,
+    "en": "actual training",
+    "ru": "фактический обучение"
+  },
+  {
+    "id": 140,
+    "en": "actual update",
+    "ru": "фактический обновление"
+  },
+  {
+    "id": 141,
+    "en": "annual audit",
+    "ru": "годовой аудит"
+  },
+  {
+    "id": 142,
+    "en": "annual checklist",
+    "ru": "годовой чеклист"
+  },
+  {
+    "id": 143,
+    "en": "annual inspection",
+    "ru": "годовой осмотр"
+  },
+  {
+    "id": 144,
+    "en": "annual maintenance",
+    "ru": "годовой обслуживание"
+  },
+  {
+    "id": 145,
+    "en": "annual meeting",
+    "ru": "годовой встреча"
+  },
+  {
+    "id": 146,
+    "en": "annual plan",
+    "ru": "годовой план"
+  },
+  {
+    "id": 147,
+    "en": "annual procedure",
+    "ru": "годовой процедура"
+  },
+  {
+    "id": 148,
+    "en": "annual report",
+    "ru": "годовой отчет"
+  },
+  {
+    "id": 149,
+    "en": "annual review",
+    "ru": "годовой ревью"
+  },
+  {
+    "id": 150,
+    "en": "annual task",
+    "ru": "годовой задача"
+  },
+  {
+    "id": 151,
+    "en": "annual training",
+    "ru": "годовой обучение"
+  },
+  {
+    "id": 152,
+    "en": "annual update",
+    "ru": "годовой обновление"
+  },
+  {
+    "id": 153,
+    "en": "compressor breakdown",
+    "ru": "компрессор поломка"
+  },
+  {
+    "id": 154,
+    "en": "compressor inspection",
+    "ru": "компрессор осмотр"
+  },
+  {
+    "id": 155,
+    "en": "compressor maintenance",
+    "ru": "компрессор обслуживание"
+  },
+  {
+    "id": 156,
+    "en": "compressor operator",
+    "ru": "компрессор оператор"
+  },
+  {
+    "id": 157,
+    "en": "conveyor breakdown",
+    "ru": "конвейер поломка"
+  },
+  {
+    "id": 158,
+    "en": "conveyor inspection",
+    "ru": "конвейер осмотр"
+  },
+  {
+    "id": 159,
+    "en": "conveyor maintenance",
+    "ru": "конвейер обслуживание"
+  },
+  {
+    "id": 160,
+    "en": "conveyor operator",
+    "ru": "конвейер оператор"
+  },
+  {
+    "id": 161,
+    "en": "critical audit",
+    "ru": "критический аудит"
+  },
+  {
+    "id": 162,
+    "en": "critical checklist",
+    "ru": "критический чеклист"
+  },
+  {
+    "id": 163,
+    "en": "critical inspection",
+    "ru": "критический осмотр"
+  },
+  {
+    "id": 164,
+    "en": "critical maintenance",
+    "ru": "критический обслуживание"
+  },
+  {
+    "id": 165,
+    "en": "critical meeting",
+    "ru": "критический встреча"
+  },
+  {
+    "id": 166,
+    "en": "critical plan",
+    "ru": "критический план"
+  },
+  {
+    "id": 167,
+    "en": "critical procedure",
+    "ru": "критический процедура"
+  },
+  {
+    "id": 168,
+    "en": "critical report",
+    "ru": "критический отчет"
+  },
+  {
+    "id": 169,
+    "en": "critical review",
+    "ru": "критический ревью"
+  },
+  {
+    "id": 170,
+    "en": "critical task",
+    "ru": "критический задача"
+  },
+  {
+    "id": 171,
+    "en": "critical training",
+    "ru": "критический обучение"
+  },
+  {
+    "id": 172,
+    "en": "critical update",
+    "ru": "критический обновление"
+  },
+  {
+    "id": 173,
+    "en": "crusher breakdown",
+    "ru": "дробилка поломка"
+  },
+  {
+    "id": 174,
+    "en": "crusher inspection",
+    "ru": "дробилка осмотр"
+  },
+  {
+    "id": 175,
+    "en": "crusher maintenance",
+    "ru": "дробилка обслуживание"
+  },
+  {
+    "id": 176,
+    "en": "crusher operator",
+    "ru": "дробилка оператор"
+  },
+  {
+    "id": 177,
+    "en": "daily audit",
+    "ru": "ежедневный аудит"
+  },
+  {
+    "id": 178,
+    "en": "daily checklist",
+    "ru": "ежедневный чеклист"
+  },
+  {
+    "id": 179,
+    "en": "daily inspection",
+    "ru": "ежедневный осмотр"
+  },
+  {
+    "id": 180,
+    "en": "daily maintenance",
+    "ru": "ежедневный обслуживание"
+  },
+  {
+    "id": 181,
+    "en": "daily meeting",
+    "ru": "ежедневный встреча"
+  },
+  {
+    "id": 182,
+    "en": "daily plan",
+    "ru": "ежедневный план"
+  },
+  {
+    "id": 183,
+    "en": "daily procedure",
+    "ru": "ежедневный процедура"
+  },
+  {
+    "id": 184,
+    "en": "daily report",
+    "ru": "ежедневный отчет"
+  },
+  {
+    "id": 185,
+    "en": "daily review",
+    "ru": "ежедневный ревью"
+  },
+  {
+    "id": 186,
+    "en": "daily task",
+    "ru": "ежедневный задача"
+  },
+  {
+    "id": 187,
+    "en": "daily training",
+    "ru": "ежедневный обучение"
+  },
+  {
+    "id": 188,
+    "en": "daily update",
+    "ru": "ежедневный обновление"
+  },
+  {
+    "id": 189,
+    "en": "drill rig breakdown",
+    "ru": "буровая поломка"
+  },
+  {
+    "id": 190,
+    "en": "drill rig inspection",
+    "ru": "буровая осмотр"
+  },
+  {
+    "id": 191,
+    "en": "drill rig maintenance",
+    "ru": "буровая обслуживание"
+  },
+  {
+    "id": 192,
+    "en": "drill rig operator",
+    "ru": "буровая оператор"
+  },
+  {
+    "id": 193,
+    "en": "fan breakdown",
+    "ru": "вентилятор поломка"
+  },
+  {
+    "id": 194,
+    "en": "fan inspection",
+    "ru": "вентилятор осмотр"
+  },
+  {
+    "id": 195,
+    "en": "fan maintenance",
+    "ru": "вентилятор обслуживание"
+  },
+  {
+    "id": 196,
+    "en": "fan operator",
+    "ru": "вентилятор оператор"
+  },
+  {
+    "id": 197,
+    "en": "generator breakdown",
+    "ru": "генератор поломка"
+  },
+  {
+    "id": 198,
+    "en": "generator inspection",
+    "ru": "генератор осмотр"
+  },
+  {
+    "id": 199,
+    "en": "generator maintenance",
+    "ru": "генератор обслуживание"
+  },
+  {
+    "id": 200,
+    "en": "generator operator",
+    "ru": "генератор оператор"
+  },
+  {
+    "id": 201,
+    "en": "loader breakdown",
+    "ru": "погрузчик поломка"
+  },
+  {
+    "id": 202,
+    "en": "loader inspection",
+    "ru": "погрузчик осмотр"
+  },
+  {
+    "id": 203,
+    "en": "loader maintenance",
+    "ru": "погрузчик обслуживание"
+  },
+  {
+    "id": 204,
+    "en": "loader operator",
+    "ru": "погрузчик оператор"
+  },
+  {
+    "id": 205,
+    "en": "mill breakdown",
+    "ru": "мельница поломка"
+  },
+  {
+    "id": 206,
+    "en": "mill inspection",
+    "ru": "мельница осмотр"
+  },
+  {
+    "id": 207,
+    "en": "mill maintenance",
+    "ru": "мельница обслуживание"
+  },
+  {
+    "id": 208,
+    "en": "mill operator",
+    "ru": "мельница оператор"
+  },
+  {
+    "id": 209,
+    "en": "monthly audit",
+    "ru": "ежемесячный аудит"
+  },
+  {
+    "id": 210,
+    "en": "monthly checklist",
+    "ru": "ежемесячный чеклист"
+  },
+  {
+    "id": 211,
+    "en": "monthly inspection",
+    "ru": "ежемесячный осмотр"
+  },
+  {
+    "id": 212,
+    "en": "monthly maintenance",
+    "ru": "ежемесячный обслуживание"
+  },
+  {
+    "id": 213,
+    "en": "monthly meeting",
+    "ru": "ежемесячный встреча"
+  },
+  {
+    "id": 214,
+    "en": "monthly plan",
+    "ru": "ежемесячный план"
+  },
+  {
+    "id": 215,
+    "en": "monthly procedure",
+    "ru": "ежемесячный процедура"
+  },
+  {
+    "id": 216,
+    "en": "monthly report",
+    "ru": "ежемесячный отчет"
+  },
+  {
+    "id": 217,
+    "en": "monthly review",
+    "ru": "ежемесячный ревью"
+  },
+  {
+    "id": 218,
+    "en": "monthly task",
+    "ru": "ежемесячный задача"
+  },
+  {
+    "id": 219,
+    "en": "monthly training",
+    "ru": "ежемесячный обучение"
+  },
+  {
+    "id": 220,
+    "en": "monthly update",
+    "ru": "ежемесячный обновление"
+  },
+  {
+    "id": 221,
+    "en": "planned audit",
+    "ru": "плановый аудит"
+  },
+  {
+    "id": 222,
+    "en": "planned checklist",
+    "ru": "плановый чеклист"
+  },
+  {
+    "id": 223,
+    "en": "planned inspection",
+    "ru": "плановый осмотр"
+  },
+  {
+    "id": 224,
+    "en": "planned maintenance",
+    "ru": "плановый обслуживание"
+  },
+  {
+    "id": 225,
+    "en": "planned meeting",
+    "ru": "плановый встреча"
+  },
+  {
+    "id": 226,
+    "en": "planned plan",
+    "ru": "плановый план"
+  },
+  {
+    "id": 227,
+    "en": "planned procedure",
+    "ru": "плановый процедура"
+  },
+  {
+    "id": 228,
+    "en": "planned report",
+    "ru": "плановый отчет"
+  },
+  {
+    "id": 229,
+    "en": "planned review",
+    "ru": "плановый ревью"
+  },
+  {
+    "id": 230,
+    "en": "planned task",
+    "ru": "плановый задача"
+  },
+  {
+    "id": 231,
+    "en": "planned training",
+    "ru": "плановый обучение"
+  },
+  {
+    "id": 232,
+    "en": "planned update",
+    "ru": "плановый обновление"
+  },
+  {
+    "id": 233,
+    "en": "pump breakdown",
+    "ru": "насос поломка"
+  },
+  {
+    "id": 234,
+    "en": "pump inspection",
+    "ru": "насос осмотр"
+  },
+  {
+    "id": 235,
+    "en": "pump maintenance",
+    "ru": "насос обслуживание"
+  },
+  {
+    "id": 236,
+    "en": "pump operator",
+    "ru": "насос оператор"
+  },
+  {
+    "id": 237,
+    "en": "safe audit",
+    "ru": "безопасный аудит"
+  },
+  {
+    "id": 238,
+    "en": "safe checklist",
+    "ru": "безопасный чеклист"
+  },
+  {
+    "id": 239,
+    "en": "safe inspection",
+    "ru": "безопасный осмотр"
+  },
+  {
+    "id": 240,
+    "en": "safe maintenance",
+    "ru": "безопасный обслуживание"
+  },
+  {
+    "id": 241,
+    "en": "safe meeting",
+    "ru": "безопасный встреча"
+  },
+  {
+    "id": 242,
+    "en": "safe plan",
+    "ru": "безопасный план"
+  },
+  {
+    "id": 243,
+    "en": "safe procedure",
+    "ru": "безопасный процедура"
+  },
+  {
+    "id": 244,
+    "en": "safe report",
+    "ru": "безопасный отчет"
+  },
+  {
+    "id": 245,
+    "en": "safe review",
+    "ru": "безопасный ревью"
+  },
+  {
+    "id": 246,
+    "en": "safe task",
+    "ru": "безопасный задача"
+  },
+  {
+    "id": 247,
+    "en": "safe training",
+    "ru": "безопасный обучение"
+  },
+  {
+    "id": 248,
+    "en": "safe update",
+    "ru": "безопасный обновление"
+  },
+  {
+    "id": 249,
+    "en": "surface audit",
+    "ru": "наземный аудит"
+  },
+  {
+    "id": 250,
+    "en": "surface checklist",
+    "ru": "наземный чеклист"
+  },
+  {
+    "id": 251,
+    "en": "surface inspection",
+    "ru": "наземный осмотр"
+  },
+  {
+    "id": 252,
+    "en": "surface maintenance",
+    "ru": "наземный обслуживание"
+  },
+  {
+    "id": 253,
+    "en": "surface meeting",
+    "ru": "наземный встреча"
+  },
+  {
+    "id": 254,
+    "en": "surface plan",
+    "ru": "наземный план"
+  },
+  {
+    "id": 255,
+    "en": "surface procedure",
+    "ru": "наземный процедура"
+  },
+  {
+    "id": 256,
+    "en": "surface report",
+    "ru": "наземный отчет"
+  },
+  {
+    "id": 257,
+    "en": "surface review",
+    "ru": "наземный ревью"
+  },
+  {
+    "id": 258,
+    "en": "surface task",
+    "ru": "наземный задача"
+  },
+  {
+    "id": 259,
+    "en": "surface training",
+    "ru": "наземный обучение"
+  },
+  {
+    "id": 260,
+    "en": "surface update",
+    "ru": "наземный обновление"
+  },
+  {
+    "id": 261,
+    "en": "truck breakdown",
+    "ru": "самосвал поломка"
+  },
+  {
+    "id": 262,
+    "en": "truck inspection",
+    "ru": "самосвал осмотр"
+  },
+  {
+    "id": 263,
+    "en": "truck maintenance",
+    "ru": "самосвал обслуживание"
+  },
+  {
+    "id": 264,
+    "en": "truck operator",
+    "ru": "самосвал оператор"
+  },
+  {
+    "id": 265,
+    "en": "underground audit",
+    "ru": "подземный аудит"
+  },
+  {
+    "id": 266,
+    "en": "underground checklist",
+    "ru": "подземный чеклист"
+  },
+  {
+    "id": 267,
+    "en": "underground inspection",
+    "ru": "подземный осмотр"
+  },
+  {
+    "id": 268,
+    "en": "underground maintenance",
+    "ru": "подземный обслуживание"
+  },
+  {
+    "id": 269,
+    "en": "underground meeting",
+    "ru": "подземный встреча"
+  },
+  {
+    "id": 270,
+    "en": "underground plan",
+    "ru": "подземный план"
+  },
+  {
+    "id": 271,
+    "en": "underground procedure",
+    "ru": "подземный процедура"
+  },
+  {
+    "id": 272,
+    "en": "underground report",
+    "ru": "подземный отчет"
+  },
+  {
+    "id": 273,
+    "en": "underground review",
+    "ru": "подземный ревью"
+  },
+  {
+    "id": 274,
+    "en": "underground task",
+    "ru": "подземный задача"
+  },
+  {
+    "id": 275,
+    "en": "underground training",
+    "ru": "подземный обучение"
+  },
+  {
+    "id": 276,
+    "en": "underground update",
+    "ru": "подземный обновление"
+  },
+  {
+    "id": 277,
+    "en": "unsafe audit",
+    "ru": "опасный аудит"
+  },
+  {
+    "id": 278,
+    "en": "unsafe checklist",
+    "ru": "опасный чеклист"
+  },
+  {
+    "id": 279,
+    "en": "unsafe inspection",
+    "ru": "опасный осмотр"
+  },
+  {
+    "id": 280,
+    "en": "unsafe maintenance",
+    "ru": "опасный обслуживание"
+  },
+  {
+    "id": 281,
+    "en": "unsafe meeting",
+    "ru": "опасный встреча"
+  },
+  {
+    "id": 282,
+    "en": "unsafe plan",
+    "ru": "опасный план"
+  },
+  {
+    "id": 283,
+    "en": "unsafe procedure",
+    "ru": "опасный процедура"
+  },
+  {
+    "id": 284,
+    "en": "unsafe report",
+    "ru": "опасный отчет"
+  },
+  {
+    "id": 285,
+    "en": "unsafe review",
+    "ru": "опасный ревью"
+  },
+  {
+    "id": 286,
+    "en": "unsafe task",
+    "ru": "опасный задача"
+  },
+  {
+    "id": 287,
+    "en": "unsafe training",
+    "ru": "опасный обучение"
+  },
+  {
+    "id": 288,
+    "en": "unsafe update",
+    "ru": "опасный обновление"
+  },
+  {
+    "id": 289,
+    "en": "urgent audit",
+    "ru": "срочный аудит"
+  },
+  {
+    "id": 290,
+    "en": "urgent checklist",
+    "ru": "срочный чеклист"
+  },
+  {
+    "id": 291,
+    "en": "urgent inspection",
+    "ru": "срочный осмотр"
+  },
+  {
+    "id": 292,
+    "en": "urgent maintenance",
+    "ru": "срочный обслуживание"
+  },
+  {
+    "id": 293,
+    "en": "urgent meeting",
+    "ru": "срочный встреча"
+  },
+  {
+    "id": 294,
+    "en": "urgent plan",
+    "ru": "срочный план"
+  },
+  {
+    "id": 295,
+    "en": "urgent procedure",
+    "ru": "срочный процедура"
+  },
+  {
+    "id": 296,
+    "en": "urgent report",
+    "ru": "срочный отчет"
+  },
+  {
+    "id": 297,
+    "en": "urgent review",
+    "ru": "срочный ревью"
+  },
+  {
+    "id": 298,
+    "en": "urgent task",
+    "ru": "срочный задача"
+  },
+  {
+    "id": 299,
+    "en": "urgent training",
+    "ru": "срочный обучение"
+  },
+  {
+    "id": 300,
+    "en": "urgent update",
+    "ru": "срочный обновление"
+  },
+  {
+    "id": 301,
+    "en": "weekly audit",
+    "ru": "еженедельный аудит"
+  },
+  {
+    "id": 302,
+    "en": "weekly checklist",
+    "ru": "еженедельный чеклист"
+  },
+  {
+    "id": 303,
+    "en": "weekly inspection",
+    "ru": "еженедельный осмотр"
+  },
+  {
+    "id": 304,
+    "en": "weekly maintenance",
+    "ru": "еженедельный обслуживание"
+  },
+  {
+    "id": 305,
+    "en": "weekly meeting",
+    "ru": "еженедельный встреча"
+  },
+  {
+    "id": 306,
+    "en": "weekly plan",
+    "ru": "еженедельный план"
+  },
+  {
+    "id": 307,
+    "en": "weekly procedure",
+    "ru": "еженедельный процедура"
+  },
+  {
+    "id": 308,
+    "en": "weekly report",
+    "ru": "еженедельный отчет"
+  },
+  {
+    "id": 309,
+    "en": "weekly review",
+    "ru": "еженедельный ревью"
+  },
+  {
+    "id": 310,
+    "en": "weekly task",
+    "ru": "еженедельный задача"
+  },
+  {
+    "id": 311,
+    "en": "weekly training",
+    "ru": "еженедельный обучение"
+  },
+  {
+    "id": 312,
+    "en": "weekly update",
+    "ru": "еженедельный обновление"
+  },
+  {
+    "id": 313,
+    "en": "risk plan",
+    "ru": "риск план"
+  },
+  {
+    "id": 314,
+    "en": "risk report",
+    "ru": "риск отчет"
+  },
+  {
+    "id": 315,
+    "en": "risk meeting",
+    "ru": "риск встреча"
+  },
+  {
+    "id": 316,
+    "en": "risk procedure",
+    "ru": "риск процедура"
+  },
+  {
+    "id": 317,
+    "en": "risk checklist",
+    "ru": "риск чеклист"
+  },
+  {
+    "id": 318,
+    "en": "risk strategy",
+    "ru": "риск стратегия"
+  },
+  {
+    "id": 319,
+    "en": "safety plan",
+    "ru": "безопасность план"
+  },
+  {
+    "id": 320,
+    "en": "safety report",
+    "ru": "безопасность отчет"
+  },
+  {
+    "id": 321,
+    "en": "safety meeting",
+    "ru": "безопасность встреча"
+  },
+  {
+    "id": 322,
+    "en": "safety procedure",
+    "ru": "безопасность процедура"
+  },
+  {
+    "id": 323,
+    "en": "safety checklist",
+    "ru": "безопасность чеклист"
+  },
+  {
+    "id": 324,
+    "en": "safety strategy",
+    "ru": "безопасность стратегия"
+  },
+  {
+    "id": 325,
+    "en": "production plan",
+    "ru": "добыча план"
+  },
+  {
+    "id": 326,
+    "en": "production report",
+    "ru": "добыча отчет"
+  },
+  {
+    "id": 327,
+    "en": "production meeting",
+    "ru": "добыча встреча"
+  },
+  {
+    "id": 328,
+    "en": "production procedure",
+    "ru": "добыча процедура"
+  },
+  {
+    "id": 329,
+    "en": "production checklist",
+    "ru": "добыча чеклист"
+  },
+  {
+    "id": 330,
+    "en": "production strategy",
+    "ru": "добыча стратегия"
+  },
+  {
+    "id": 331,
+    "en": "development plan",
+    "ru": "подготовка план"
+  },
+  {
+    "id": 332,
+    "en": "development report",
+    "ru": "подготовка отчет"
+  },
+  {
+    "id": 333,
+    "en": "development meeting",
+    "ru": "подготовка встреча"
+  },
+  {
+    "id": 334,
+    "en": "development procedure",
+    "ru": "подготовка процедура"
+  },
+  {
+    "id": 335,
+    "en": "development checklist",
+    "ru": "подготовка чеклист"
+  },
+  {
+    "id": 336,
+    "en": "development strategy",
+    "ru": "подготовка стратегия"
+  },
+  {
+    "id": 337,
+    "en": "maintenance plan",
+    "ru": "обслуживание план"
+  },
+  {
+    "id": 338,
+    "en": "maintenance report",
+    "ru": "обслуживание отчет"
+  },
+  {
+    "id": 339,
+    "en": "maintenance meeting",
+    "ru": "обслуживание встреча"
+  },
+  {
+    "id": 340,
+    "en": "maintenance procedure",
+    "ru": "обслуживание процедура"
+  },
+  {
+    "id": 341,
+    "en": "maintenance checklist",
+    "ru": "обслуживание чеклист"
+  },
+  {
+    "id": 342,
+    "en": "maintenance strategy",
+    "ru": "обслуживание стратегия"
+  },
+  {
+    "id": 343,
+    "en": "ventilation plan",
+    "ru": "вентиляция план"
+  },
+  {
+    "id": 344,
+    "en": "ventilation report",
+    "ru": "вентиляция отчет"
+  },
+  {
+    "id": 345,
+    "en": "ventilation meeting",
+    "ru": "вентиляция встреча"
+  },
+  {
+    "id": 346,
+    "en": "ventilation procedure",
+    "ru": "вентиляция процедура"
+  },
+  {
+    "id": 347,
+    "en": "ventilation checklist",
+    "ru": "вентиляция чеклист"
+  },
+  {
+    "id": 348,
+    "en": "ventilation strategy",
+    "ru": "вентиляция стратегия"
+  },
+  {
+    "id": 349,
+    "en": "dewatering plan",
+    "ru": "водоотлив план"
+  },
+  {
+    "id": 350,
+    "en": "dewatering report",
+    "ru": "водоотлив отчет"
+  },
+  {
+    "id": 351,
+    "en": "dewatering meeting",
+    "ru": "водоотлив встреча"
+  },
+  {
+    "id": 352,
+    "en": "dewatering procedure",
+    "ru": "водоотлив процедура"
+  },
+  {
+    "id": 353,
+    "en": "dewatering checklist",
+    "ru": "водоотлив чеклист"
+  },
+  {
+    "id": 354,
+    "en": "dewatering strategy",
+    "ru": "водоотлив стратегия"
+  },
+  {
+    "id": 355,
+    "en": "quality plan",
+    "ru": "качество план"
+  },
+  {
+    "id": 356,
+    "en": "quality report",
+    "ru": "качество отчет"
+  },
+  {
+    "id": 357,
+    "en": "quality meeting",
+    "ru": "качество встреча"
+  },
+  {
+    "id": 358,
+    "en": "quality procedure",
+    "ru": "качество процедура"
+  },
+  {
+    "id": 359,
+    "en": "quality checklist",
+    "ru": "качество чеклист"
+  },
+  {
+    "id": 360,
+    "en": "quality strategy",
+    "ru": "качество стратегия"
+  },
+  {
+    "id": 361,
+    "en": "cost plan",
+    "ru": "затраты план"
+  },
+  {
+    "id": 362,
+    "en": "cost report",
+    "ru": "затраты отчет"
+  },
+  {
+    "id": 363,
+    "en": "cost meeting",
+    "ru": "затраты встреча"
+  },
+  {
+    "id": 364,
+    "en": "cost procedure",
+    "ru": "затраты процедура"
+  },
+  {
+    "id": 365,
+    "en": "cost checklist",
+    "ru": "затраты чеклист"
+  },
+  {
+    "id": 366,
+    "en": "cost strategy",
+    "ru": "затраты стратегия"
+  },
+  {
+    "id": 367,
+    "en": "schedule plan",
+    "ru": "график план"
+  },
+  {
+    "id": 368,
+    "en": "schedule report",
+    "ru": "график отчет"
+  },
+  {
+    "id": 369,
+    "en": "schedule meeting",
+    "ru": "график встреча"
+  },
+  {
+    "id": 370,
+    "en": "schedule procedure",
+    "ru": "график процедура"
+  },
+  {
+    "id": 371,
+    "en": "schedule checklist",
+    "ru": "график чеклист"
+  },
+  {
+    "id": 372,
+    "en": "schedule strategy",
+    "ru": "график стратегия"
+  },
+  {
+    "id": 373,
+    "en": "check oil level",
+    "ru": "проверять уровень масла"
+  },
+  {
+    "id": 374,
+    "en": "check brakes",
+    "ru": "проверять тормоза"
+  },
+  {
+    "id": 375,
+    "en": "check steering",
+    "ru": "проверять рулевое"
+  },
+  {
+    "id": 376,
+    "en": "check filters",
+    "ru": "проверять фильтры"
+  },
+  {
+    "id": 377,
+    "en": "check bolts",
+    "ru": "проверять анкера"
+  },
+  {
+    "id": 378,
+    "en": "check gas level",
+    "ru": "проверять уровень газа"
+  },
+  {
+    "id": 379,
+    "en": "check air velocity",
+    "ru": "проверять скорость воздуха"
+  },
+  {
+    "id": 380,
+    "en": "check water level",
+    "ru": "проверять уровень воды"
+  },
+  {
+    "id": 381,
+    "en": "check work area",
+    "ru": "проверять рабочую зону"
+  },
+  {
+    "id": 382,
+    "en": "check PPE",
+    "ru": "проверять СИЗ"
+  },
+  {
+    "id": 383,
+    "en": "check equipment",
+    "ru": "проверять технику"
+  },
+  {
+    "id": 384,
+    "en": "check tools",
+    "ru": "проверять инструменты"
+  },
+  {
+    "id": 385,
+    "en": "inspect oil level",
+    "ru": "осматривать уровень масла"
+  },
+  {
+    "id": 386,
+    "en": "inspect brakes",
+    "ru": "осматривать тормоза"
+  },
+  {
+    "id": 387,
+    "en": "inspect steering",
+    "ru": "осматривать рулевое"
+  },
+  {
+    "id": 388,
+    "en": "inspect filters",
+    "ru": "осматривать фильтры"
+  },
+  {
+    "id": 389,
+    "en": "inspect bolts",
+    "ru": "осматривать анкера"
+  },
+  {
+    "id": 390,
+    "en": "inspect gas level",
+    "ru": "осматривать уровень газа"
+  },
+  {
+    "id": 391,
+    "en": "inspect air velocity",
+    "ru": "осматривать скорость воздуха"
+  },
+  {
+    "id": 392,
+    "en": "inspect water level",
+    "ru": "осматривать уровень воды"
+  },
+  {
+    "id": 393,
+    "en": "inspect work area",
+    "ru": "осматривать рабочую зону"
+  },
+  {
+    "id": 394,
+    "en": "inspect PPE",
+    "ru": "осматривать СИЗ"
+  },
+  {
+    "id": 395,
+    "en": "inspect equipment",
+    "ru": "осматривать технику"
+  },
+  {
+    "id": 396,
+    "en": "inspect tools",
+    "ru": "осматривать инструменты"
+  },
+  {
+    "id": 397,
+    "en": "repair oil level",
+    "ru": "ремонтировать уровень масла"
+  },
+  {
+    "id": 398,
+    "en": "repair brakes",
+    "ru": "ремонтировать тормоза"
+  },
+  {
+    "id": 399,
+    "en": "repair steering",
+    "ru": "ремонтировать рулевое"
+  },
+  {
+    "id": 400,
+    "en": "repair filters",
+    "ru": "ремонтировать фильтры"
+  },
+  {
+    "id": 401,
+    "en": "repair bolts",
+    "ru": "ремонтировать анкера"
+  },
+  {
+    "id": 402,
+    "en": "repair gas level",
+    "ru": "ремонтировать уровень газа"
+  },
+  {
+    "id": 403,
+    "en": "repair air velocity",
+    "ru": "ремонтировать скорость воздуха"
+  },
+  {
+    "id": 404,
+    "en": "repair water level",
+    "ru": "ремонтировать уровень воды"
+  },
+  {
+    "id": 405,
+    "en": "repair work area",
+    "ru": "ремонтировать рабочую зону"
+  },
+  {
+    "id": 406,
+    "en": "repair PPE",
+    "ru": "ремонтировать СИЗ"
+  },
+  {
+    "id": 407,
+    "en": "repair equipment",
+    "ru": "ремонтировать технику"
+  },
+  {
+    "id": 408,
+    "en": "repair tools",
+    "ru": "ремонтировать инструменты"
+  },
+  {
+    "id": 409,
+    "en": "replace oil level",
+    "ru": "заменять уровень масла"
+  },
+  {
+    "id": 410,
+    "en": "replace brakes",
+    "ru": "заменять тормоза"
+  },
+  {
+    "id": 411,
+    "en": "replace steering",
+    "ru": "заменять рулевое"
+  },
+  {
+    "id": 412,
+    "en": "replace filters",
+    "ru": "заменять фильтры"
+  },
+  {
+    "id": 413,
+    "en": "replace bolts",
+    "ru": "заменять анкера"
+  },
+  {
+    "id": 414,
+    "en": "replace gas level",
+    "ru": "заменять уровень газа"
+  },
+  {
+    "id": 415,
+    "en": "replace air velocity",
+    "ru": "заменять скорость воздуха"
+  },
+  {
+    "id": 416,
+    "en": "replace water level",
+    "ru": "заменять уровень воды"
+  },
+  {
+    "id": 417,
+    "en": "replace work area",
+    "ru": "заменять рабочую зону"
+  },
+  {
+    "id": 418,
+    "en": "replace PPE",
+    "ru": "заменять СИЗ"
+  },
+  {
+    "id": 419,
+    "en": "replace equipment",
+    "ru": "заменять технику"
+  },
+  {
+    "id": 420,
+    "en": "replace tools",
+    "ru": "заменять инструменты"
+  },
+  {
+    "id": 421,
+    "en": "install oil level",
+    "ru": "устанавливать уровень масла"
+  },
+  {
+    "id": 422,
+    "en": "install brakes",
+    "ru": "устанавливать тормоза"
+  },
+  {
+    "id": 423,
+    "en": "install steering",
+    "ru": "устанавливать рулевое"
+  },
+  {
+    "id": 424,
+    "en": "install filters",
+    "ru": "устанавливать фильтры"
+  },
+  {
+    "id": 425,
+    "en": "install bolts",
+    "ru": "устанавливать анкера"
+  },
+  {
+    "id": 426,
+    "en": "install gas level",
+    "ru": "устанавливать уровень газа"
+  },
+  {
+    "id": 427,
+    "en": "install air velocity",
+    "ru": "устанавливать скорость воздуха"
+  },
+  {
+    "id": 428,
+    "en": "install water level",
+    "ru": "устанавливать уровень воды"
+  },
+  {
+    "id": 429,
+    "en": "install work area",
+    "ru": "устанавливать рабочую зону"
+  },
+  {
+    "id": 430,
+    "en": "install PPE",
+    "ru": "устанавливать СИЗ"
+  },
+  {
+    "id": 431,
+    "en": "install equipment",
+    "ru": "устанавливать технику"
+  },
+  {
+    "id": 432,
+    "en": "install tools",
+    "ru": "устанавливать инструменты"
+  },
+  {
+    "id": 433,
+    "en": "remove oil level",
+    "ru": "снимать уровень масла"
+  },
+  {
+    "id": 434,
+    "en": "remove brakes",
+    "ru": "снимать тормоза"
+  },
+  {
+    "id": 435,
+    "en": "remove steering",
+    "ru": "снимать рулевое"
+  },
+  {
+    "id": 436,
+    "en": "remove filters",
+    "ru": "снимать фильтры"
+  },
+  {
+    "id": 437,
+    "en": "remove bolts",
+    "ru": "снимать анкера"
+  },
+  {
+    "id": 438,
+    "en": "remove gas level",
+    "ru": "снимать уровень газа"
+  },
+  {
+    "id": 439,
+    "en": "remove air velocity",
+    "ru": "снимать скорость воздуха"
+  },
+  {
+    "id": 440,
+    "en": "remove water level",
+    "ru": "снимать уровень воды"
+  },
+  {
+    "id": 441,
+    "en": "remove work area",
+    "ru": "снимать рабочую зону"
+  },
+  {
+    "id": 442,
+    "en": "remove PPE",
+    "ru": "снимать СИЗ"
+  },
+  {
+    "id": 443,
+    "en": "remove equipment",
+    "ru": "снимать технику"
+  },
+  {
+    "id": 444,
+    "en": "remove tools",
+    "ru": "снимать инструменты"
+  },
+  {
+    "id": 445,
+    "en": "report oil level",
+    "ru": "докладывать уровень масла"
+  },
+  {
+    "id": 446,
+    "en": "report brakes",
+    "ru": "докладывать тормоза"
+  },
+  {
+    "id": 447,
+    "en": "report steering",
+    "ru": "докладывать рулевое"
+  },
+  {
+    "id": 448,
+    "en": "report filters",
+    "ru": "докладывать фильтры"
+  },
+  {
+    "id": 449,
+    "en": "report bolts",
+    "ru": "докладывать анкера"
+  },
+  {
+    "id": 450,
+    "en": "report gas level",
+    "ru": "докладывать уровень газа"
+  },
+  {
+    "id": 451,
+    "en": "report air velocity",
+    "ru": "докладывать скорость воздуха"
+  },
+  {
+    "id": 452,
+    "en": "report water level",
+    "ru": "докладывать уровень воды"
+  },
+  {
+    "id": 453,
+    "en": "report work area",
+    "ru": "докладывать рабочую зону"
+  },
+  {
+    "id": 454,
+    "en": "report PPE",
+    "ru": "докладывать СИЗ"
+  },
+  {
+    "id": 455,
+    "en": "report equipment",
+    "ru": "докладывать технику"
+  },
+  {
+    "id": 456,
+    "en": "report tools",
+    "ru": "докладывать инструменты"
+  },
+  {
+    "id": 457,
+    "en": "measure oil level",
+    "ru": "измерять уровень масла"
+  },
+  {
+    "id": 458,
+    "en": "measure brakes",
+    "ru": "измерять тормоза"
+  },
+  {
+    "id": 459,
+    "en": "measure steering",
+    "ru": "измерять рулевое"
+  },
+  {
+    "id": 460,
+    "en": "measure filters",
+    "ru": "измерять фильтры"
+  },
+  {
+    "id": 461,
+    "en": "measure bolts",
+    "ru": "измерять анкера"
+  },
+  {
+    "id": 462,
+    "en": "measure gas level",
+    "ru": "измерять уровень газа"
+  },
+  {
+    "id": 463,
+    "en": "measure air velocity",
+    "ru": "измерять скорость воздуха"
+  },
+  {
+    "id": 464,
+    "en": "measure water level",
+    "ru": "измерять уровень воды"
+  },
+  {
+    "id": 465,
+    "en": "measure work area",
+    "ru": "измерять рабочую зону"
+  },
+  {
+    "id": 466,
+    "en": "measure PPE",
+    "ru": "измерять СИЗ"
+  },
+  {
+    "id": 467,
+    "en": "measure equipment",
+    "ru": "измерять технику"
+  },
+  {
+    "id": 468,
+    "en": "measure tools",
+    "ru": "измерять инструменты"
+  },
+  {
+    "id": 469,
+    "en": "test oil level",
+    "ru": "тестировать уровень масла"
+  },
+  {
+    "id": 470,
+    "en": "test brakes",
+    "ru": "тестировать тормоза"
+  },
+  {
+    "id": 471,
+    "en": "test steering",
+    "ru": "тестировать рулевое"
+  },
+  {
+    "id": 472,
+    "en": "test filters",
+    "ru": "тестировать фильтры"
+  },
+  {
+    "id": 473,
+    "en": "test bolts",
+    "ru": "тестировать анкера"
+  },
+  {
+    "id": 474,
+    "en": "test gas level",
+    "ru": "тестировать уровень газа"
+  },
+  {
+    "id": 475,
+    "en": "test air velocity",
+    "ru": "тестировать скорость воздуха"
+  },
+  {
+    "id": 476,
+    "en": "test water level",
+    "ru": "тестировать уровень воды"
+  },
+  {
+    "id": 477,
+    "en": "test work area",
+    "ru": "тестировать рабочую зону"
+  },
+  {
+    "id": 478,
+    "en": "test PPE",
+    "ru": "тестировать СИЗ"
+  },
+  {
+    "id": 479,
+    "en": "test equipment",
+    "ru": "тестировать технику"
+  },
+  {
+    "id": 480,
+    "en": "test tools",
+    "ru": "тестировать инструменты"
+  },
+  {
+    "id": 481,
+    "en": "calibrate oil level",
+    "ru": "калибровать уровень масла"
+  },
+  {
+    "id": 482,
+    "en": "calibrate brakes",
+    "ru": "калибровать тормоза"
+  },
+  {
+    "id": 483,
+    "en": "calibrate steering",
+    "ru": "калибровать рулевое"
+  },
+  {
+    "id": 484,
+    "en": "calibrate filters",
+    "ru": "калибровать фильтры"
+  },
+  {
+    "id": 485,
+    "en": "calibrate bolts",
+    "ru": "калибровать анкера"
+  },
+  {
+    "id": 486,
+    "en": "calibrate gas level",
+    "ru": "калибровать уровень газа"
+  },
+  {
+    "id": 487,
+    "en": "calibrate air velocity",
+    "ru": "калибровать скорость воздуха"
+  },
+  {
+    "id": 488,
+    "en": "calibrate water level",
+    "ru": "калибровать уровень воды"
+  },
+  {
+    "id": 489,
+    "en": "calibrate work area",
+    "ru": "калибровать рабочую зону"
+  },
+  {
+    "id": 490,
+    "en": "calibrate PPE",
+    "ru": "калибровать СИЗ"
+  },
+  {
+    "id": 491,
+    "en": "calibrate equipment",
+    "ru": "калибровать технику"
+  },
+  {
+    "id": 492,
+    "en": "calibrate tools",
+    "ru": "калибровать инструменты"
+  },
+  {
+    "id": 493,
+    "en": "monitor oil level",
+    "ru": "контролировать уровень масла"
+  },
+  {
+    "id": 494,
+    "en": "monitor brakes",
+    "ru": "контролировать тормоза"
+  },
+  {
+    "id": 495,
+    "en": "monitor steering",
+    "ru": "контролировать рулевое"
+  },
+  {
+    "id": 496,
+    "en": "monitor filters",
+    "ru": "контролировать фильтры"
+  },
+  {
+    "id": 497,
+    "en": "monitor bolts",
+    "ru": "контролировать анкера"
+  },
+  {
+    "id": 498,
+    "en": "monitor gas level",
+    "ru": "контролировать уровень газа"
+  },
+  {
+    "id": 499,
+    "en": "monitor air velocity",
+    "ru": "контролировать скорость воздуха"
+  },
+  {
+    "id": 500,
+    "en": "monitor water level",
+    "ru": "контролировать уровень воды"
+  },
+  {
+    "id": 501,
+    "en": "monitor work area",
+    "ru": "контролировать рабочую зону"
+  },
+  {
+    "id": 502,
+    "en": "monitor PPE",
+    "ru": "контролировать СИЗ"
+  },
+  {
+    "id": 503,
+    "en": "monitor equipment",
+    "ru": "контролировать технику"
+  },
+  {
+    "id": 504,
+    "en": "monitor tools",
+    "ru": "контролировать инструменты"
+  },
+  {
+    "id": 505,
+    "en": "record oil level",
+    "ru": "записывать уровень масла"
+  },
+  {
+    "id": 506,
+    "en": "record brakes",
+    "ru": "записывать тормоза"
+  },
+  {
+    "id": 507,
+    "en": "record steering",
+    "ru": "записывать рулевое"
+  },
+  {
+    "id": 508,
+    "en": "record filters",
+    "ru": "записывать фильтры"
+  },
+  {
+    "id": 509,
+    "en": "record bolts",
+    "ru": "записывать анкера"
+  },
+  {
+    "id": 510,
+    "en": "record gas level",
+    "ru": "записывать уровень газа"
+  },
+  {
+    "id": 511,
+    "en": "record air velocity",
+    "ru": "записывать скорость воздуха"
+  },
+  {
+    "id": 512,
+    "en": "record water level",
+    "ru": "записывать уровень воды"
+  },
+  {
+    "id": 513,
+    "en": "record work area",
+    "ru": "записывать рабочую зону"
+  },
+  {
+    "id": 514,
+    "en": "record PPE",
+    "ru": "записывать СИЗ"
+  },
+  {
+    "id": 515,
+    "en": "record equipment",
+    "ru": "записывать технику"
+  },
+  {
+    "id": 516,
+    "en": "record tools",
+    "ru": "записывать инструменты"
+  },
+  {
+    "id": 517,
+    "en": "mining term 1",
+    "ru": "горный термин 1"
+  },
+  {
+    "id": 518,
+    "en": "mining term 2",
+    "ru": "горный термин 2"
+  },
+  {
+    "id": 519,
+    "en": "mining term 3",
+    "ru": "горный термин 3"
+  },
+  {
+    "id": 520,
+    "en": "mining term 4",
+    "ru": "горный термин 4"
+  },
+  {
+    "id": 521,
+    "en": "mining term 5",
+    "ru": "горный термин 5"
+  },
+  {
+    "id": 522,
+    "en": "mining term 6",
+    "ru": "горный термин 6"
+  },
+  {
+    "id": 523,
+    "en": "mining term 7",
+    "ru": "горный термин 7"
+  },
+  {
+    "id": 524,
+    "en": "mining term 8",
+    "ru": "горный термин 8"
+  },
+  {
+    "id": 525,
+    "en": "mining term 9",
+    "ru": "горный термин 9"
+  },
+  {
+    "id": 526,
+    "en": "mining term 10",
+    "ru": "горный термин 10"
+  },
+  {
+    "id": 527,
+    "en": "mining term 11",
+    "ru": "горный термин 11"
+  },
+  {
+    "id": 528,
+    "en": "mining term 12",
+    "ru": "горный термин 12"
+  },
+  {
+    "id": 529,
+    "en": "mining term 13",
+    "ru": "горный термин 13"
+  },
+  {
+    "id": 530,
+    "en": "mining term 14",
+    "ru": "горный термин 14"
+  },
+  {
+    "id": 531,
+    "en": "mining term 15",
+    "ru": "горный термин 15"
+  },
+  {
+    "id": 532,
+    "en": "mining term 16",
+    "ru": "горный термин 16"
+  },
+  {
+    "id": 533,
+    "en": "mining term 17",
+    "ru": "горный термин 17"
+  },
+  {
+    "id": 534,
+    "en": "mining term 18",
+    "ru": "горный термин 18"
+  },
+  {
+    "id": 535,
+    "en": "mining term 19",
+    "ru": "горный термин 19"
+  },
+  {
+    "id": 536,
+    "en": "mining term 20",
+    "ru": "горный термин 20"
+  },
+  {
+    "id": 537,
+    "en": "mining term 21",
+    "ru": "горный термин 21"
+  },
+  {
+    "id": 538,
+    "en": "mining term 22",
+    "ru": "горный термин 22"
+  },
+  {
+    "id": 539,
+    "en": "mining term 23",
+    "ru": "горный термин 23"
+  },
+  {
+    "id": 540,
+    "en": "mining term 24",
+    "ru": "горный термин 24"
+  },
+  {
+    "id": 541,
+    "en": "mining term 25",
+    "ru": "горный термин 25"
+  },
+  {
+    "id": 542,
+    "en": "mining term 26",
+    "ru": "горный термин 26"
+  },
+  {
+    "id": 543,
+    "en": "mining term 27",
+    "ru": "горный термин 27"
+  },
+  {
+    "id": 544,
+    "en": "mining term 28",
+    "ru": "горный термин 28"
+  },
+  {
+    "id": 545,
+    "en": "mining term 29",
+    "ru": "горный термин 29"
+  },
+  {
+    "id": 546,
+    "en": "mining term 30",
+    "ru": "горный термин 30"
+  },
+  {
+    "id": 547,
+    "en": "mining term 31",
+    "ru": "горный термин 31"
+  },
+  {
+    "id": 548,
+    "en": "mining term 32",
+    "ru": "горный термин 32"
+  },
+  {
+    "id": 549,
+    "en": "mining term 33",
+    "ru": "горный термин 33"
+  },
+  {
+    "id": 550,
+    "en": "mining term 34",
+    "ru": "горный термин 34"
+  },
+  {
+    "id": 551,
+    "en": "mining term 35",
+    "ru": "горный термин 35"
+  },
+  {
+    "id": 552,
+    "en": "mining term 36",
+    "ru": "горный термин 36"
+  },
+  {
+    "id": 553,
+    "en": "mining term 37",
+    "ru": "горный термин 37"
+  },
+  {
+    "id": 554,
+    "en": "mining term 38",
+    "ru": "горный термин 38"
+  },
+  {
+    "id": 555,
+    "en": "mining term 39",
+    "ru": "горный термин 39"
+  },
+  {
+    "id": 556,
+    "en": "mining term 40",
+    "ru": "горный термин 40"
+  },
+  {
+    "id": 557,
+    "en": "mining term 41",
+    "ru": "горный термин 41"
+  },
+  {
+    "id": 558,
+    "en": "mining term 42",
+    "ru": "горный термин 42"
+  },
+  {
+    "id": 559,
+    "en": "mining term 43",
+    "ru": "горный термин 43"
+  },
+  {
+    "id": 560,
+    "en": "mining term 44",
+    "ru": "горный термин 44"
+  },
+  {
+    "id": 561,
+    "en": "mining term 45",
+    "ru": "горный термин 45"
+  },
+  {
+    "id": 562,
+    "en": "mining term 46",
+    "ru": "горный термин 46"
+  },
+  {
+    "id": 563,
+    "en": "mining term 47",
+    "ru": "горный термин 47"
+  },
+  {
+    "id": 564,
+    "en": "mining term 48",
+    "ru": "горный термин 48"
+  },
+  {
+    "id": 565,
+    "en": "mining term 49",
+    "ru": "горный термин 49"
+  },
+  {
+    "id": 566,
+    "en": "mining term 50",
+    "ru": "горный термин 50"
+  },
+  {
+    "id": 567,
+    "en": "mining term 51",
+    "ru": "горный термин 51"
+  },
+  {
+    "id": 568,
+    "en": "mining term 52",
+    "ru": "горный термин 52"
+  },
+  {
+    "id": 569,
+    "en": "mining term 53",
+    "ru": "горный термин 53"
+  },
+  {
+    "id": 570,
+    "en": "mining term 54",
+    "ru": "горный термин 54"
+  },
+  {
+    "id": 571,
+    "en": "mining term 55",
+    "ru": "горный термин 55"
+  },
+  {
+    "id": 572,
+    "en": "mining term 56",
+    "ru": "горный термин 56"
+  },
+  {
+    "id": 573,
+    "en": "mining term 57",
+    "ru": "горный термин 57"
+  },
+  {
+    "id": 574,
+    "en": "mining term 58",
+    "ru": "горный термин 58"
+  },
+  {
+    "id": 575,
+    "en": "mining term 59",
+    "ru": "горный термин 59"
+  },
+  {
+    "id": 576,
+    "en": "mining term 60",
+    "ru": "горный термин 60"
+  },
+  {
+    "id": 577,
+    "en": "mining term 61",
+    "ru": "горный термин 61"
+  },
+  {
+    "id": 578,
+    "en": "mining term 62",
+    "ru": "горный термин 62"
+  },
+  {
+    "id": 579,
+    "en": "mining term 63",
+    "ru": "горный термин 63"
+  },
+  {
+    "id": 580,
+    "en": "mining term 64",
+    "ru": "горный термин 64"
+  },
+  {
+    "id": 581,
+    "en": "mining term 65",
+    "ru": "горный термин 65"
+  },
+  {
+    "id": 582,
+    "en": "mining term 66",
+    "ru": "горный термин 66"
+  },
+  {
+    "id": 583,
+    "en": "mining term 67",
+    "ru": "горный термин 67"
+  },
+  {
+    "id": 584,
+    "en": "mining term 68",
+    "ru": "горный термин 68"
+  },
+  {
+    "id": 585,
+    "en": "mining term 69",
+    "ru": "горный термин 69"
+  },
+  {
+    "id": 586,
+    "en": "mining term 70",
+    "ru": "горный термин 70"
+  },
+  {
+    "id": 587,
+    "en": "mining term 71",
+    "ru": "горный термин 71"
+  },
+  {
+    "id": 588,
+    "en": "mining term 72",
+    "ru": "горный термин 72"
+  },
+  {
+    "id": 589,
+    "en": "mining term 73",
+    "ru": "горный термин 73"
+  },
+  {
+    "id": 590,
+    "en": "mining term 74",
+    "ru": "горный термин 74"
+  },
+  {
+    "id": 591,
+    "en": "mining term 75",
+    "ru": "горный термин 75"
+  },
+  {
+    "id": 592,
+    "en": "mining term 76",
+    "ru": "горный термин 76"
+  },
+  {
+    "id": 593,
+    "en": "mining term 77",
+    "ru": "горный термин 77"
+  },
+  {
+    "id": 594,
+    "en": "mining term 78",
+    "ru": "горный термин 78"
+  },
+  {
+    "id": 595,
+    "en": "mining term 79",
+    "ru": "горный термин 79"
+  },
+  {
+    "id": 596,
+    "en": "mining term 80",
+    "ru": "горный термин 80"
+  },
+  {
+    "id": 597,
+    "en": "mining term 81",
+    "ru": "горный термин 81"
+  },
+  {
+    "id": 598,
+    "en": "mining term 82",
+    "ru": "горный термин 82"
+  },
+  {
+    "id": 599,
+    "en": "mining term 83",
+    "ru": "горный термин 83"
+  },
+  {
+    "id": 600,
+    "en": "mining term 84",
+    "ru": "горный термин 84"
+  },
+  {
+    "id": 601,
+    "en": "mining term 85",
+    "ru": "горный термин 85"
+  },
+  {
+    "id": 602,
+    "en": "mining term 86",
+    "ru": "горный термин 86"
+  },
+  {
+    "id": 603,
+    "en": "mining term 87",
+    "ru": "горный термин 87"
+  },
+  {
+    "id": 604,
+    "en": "mining term 88",
+    "ru": "горный термин 88"
+  },
+  {
+    "id": 605,
+    "en": "mining term 89",
+    "ru": "горный термин 89"
+  },
+  {
+    "id": 606,
+    "en": "mining term 90",
+    "ru": "горный термин 90"
+  },
+  {
+    "id": 607,
+    "en": "mining term 91",
+    "ru": "горный термин 91"
+  },
+  {
+    "id": 608,
+    "en": "mining term 92",
+    "ru": "горный термин 92"
+  },
+  {
+    "id": 609,
+    "en": "mining term 93",
+    "ru": "горный термин 93"
+  },
+  {
+    "id": 610,
+    "en": "mining term 94",
+    "ru": "горный термин 94"
+  },
+  {
+    "id": 611,
+    "en": "mining term 95",
+    "ru": "горный термин 95"
+  },
+  {
+    "id": 612,
+    "en": "mining term 96",
+    "ru": "горный термин 96"
+  },
+  {
+    "id": 613,
+    "en": "mining term 97",
+    "ru": "горный термин 97"
+  },
+  {
+    "id": 614,
+    "en": "mining term 98",
+    "ru": "горный термин 98"
+  },
+  {
+    "id": 615,
+    "en": "mining term 99",
+    "ru": "горный термин 99"
+  },
+  {
+    "id": 616,
+    "en": "mining term 100",
+    "ru": "горный термин 100"
+  },
+  {
+    "id": 617,
+    "en": "mining term 101",
+    "ru": "горный термин 101"
+  },
+  {
+    "id": 618,
+    "en": "mining term 102",
+    "ru": "горный термин 102"
+  },
+  {
+    "id": 619,
+    "en": "mining term 103",
+    "ru": "горный термин 103"
+  },
+  {
+    "id": 620,
+    "en": "mining term 104",
+    "ru": "горный термин 104"
+  },
+  {
+    "id": 621,
+    "en": "mining term 105",
+    "ru": "горный термин 105"
+  },
+  {
+    "id": 622,
+    "en": "mining term 106",
+    "ru": "горный термин 106"
+  },
+  {
+    "id": 623,
+    "en": "mining term 107",
+    "ru": "горный термин 107"
+  },
+  {
+    "id": 624,
+    "en": "mining term 108",
+    "ru": "горный термин 108"
+  },
+  {
+    "id": 625,
+    "en": "mining term 109",
+    "ru": "горный термин 109"
+  },
+  {
+    "id": 626,
+    "en": "mining term 110",
+    "ru": "горный термин 110"
+  },
+  {
+    "id": 627,
+    "en": "mining term 111",
+    "ru": "горный термин 111"
+  },
+  {
+    "id": 628,
+    "en": "mining term 112",
+    "ru": "горный термин 112"
+  },
+  {
+    "id": 629,
+    "en": "mining term 113",
+    "ru": "горный термин 113"
+  },
+  {
+    "id": 630,
+    "en": "mining term 114",
+    "ru": "горный термин 114"
+  },
+  {
+    "id": 631,
+    "en": "mining term 115",
+    "ru": "горный термин 115"
+  },
+  {
+    "id": 632,
+    "en": "mining term 116",
+    "ru": "горный термин 116"
+  },
+  {
+    "id": 633,
+    "en": "mining term 117",
+    "ru": "горный термин 117"
+  },
+  {
+    "id": 634,
+    "en": "mining term 118",
+    "ru": "горный термин 118"
+  },
+  {
+    "id": 635,
+    "en": "mining term 119",
+    "ru": "горный термин 119"
+  },
+  {
+    "id": 636,
+    "en": "mining term 120",
+    "ru": "горный термин 120"
+  },
+  {
+    "id": 637,
+    "en": "mining term 121",
+    "ru": "горный термин 121"
+  },
+  {
+    "id": 638,
+    "en": "mining term 122",
+    "ru": "горный термин 122"
+  },
+  {
+    "id": 639,
+    "en": "mining term 123",
+    "ru": "горный термин 123"
+  },
+  {
+    "id": 640,
+    "en": "mining term 124",
+    "ru": "горный термин 124"
+  },
+  {
+    "id": 641,
+    "en": "mining term 125",
+    "ru": "горный термин 125"
+  },
+  {
+    "id": 642,
+    "en": "mining term 126",
+    "ru": "горный термин 126"
+  },
+  {
+    "id": 643,
+    "en": "mining term 127",
+    "ru": "горный термин 127"
+  },
+  {
+    "id": 644,
+    "en": "mining term 128",
+    "ru": "горный термин 128"
+  },
+  {
+    "id": 645,
+    "en": "mining term 129",
+    "ru": "горный термин 129"
+  },
+  {
+    "id": 646,
+    "en": "mining term 130",
+    "ru": "горный термин 130"
+  },
+  {
+    "id": 647,
+    "en": "mining term 131",
+    "ru": "горный термин 131"
+  },
+  {
+    "id": 648,
+    "en": "mining term 132",
+    "ru": "горный термин 132"
+  },
+  {
+    "id": 649,
+    "en": "mining term 133",
+    "ru": "горный термин 133"
+  },
+  {
+    "id": 650,
+    "en": "mining term 134",
+    "ru": "горный термин 134"
+  },
+  {
+    "id": 651,
+    "en": "mining term 135",
+    "ru": "горный термин 135"
+  },
+  {
+    "id": 652,
+    "en": "mining term 136",
+    "ru": "горный термин 136"
+  },
+  {
+    "id": 653,
+    "en": "mining term 137",
+    "ru": "горный термин 137"
+  },
+  {
+    "id": 654,
+    "en": "mining term 138",
+    "ru": "горный термин 138"
+  },
+  {
+    "id": 655,
+    "en": "mining term 139",
+    "ru": "горный термин 139"
+  },
+  {
+    "id": 656,
+    "en": "mining term 140",
+    "ru": "горный термин 140"
+  },
+  {
+    "id": 657,
+    "en": "mining term 141",
+    "ru": "горный термин 141"
+  },
+  {
+    "id": 658,
+    "en": "mining term 142",
+    "ru": "горный термин 142"
+  },
+  {
+    "id": 659,
+    "en": "mining term 143",
+    "ru": "горный термин 143"
+  },
+  {
+    "id": 660,
+    "en": "mining term 144",
+    "ru": "горный термин 144"
+  },
+  {
+    "id": 661,
+    "en": "mining term 145",
+    "ru": "горный термин 145"
+  },
+  {
+    "id": 662,
+    "en": "mining term 146",
+    "ru": "горный термин 146"
+  },
+  {
+    "id": 663,
+    "en": "mining term 147",
+    "ru": "горный термин 147"
+  },
+  {
+    "id": 664,
+    "en": "mining term 148",
+    "ru": "горный термин 148"
+  },
+  {
+    "id": 665,
+    "en": "mining term 149",
+    "ru": "горный термин 149"
+  },
+  {
+    "id": 666,
+    "en": "mining term 150",
+    "ru": "горный термин 150"
+  },
+  {
+    "id": 667,
+    "en": "mining term 151",
+    "ru": "горный термин 151"
+  },
+  {
+    "id": 668,
+    "en": "mining term 152",
+    "ru": "горный термин 152"
+  },
+  {
+    "id": 669,
+    "en": "mining term 153",
+    "ru": "горный термин 153"
+  },
+  {
+    "id": 670,
+    "en": "mining term 154",
+    "ru": "горный термин 154"
+  },
+  {
+    "id": 671,
+    "en": "mining term 155",
+    "ru": "горный термин 155"
+  },
+  {
+    "id": 672,
+    "en": "mining term 156",
+    "ru": "горный термин 156"
+  },
+  {
+    "id": 673,
+    "en": "mining term 157",
+    "ru": "горный термин 157"
+  },
+  {
+    "id": 674,
+    "en": "mining term 158",
+    "ru": "горный термин 158"
+  },
+  {
+    "id": 675,
+    "en": "mining term 159",
+    "ru": "горный термин 159"
+  },
+  {
+    "id": 676,
+    "en": "mining term 160",
+    "ru": "горный термин 160"
+  },
+  {
+    "id": 677,
+    "en": "mining term 161",
+    "ru": "горный термин 161"
+  },
+  {
+    "id": 678,
+    "en": "mining term 162",
+    "ru": "горный термин 162"
+  },
+  {
+    "id": 679,
+    "en": "mining term 163",
+    "ru": "горный термин 163"
+  },
+  {
+    "id": 680,
+    "en": "mining term 164",
+    "ru": "горный термин 164"
+  },
+  {
+    "id": 681,
+    "en": "mining term 165",
+    "ru": "горный термин 165"
+  },
+  {
+    "id": 682,
+    "en": "mining term 166",
+    "ru": "горный термин 166"
+  },
+  {
+    "id": 683,
+    "en": "mining term 167",
+    "ru": "горный термин 167"
+  },
+  {
+    "id": 684,
+    "en": "mining term 168",
+    "ru": "горный термин 168"
+  },
+  {
+    "id": 685,
+    "en": "mining term 169",
+    "ru": "горный термин 169"
+  },
+  {
+    "id": 686,
+    "en": "mining term 170",
+    "ru": "горный термин 170"
+  },
+  {
+    "id": 687,
+    "en": "mining term 171",
+    "ru": "горный термин 171"
+  },
+  {
+    "id": 688,
+    "en": "mining term 172",
+    "ru": "горный термин 172"
+  },
+  {
+    "id": 689,
+    "en": "mining term 173",
+    "ru": "горный термин 173"
+  },
+  {
+    "id": 690,
+    "en": "mining term 174",
+    "ru": "горный термин 174"
+  },
+  {
+    "id": 691,
+    "en": "mining term 175",
+    "ru": "горный термин 175"
+  },
+  {
+    "id": 692,
+    "en": "mining term 176",
+    "ru": "горный термин 176"
+  },
+  {
+    "id": 693,
+    "en": "mining term 177",
+    "ru": "горный термин 177"
+  },
+  {
+    "id": 694,
+    "en": "mining term 178",
+    "ru": "горный термин 178"
+  },
+  {
+    "id": 695,
+    "en": "mining term 179",
+    "ru": "горный термин 179"
+  },
+  {
+    "id": 696,
+    "en": "mining term 180",
+    "ru": "горный термин 180"
+  },
+  {
+    "id": 697,
+    "en": "mining term 181",
+    "ru": "горный термин 181"
+  },
+  {
+    "id": 698,
+    "en": "mining term 182",
+    "ru": "горный термин 182"
+  },
+  {
+    "id": 699,
+    "en": "mining term 183",
+    "ru": "горный термин 183"
+  },
+  {
+    "id": 700,
+    "en": "mining term 184",
+    "ru": "горный термин 184"
+  },
+  {
+    "id": 701,
+    "en": "mining term 185",
+    "ru": "горный термин 185"
+  },
+  {
+    "id": 702,
+    "en": "mining term 186",
+    "ru": "горный термин 186"
+  },
+  {
+    "id": 703,
+    "en": "mining term 187",
+    "ru": "горный термин 187"
+  },
+  {
+    "id": 704,
+    "en": "mining term 188",
+    "ru": "горный термин 188"
+  },
+  {
+    "id": 705,
+    "en": "mining term 189",
+    "ru": "горный термин 189"
+  },
+  {
+    "id": 706,
+    "en": "mining term 190",
+    "ru": "горный термин 190"
+  },
+  {
+    "id": 707,
+    "en": "mining term 191",
+    "ru": "горный термин 191"
+  },
+  {
+    "id": 708,
+    "en": "mining term 192",
+    "ru": "горный термин 192"
+  },
+  {
+    "id": 709,
+    "en": "mining term 193",
+    "ru": "горный термин 193"
+  },
+  {
+    "id": 710,
+    "en": "mining term 194",
+    "ru": "горный термин 194"
+  },
+  {
+    "id": 711,
+    "en": "mining term 195",
+    "ru": "горный термин 195"
+  },
+  {
+    "id": 712,
+    "en": "mining term 196",
+    "ru": "горный термин 196"
+  },
+  {
+    "id": 713,
+    "en": "mining term 197",
+    "ru": "горный термин 197"
+  },
+  {
+    "id": 714,
+    "en": "mining term 198",
+    "ru": "горный термин 198"
+  },
+  {
+    "id": 715,
+    "en": "mining term 199",
+    "ru": "горный термин 199"
+  },
+  {
+    "id": 716,
+    "en": "mining term 200",
+    "ru": "горный термин 200"
+  },
+  {
+    "id": 717,
+    "en": "mining term 201",
+    "ru": "горный термин 201"
+  },
+  {
+    "id": 718,
+    "en": "mining term 202",
+    "ru": "горный термин 202"
+  },
+  {
+    "id": 719,
+    "en": "mining term 203",
+    "ru": "горный термин 203"
+  },
+  {
+    "id": 720,
+    "en": "mining term 204",
+    "ru": "горный термин 204"
+  },
+  {
+    "id": 721,
+    "en": "mining term 205",
+    "ru": "горный термин 205"
+  },
+  {
+    "id": 722,
+    "en": "mining term 206",
+    "ru": "горный термин 206"
+  },
+  {
+    "id": 723,
+    "en": "mining term 207",
+    "ru": "горный термин 207"
+  },
+  {
+    "id": 724,
+    "en": "mining term 208",
+    "ru": "горный термин 208"
+  },
+  {
+    "id": 725,
+    "en": "mining term 209",
+    "ru": "горный термин 209"
+  },
+  {
+    "id": 726,
+    "en": "mining term 210",
+    "ru": "горный термин 210"
+  },
+  {
+    "id": 727,
+    "en": "mining term 211",
+    "ru": "горный термин 211"
+  },
+  {
+    "id": 728,
+    "en": "mining term 212",
+    "ru": "горный термин 212"
+  },
+  {
+    "id": 729,
+    "en": "mining term 213",
+    "ru": "горный термин 213"
+  },
+  {
+    "id": 730,
+    "en": "mining term 214",
+    "ru": "горный термин 214"
+  },
+  {
+    "id": 731,
+    "en": "mining term 215",
+    "ru": "горный термин 215"
+  },
+  {
+    "id": 732,
+    "en": "mining term 216",
+    "ru": "горный термин 216"
+  },
+  {
+    "id": 733,
+    "en": "mining term 217",
+    "ru": "горный термин 217"
+  },
+  {
+    "id": 734,
+    "en": "mining term 218",
+    "ru": "горный термин 218"
+  },
+  {
+    "id": 735,
+    "en": "mining term 219",
+    "ru": "горный термин 219"
+  },
+  {
+    "id": 736,
+    "en": "mining term 220",
+    "ru": "горный термин 220"
+  },
+  {
+    "id": 737,
+    "en": "mining term 221",
+    "ru": "горный термин 221"
+  },
+  {
+    "id": 738,
+    "en": "mining term 222",
+    "ru": "горный термин 222"
+  },
+  {
+    "id": 739,
+    "en": "mining term 223",
+    "ru": "горный термин 223"
+  },
+  {
+    "id": 740,
+    "en": "mining term 224",
+    "ru": "горный термин 224"
+  },
+  {
+    "id": 741,
+    "en": "mining term 225",
+    "ru": "горный термин 225"
+  },
+  {
+    "id": 742,
+    "en": "mining term 226",
+    "ru": "горный термин 226"
+  },
+  {
+    "id": 743,
+    "en": "mining term 227",
+    "ru": "горный термин 227"
+  },
+  {
+    "id": 744,
+    "en": "mining term 228",
+    "ru": "горный термин 228"
+  },
+  {
+    "id": 745,
+    "en": "mining term 229",
+    "ru": "горный термин 229"
+  },
+  {
+    "id": 746,
+    "en": "mining term 230",
+    "ru": "горный термин 230"
+  },
+  {
+    "id": 747,
+    "en": "mining term 231",
+    "ru": "горный термин 231"
+  },
+  {
+    "id": 748,
+    "en": "mining term 232",
+    "ru": "горный термин 232"
+  },
+  {
+    "id": 749,
+    "en": "mining term 233",
+    "ru": "горный термин 233"
+  },
+  {
+    "id": 750,
+    "en": "mining term 234",
+    "ru": "горный термин 234"
+  },
+  {
+    "id": 751,
+    "en": "mining term 235",
+    "ru": "горный термин 235"
+  },
+  {
+    "id": 752,
+    "en": "mining term 236",
+    "ru": "горный термин 236"
+  },
+  {
+    "id": 753,
+    "en": "mining term 237",
+    "ru": "горный термин 237"
+  },
+  {
+    "id": 754,
+    "en": "mining term 238",
+    "ru": "горный термин 238"
+  },
+  {
+    "id": 755,
+    "en": "mining term 239",
+    "ru": "горный термин 239"
+  },
+  {
+    "id": 756,
+    "en": "mining term 240",
+    "ru": "горный термин 240"
+  },
+  {
+    "id": 757,
+    "en": "mining term 241",
+    "ru": "горный термин 241"
+  },
+  {
+    "id": 758,
+    "en": "mining term 242",
+    "ru": "горный термин 242"
+  },
+  {
+    "id": 759,
+    "en": "mining term 243",
+    "ru": "горный термин 243"
+  },
+  {
+    "id": 760,
+    "en": "mining term 244",
+    "ru": "горный термин 244"
+  },
+  {
+    "id": 761,
+    "en": "mining term 245",
+    "ru": "горный термин 245"
+  },
+  {
+    "id": 762,
+    "en": "mining term 246",
+    "ru": "горный термин 246"
+  },
+  {
+    "id": 763,
+    "en": "mining term 247",
+    "ru": "горный термин 247"
+  },
+  {
+    "id": 764,
+    "en": "mining term 248",
+    "ru": "горный термин 248"
+  },
+  {
+    "id": 765,
+    "en": "mining term 249",
+    "ru": "горный термин 249"
+  },
+  {
+    "id": 766,
+    "en": "mining term 250",
+    "ru": "горный термин 250"
+  },
+  {
+    "id": 767,
+    "en": "mining term 251",
+    "ru": "горный термин 251"
+  },
+  {
+    "id": 768,
+    "en": "mining term 252",
+    "ru": "горный термин 252"
+  },
+  {
+    "id": 769,
+    "en": "mining term 253",
+    "ru": "горный термин 253"
+  },
+  {
+    "id": 770,
+    "en": "mining term 254",
+    "ru": "горный термин 254"
+  },
+  {
+    "id": 771,
+    "en": "mining term 255",
+    "ru": "горный термин 255"
+  },
+  {
+    "id": 772,
+    "en": "mining term 256",
+    "ru": "горный термин 256"
+  },
+  {
+    "id": 773,
+    "en": "mining term 257",
+    "ru": "горный термин 257"
+  },
+  {
+    "id": 774,
+    "en": "mining term 258",
+    "ru": "горный термин 258"
+  },
+  {
+    "id": 775,
+    "en": "mining term 259",
+    "ru": "горный термин 259"
+  },
+  {
+    "id": 776,
+    "en": "mining term 260",
+    "ru": "горный термин 260"
+  },
+  {
+    "id": 777,
+    "en": "mining term 261",
+    "ru": "горный термин 261"
+  },
+  {
+    "id": 778,
+    "en": "mining term 262",
+    "ru": "горный термин 262"
+  },
+  {
+    "id": 779,
+    "en": "mining term 263",
+    "ru": "горный термин 263"
+  },
+  {
+    "id": 780,
+    "en": "mining term 264",
+    "ru": "горный термин 264"
+  },
+  {
+    "id": 781,
+    "en": "mining term 265",
+    "ru": "горный термин 265"
+  },
+  {
+    "id": 782,
+    "en": "mining term 266",
+    "ru": "горный термин 266"
+  },
+  {
+    "id": 783,
+    "en": "mining term 267",
+    "ru": "горный термин 267"
+  },
+  {
+    "id": 784,
+    "en": "mining term 268",
+    "ru": "горный термин 268"
+  },
+  {
+    "id": 785,
+    "en": "mining term 269",
+    "ru": "горный термин 269"
+  },
+  {
+    "id": 786,
+    "en": "mining term 270",
+    "ru": "горный термин 270"
+  },
+  {
+    "id": 787,
+    "en": "mining term 271",
+    "ru": "горный термин 271"
+  },
+  {
+    "id": 788,
+    "en": "mining term 272",
+    "ru": "горный термин 272"
+  },
+  {
+    "id": 789,
+    "en": "mining term 273",
+    "ru": "горный термин 273"
+  },
+  {
+    "id": 790,
+    "en": "mining term 274",
+    "ru": "горный термин 274"
+  },
+  {
+    "id": 791,
+    "en": "mining term 275",
+    "ru": "горный термин 275"
+  },
+  {
+    "id": 792,
+    "en": "mining term 276",
+    "ru": "горный термин 276"
+  },
+  {
+    "id": 793,
+    "en": "mining term 277",
+    "ru": "горный термин 277"
+  },
+  {
+    "id": 794,
+    "en": "mining term 278",
+    "ru": "горный термин 278"
+  },
+  {
+    "id": 795,
+    "en": "mining term 279",
+    "ru": "горный термин 279"
+  },
+  {
+    "id": 796,
+    "en": "mining term 280",
+    "ru": "горный термин 280"
+  },
+  {
+    "id": 797,
+    "en": "mining term 281",
+    "ru": "горный термин 281"
+  },
+  {
+    "id": 798,
+    "en": "mining term 282",
+    "ru": "горный термин 282"
+  },
+  {
+    "id": 799,
+    "en": "mining term 283",
+    "ru": "горный термин 283"
+  },
+  {
+    "id": 800,
+    "en": "mining term 284",
+    "ru": "горный термин 284"
+  },
+  {
+    "id": 801,
+    "en": "mining term 285",
+    "ru": "горный термин 285"
+  },
+  {
+    "id": 802,
+    "en": "mining term 286",
+    "ru": "горный термин 286"
+  },
+  {
+    "id": 803,
+    "en": "mining term 287",
+    "ru": "горный термин 287"
+  },
+  {
+    "id": 804,
+    "en": "mining term 288",
+    "ru": "горный термин 288"
+  },
+  {
+    "id": 805,
+    "en": "mining term 289",
+    "ru": "горный термин 289"
+  },
+  {
+    "id": 806,
+    "en": "mining term 290",
+    "ru": "горный термин 290"
+  },
+  {
+    "id": 807,
+    "en": "mining term 291",
+    "ru": "горный термин 291"
+  },
+  {
+    "id": 808,
+    "en": "mining term 292",
+    "ru": "горный термин 292"
+  },
+  {
+    "id": 809,
+    "en": "mining term 293",
+    "ru": "горный термин 293"
+  },
+  {
+    "id": 810,
+    "en": "mining term 294",
+    "ru": "горный термин 294"
+  },
+  {
+    "id": 811,
+    "en": "mining term 295",
+    "ru": "горный термин 295"
+  },
+  {
+    "id": 812,
+    "en": "mining term 296",
+    "ru": "горный термин 296"
+  },
+  {
+    "id": 813,
+    "en": "mining term 297",
+    "ru": "горный термин 297"
+  },
+  {
+    "id": 814,
+    "en": "mining term 298",
+    "ru": "горный термин 298"
+  },
+  {
+    "id": 815,
+    "en": "mining term 299",
+    "ru": "горный термин 299"
+  },
+  {
+    "id": 816,
+    "en": "mining term 300",
+    "ru": "горный термин 300"
+  },
+  {
+    "id": 817,
+    "en": "mining term 301",
+    "ru": "горный термин 301"
+  },
+  {
+    "id": 818,
+    "en": "mining term 302",
+    "ru": "горный термин 302"
+  },
+  {
+    "id": 819,
+    "en": "mining term 303",
+    "ru": "горный термин 303"
+  },
+  {
+    "id": 820,
+    "en": "mining term 304",
+    "ru": "горный термин 304"
+  },
+  {
+    "id": 821,
+    "en": "mining term 305",
+    "ru": "горный термин 305"
+  },
+  {
+    "id": 822,
+    "en": "mining term 306",
+    "ru": "горный термин 306"
+  },
+  {
+    "id": 823,
+    "en": "mining term 307",
+    "ru": "горный термин 307"
+  },
+  {
+    "id": 824,
+    "en": "mining term 308",
+    "ru": "горный термин 308"
+  },
+  {
+    "id": 825,
+    "en": "mining term 309",
+    "ru": "горный термин 309"
+  },
+  {
+    "id": 826,
+    "en": "mining term 310",
+    "ru": "горный термин 310"
+  },
+  {
+    "id": 827,
+    "en": "mining term 311",
+    "ru": "горный термин 311"
+  },
+  {
+    "id": 828,
+    "en": "mining term 312",
+    "ru": "горный термин 312"
+  },
+  {
+    "id": 829,
+    "en": "mining term 313",
+    "ru": "горный термин 313"
+  },
+  {
+    "id": 830,
+    "en": "mining term 314",
+    "ru": "горный термин 314"
+  },
+  {
+    "id": 831,
+    "en": "mining term 315",
+    "ru": "горный термин 315"
+  },
+  {
+    "id": 832,
+    "en": "mining term 316",
+    "ru": "горный термин 316"
+  },
+  {
+    "id": 833,
+    "en": "mining term 317",
+    "ru": "горный термин 317"
+  },
+  {
+    "id": 834,
+    "en": "mining term 318",
+    "ru": "горный термин 318"
+  },
+  {
+    "id": 835,
+    "en": "mining term 319",
+    "ru": "горный термин 319"
+  },
+  {
+    "id": 836,
+    "en": "mining term 320",
+    "ru": "горный термин 320"
+  },
+  {
+    "id": 837,
+    "en": "mining term 321",
+    "ru": "горный термин 321"
+  },
+  {
+    "id": 838,
+    "en": "mining term 322",
+    "ru": "горный термин 322"
+  },
+  {
+    "id": 839,
+    "en": "mining term 323",
+    "ru": "горный термин 323"
+  },
+  {
+    "id": 840,
+    "en": "mining term 324",
+    "ru": "горный термин 324"
+  },
+  {
+    "id": 841,
+    "en": "mining term 325",
+    "ru": "горный термин 325"
+  },
+  {
+    "id": 842,
+    "en": "mining term 326",
+    "ru": "горный термин 326"
+  },
+  {
+    "id": 843,
+    "en": "mining term 327",
+    "ru": "горный термин 327"
+  },
+  {
+    "id": 844,
+    "en": "mining term 328",
+    "ru": "горный термин 328"
+  },
+  {
+    "id": 845,
+    "en": "mining term 329",
+    "ru": "горный термин 329"
+  },
+  {
+    "id": 846,
+    "en": "mining term 330",
+    "ru": "горный термин 330"
+  },
+  {
+    "id": 847,
+    "en": "mining term 331",
+    "ru": "горный термин 331"
+  },
+  {
+    "id": 848,
+    "en": "mining term 332",
+    "ru": "горный термин 332"
+  },
+  {
+    "id": 849,
+    "en": "mining term 333",
+    "ru": "горный термин 333"
+  },
+  {
+    "id": 850,
+    "en": "mining term 334",
+    "ru": "горный термин 334"
+  },
+  {
+    "id": 851,
+    "en": "mining term 335",
+    "ru": "горный термин 335"
+  },
+  {
+    "id": 852,
+    "en": "mining term 336",
+    "ru": "горный термин 336"
+  },
+  {
+    "id": 853,
+    "en": "mining term 337",
+    "ru": "горный термин 337"
+  },
+  {
+    "id": 854,
+    "en": "mining term 338",
+    "ru": "горный термин 338"
+  },
+  {
+    "id": 855,
+    "en": "mining term 339",
+    "ru": "горный термин 339"
+  },
+  {
+    "id": 856,
+    "en": "mining term 340",
+    "ru": "горный термин 340"
+  },
+  {
+    "id": 857,
+    "en": "mining term 341",
+    "ru": "горный термин 341"
+  },
+  {
+    "id": 858,
+    "en": "mining term 342",
+    "ru": "горный термин 342"
+  },
+  {
+    "id": 859,
+    "en": "mining term 343",
+    "ru": "горный термин 343"
+  },
+  {
+    "id": 860,
+    "en": "mining term 344",
+    "ru": "горный термин 344"
+  },
+  {
+    "id": 861,
+    "en": "mining term 345",
+    "ru": "горный термин 345"
+  },
+  {
+    "id": 862,
+    "en": "mining term 346",
+    "ru": "горный термин 346"
+  },
+  {
+    "id": 863,
+    "en": "mining term 347",
+    "ru": "горный термин 347"
+  },
+  {
+    "id": 864,
+    "en": "mining term 348",
+    "ru": "горный термин 348"
+  },
+  {
+    "id": 865,
+    "en": "mining term 349",
+    "ru": "горный термин 349"
+  },
+  {
+    "id": 866,
+    "en": "mining term 350",
+    "ru": "горный термин 350"
+  },
+  {
+    "id": 867,
+    "en": "mining term 351",
+    "ru": "горный термин 351"
+  },
+  {
+    "id": 868,
+    "en": "mining term 352",
+    "ru": "горный термин 352"
+  },
+  {
+    "id": 869,
+    "en": "mining term 353",
+    "ru": "горный термин 353"
+  },
+  {
+    "id": 870,
+    "en": "mining term 354",
+    "ru": "горный термин 354"
+  },
+  {
+    "id": 871,
+    "en": "mining term 355",
+    "ru": "горный термин 355"
+  },
+  {
+    "id": 872,
+    "en": "mining term 356",
+    "ru": "горный термин 356"
+  },
+  {
+    "id": 873,
+    "en": "mining term 357",
+    "ru": "горный термин 357"
+  },
+  {
+    "id": 874,
+    "en": "mining term 358",
+    "ru": "горный термин 358"
+  },
+  {
+    "id": 875,
+    "en": "mining term 359",
+    "ru": "горный термин 359"
+  },
+  {
+    "id": 876,
+    "en": "mining term 360",
+    "ru": "горный термин 360"
+  },
+  {
+    "id": 877,
+    "en": "mining term 361",
+    "ru": "горный термин 361"
+  },
+  {
+    "id": 878,
+    "en": "mining term 362",
+    "ru": "горный термин 362"
+  },
+  {
+    "id": 879,
+    "en": "mining term 363",
+    "ru": "горный термин 363"
+  },
+  {
+    "id": 880,
+    "en": "mining term 364",
+    "ru": "горный термин 364"
+  },
+  {
+    "id": 881,
+    "en": "mining term 365",
+    "ru": "горный термин 365"
+  },
+  {
+    "id": 882,
+    "en": "mining term 366",
+    "ru": "горный термин 366"
+  },
+  {
+    "id": 883,
+    "en": "mining term 367",
+    "ru": "горный термин 367"
+  },
+  {
+    "id": 884,
+    "en": "mining term 368",
+    "ru": "горный термин 368"
+  },
+  {
+    "id": 885,
+    "en": "mining term 369",
+    "ru": "горный термин 369"
+  },
+  {
+    "id": 886,
+    "en": "mining term 370",
+    "ru": "горный термин 370"
+  },
+  {
+    "id": 887,
+    "en": "mining term 371",
+    "ru": "горный термин 371"
+  },
+  {
+    "id": 888,
+    "en": "mining term 372",
+    "ru": "горный термин 372"
+  },
+  {
+    "id": 889,
+    "en": "mining term 373",
+    "ru": "горный термин 373"
+  },
+  {
+    "id": 890,
+    "en": "mining term 374",
+    "ru": "горный термин 374"
+  },
+  {
+    "id": 891,
+    "en": "mining term 375",
+    "ru": "горный термин 375"
+  },
+  {
+    "id": 892,
+    "en": "mining term 376",
+    "ru": "горный термин 376"
+  },
+  {
+    "id": 893,
+    "en": "mining term 377",
+    "ru": "горный термин 377"
+  },
+  {
+    "id": 894,
+    "en": "mining term 378",
+    "ru": "горный термин 378"
+  },
+  {
+    "id": 895,
+    "en": "mining term 379",
+    "ru": "горный термин 379"
+  },
+  {
+    "id": 896,
+    "en": "mining term 380",
+    "ru": "горный термин 380"
+  },
+  {
+    "id": 897,
+    "en": "mining term 381",
+    "ru": "горный термин 381"
+  },
+  {
+    "id": 898,
+    "en": "mining term 382",
+    "ru": "горный термин 382"
+  },
+  {
+    "id": 899,
+    "en": "mining term 383",
+    "ru": "горный термин 383"
+  },
+  {
+    "id": 900,
+    "en": "mining term 384",
+    "ru": "горный термин 384"
+  },
+  {
+    "id": 901,
+    "en": "mining term 385",
+    "ru": "горный термин 385"
+  },
+  {
+    "id": 902,
+    "en": "mining term 386",
+    "ru": "горный термин 386"
+  },
+  {
+    "id": 903,
+    "en": "mining term 387",
+    "ru": "горный термин 387"
+  },
+  {
+    "id": 904,
+    "en": "mining term 388",
+    "ru": "горный термин 388"
+  },
+  {
+    "id": 905,
+    "en": "mining term 389",
+    "ru": "горный термин 389"
+  },
+  {
+    "id": 906,
+    "en": "mining term 390",
+    "ru": "горный термин 390"
+  },
+  {
+    "id": 907,
+    "en": "mining term 391",
+    "ru": "горный термин 391"
+  },
+  {
+    "id": 908,
+    "en": "mining term 392",
+    "ru": "горный термин 392"
+  },
+  {
+    "id": 909,
+    "en": "mining term 393",
+    "ru": "горный термин 393"
+  },
+  {
+    "id": 910,
+    "en": "mining term 394",
+    "ru": "горный термин 394"
+  },
+  {
+    "id": 911,
+    "en": "mining term 395",
+    "ru": "горный термин 395"
+  },
+  {
+    "id": 912,
+    "en": "mining term 396",
+    "ru": "горный термин 396"
+  },
+  {
+    "id": 913,
+    "en": "mining term 397",
+    "ru": "горный термин 397"
+  },
+  {
+    "id": 914,
+    "en": "mining term 398",
+    "ru": "горный термин 398"
+  },
+  {
+    "id": 915,
+    "en": "mining term 399",
+    "ru": "горный термин 399"
+  },
+  {
+    "id": 916,
+    "en": "mining term 400",
+    "ru": "горный термин 400"
+  },
+  {
+    "id": 917,
+    "en": "mining term 401",
+    "ru": "горный термин 401"
+  },
+  {
+    "id": 918,
+    "en": "mining term 402",
+    "ru": "горный термин 402"
+  },
+  {
+    "id": 919,
+    "en": "mining term 403",
+    "ru": "горный термин 403"
+  },
+  {
+    "id": 920,
+    "en": "mining term 404",
+    "ru": "горный термин 404"
+  },
+  {
+    "id": 921,
+    "en": "mining term 405",
+    "ru": "горный термин 405"
+  },
+  {
+    "id": 922,
+    "en": "mining term 406",
+    "ru": "горный термин 406"
+  },
+  {
+    "id": 923,
+    "en": "mining term 407",
+    "ru": "горный термин 407"
+  },
+  {
+    "id": 924,
+    "en": "mining term 408",
+    "ru": "горный термин 408"
+  },
+  {
+    "id": 925,
+    "en": "mining term 409",
+    "ru": "горный термин 409"
+  },
+  {
+    "id": 926,
+    "en": "mining term 410",
+    "ru": "горный термин 410"
+  },
+  {
+    "id": 927,
+    "en": "mining term 411",
+    "ru": "горный термин 411"
+  },
+  {
+    "id": 928,
+    "en": "mining term 412",
+    "ru": "горный термин 412"
+  },
+  {
+    "id": 929,
+    "en": "mining term 413",
+    "ru": "горный термин 413"
+  },
+  {
+    "id": 930,
+    "en": "mining term 414",
+    "ru": "горный термин 414"
+  },
+  {
+    "id": 931,
+    "en": "mining term 415",
+    "ru": "горный термин 415"
+  },
+  {
+    "id": 932,
+    "en": "mining term 416",
+    "ru": "горный термин 416"
+  },
+  {
+    "id": 933,
+    "en": "mining term 417",
+    "ru": "горный термин 417"
+  },
+  {
+    "id": 934,
+    "en": "mining term 418",
+    "ru": "горный термин 418"
+  },
+  {
+    "id": 935,
+    "en": "mining term 419",
+    "ru": "горный термин 419"
+  },
+  {
+    "id": 936,
+    "en": "mining term 420",
+    "ru": "горный термин 420"
+  },
+  {
+    "id": 937,
+    "en": "mining term 421",
+    "ru": "горный термин 421"
+  },
+  {
+    "id": 938,
+    "en": "mining term 422",
+    "ru": "горный термин 422"
+  },
+  {
+    "id": 939,
+    "en": "mining term 423",
+    "ru": "горный термин 423"
+  },
+  {
+    "id": 940,
+    "en": "mining term 424",
+    "ru": "горный термин 424"
+  },
+  {
+    "id": 941,
+    "en": "mining term 425",
+    "ru": "горный термин 425"
+  },
+  {
+    "id": 942,
+    "en": "mining term 426",
+    "ru": "горный термин 426"
+  },
+  {
+    "id": 943,
+    "en": "mining term 427",
+    "ru": "горный термин 427"
+  },
+  {
+    "id": 944,
+    "en": "mining term 428",
+    "ru": "горный термин 428"
+  },
+  {
+    "id": 945,
+    "en": "mining term 429",
+    "ru": "горный термин 429"
+  },
+  {
+    "id": 946,
+    "en": "mining term 430",
+    "ru": "горный термин 430"
+  },
+  {
+    "id": 947,
+    "en": "mining term 431",
+    "ru": "горный термин 431"
+  },
+  {
+    "id": 948,
+    "en": "mining term 432",
+    "ru": "горный термин 432"
+  },
+  {
+    "id": 949,
+    "en": "mining term 433",
+    "ru": "горный термин 433"
+  },
+  {
+    "id": 950,
+    "en": "mining term 434",
+    "ru": "горный термин 434"
+  },
+  {
+    "id": 951,
+    "en": "mining term 435",
+    "ru": "горный термин 435"
+  },
+  {
+    "id": 952,
+    "en": "mining term 436",
+    "ru": "горный термин 436"
+  },
+  {
+    "id": 953,
+    "en": "mining term 437",
+    "ru": "горный термин 437"
+  },
+  {
+    "id": 954,
+    "en": "mining term 438",
+    "ru": "горный термин 438"
+  },
+  {
+    "id": 955,
+    "en": "mining term 439",
+    "ru": "горный термин 439"
+  },
+  {
+    "id": 956,
+    "en": "mining term 440",
+    "ru": "горный термин 440"
+  },
+  {
+    "id": 957,
+    "en": "mining term 441",
+    "ru": "горный термин 441"
+  },
+  {
+    "id": 958,
+    "en": "mining term 442",
+    "ru": "горный термин 442"
+  },
+  {
+    "id": 959,
+    "en": "mining term 443",
+    "ru": "горный термин 443"
+  },
+  {
+    "id": 960,
+    "en": "mining term 444",
+    "ru": "горный термин 444"
+  },
+  {
+    "id": 961,
+    "en": "mining term 445",
+    "ru": "горный термин 445"
+  },
+  {
+    "id": 962,
+    "en": "mining term 446",
+    "ru": "горный термин 446"
+  },
+  {
+    "id": 963,
+    "en": "mining term 447",
+    "ru": "горный термин 447"
+  },
+  {
+    "id": 964,
+    "en": "mining term 448",
+    "ru": "горный термин 448"
+  },
+  {
+    "id": 965,
+    "en": "mining term 449",
+    "ru": "горный термин 449"
+  },
+  {
+    "id": 966,
+    "en": "mining term 450",
+    "ru": "горный термин 450"
+  },
+  {
+    "id": 967,
+    "en": "mining term 451",
+    "ru": "горный термин 451"
+  },
+  {
+    "id": 968,
+    "en": "mining term 452",
+    "ru": "горный термин 452"
+  },
+  {
+    "id": 969,
+    "en": "mining term 453",
+    "ru": "горный термин 453"
+  },
+  {
+    "id": 970,
+    "en": "mining term 454",
+    "ru": "горный термин 454"
+  },
+  {
+    "id": 971,
+    "en": "mining term 455",
+    "ru": "горный термин 455"
+  },
+  {
+    "id": 972,
+    "en": "mining term 456",
+    "ru": "горный термин 456"
+  },
+  {
+    "id": 973,
+    "en": "mining term 457",
+    "ru": "горный термин 457"
+  },
+  {
+    "id": 974,
+    "en": "mining term 458",
+    "ru": "горный термин 458"
+  },
+  {
+    "id": 975,
+    "en": "mining term 459",
+    "ru": "горный термин 459"
+  },
+  {
+    "id": 976,
+    "en": "mining term 460",
+    "ru": "горный термин 460"
+  },
+  {
+    "id": 977,
+    "en": "mining term 461",
+    "ru": "горный термин 461"
+  },
+  {
+    "id": 978,
+    "en": "mining term 462",
+    "ru": "горный термин 462"
+  },
+  {
+    "id": 979,
+    "en": "mining term 463",
+    "ru": "горный термин 463"
+  },
+  {
+    "id": 980,
+    "en": "mining term 464",
+    "ru": "горный термин 464"
+  },
+  {
+    "id": 981,
+    "en": "mining term 465",
+    "ru": "горный термин 465"
+  },
+  {
+    "id": 982,
+    "en": "mining term 466",
+    "ru": "горный термин 466"
+  },
+  {
+    "id": 983,
+    "en": "mining term 467",
+    "ru": "горный термин 467"
+  },
+  {
+    "id": 984,
+    "en": "mining term 468",
+    "ru": "горный термин 468"
+  },
+  {
+    "id": 985,
+    "en": "mining term 469",
+    "ru": "горный термин 469"
+  },
+  {
+    "id": 986,
+    "en": "mining term 470",
+    "ru": "горный термин 470"
+  },
+  {
+    "id": 987,
+    "en": "mining term 471",
+    "ru": "горный термин 471"
+  },
+  {
+    "id": 988,
+    "en": "mining term 472",
+    "ru": "горный термин 472"
+  },
+  {
+    "id": 989,
+    "en": "mining term 473",
+    "ru": "горный термин 473"
+  },
+  {
+    "id": 990,
+    "en": "mining term 474",
+    "ru": "горный термин 474"
+  },
+  {
+    "id": 991,
+    "en": "mining term 475",
+    "ru": "горный термин 475"
+  },
+  {
+    "id": 992,
+    "en": "mining term 476",
+    "ru": "горный термин 476"
+  },
+  {
+    "id": 993,
+    "en": "mining term 477",
+    "ru": "горный термин 477"
+  },
+  {
+    "id": 994,
+    "en": "mining term 478",
+    "ru": "горный термин 478"
+  },
+  {
+    "id": 995,
+    "en": "mining term 479",
+    "ru": "горный термин 479"
+  },
+  {
+    "id": 996,
+    "en": "mining term 480",
+    "ru": "горный термин 480"
+  },
+  {
+    "id": 997,
+    "en": "mining term 481",
+    "ru": "горный термин 481"
+  },
+  {
+    "id": 998,
+    "en": "mining term 482",
+    "ru": "горный термин 482"
+  },
+  {
+    "id": 999,
+    "en": "mining term 483",
+    "ru": "горный термин 483"
+  },
+  {
+    "id": 1000,
+    "en": "mining term 484",
+    "ru": "горный термин 484"
+  }
+]
