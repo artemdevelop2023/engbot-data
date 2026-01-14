@@ -1,0 +1,5002 @@
+[
+  {
+    "id": 1,
+    "en": "loader",
+    "ru": "погрузчик"
+  },
+  {
+    "id": 2,
+    "en": "underground loader",
+    "ru": "подземный погрузчик"
+  },
+  {
+    "id": 3,
+    "en": "truck",
+    "ru": "самосвал"
+  },
+  {
+    "id": 4,
+    "en": "dump truck",
+    "ru": "самосвал"
+  },
+  {
+    "id": 5,
+    "en": "drill rig",
+    "ru": "буровая установка"
+  },
+  {
+    "id": 6,
+    "en": "jumbo",
+    "ru": "буровой джамбо"
+  },
+  {
+    "id": 7,
+    "en": "bolter",
+    "ru": "анкероустановщик"
+  },
+  {
+    "id": 8,
+    "en": "scissor lift",
+    "ru": "ножничный подъемник"
+  },
+  {
+    "id": 9,
+    "en": "shotcrete sprayer",
+    "ru": "торкрет-установка"
+  },
+  {
+    "id": 10,
+    "en": "mixer truck",
+    "ru": "миксер"
+  },
+  {
+    "id": 11,
+    "en": "compressor",
+    "ru": "компрессор"
+  },
+  {
+    "id": 12,
+    "en": "generator",
+    "ru": "генератор"
+  },
+  {
+    "id": 13,
+    "en": "pump",
+    "ru": "насос"
+  },
+  {
+    "id": 14,
+    "en": "submersible pump",
+    "ru": "погружной насос"
+  },
+  {
+    "id": 15,
+    "en": "fan",
+    "ru": "вентилятор"
+  },
+  {
+    "id": 16,
+    "en": "auxiliary fan",
+    "ru": "вентилятор местного проветривания"
+  },
+  {
+    "id": 17,
+    "en": "conveyor",
+    "ru": "конвейер"
+  },
+  {
+    "id": 18,
+    "en": "crusher",
+    "ru": "дробилка"
+  },
+  {
+    "id": 19,
+    "en": "mill",
+    "ru": "мельница"
+  },
+  {
+    "id": 20,
+    "en": "thickener",
+    "ru": "сгуститель"
+  },
+  {
+    "id": 21,
+    "en": "screen",
+    "ru": "грохот"
+  },
+  {
+    "id": 22,
+    "en": "cyclone",
+    "ru": "гидроциклон"
+  },
+  {
+    "id": 23,
+    "en": "filter press",
+    "ru": "фильтр-пресс"
+  },
+  {
+    "id": 24,
+    "en": "pre-start inspection",
+    "ru": "предсменный осмотр"
+  },
+  {
+    "id": 25,
+    "en": "daily inspection",
+    "ru": "ежедневный осмотр"
+  },
+  {
+    "id": 26,
+    "en": "weekly inspection",
+    "ru": "еженедельный осмотр"
+  },
+  {
+    "id": 27,
+    "en": "preventive maintenance",
+    "ru": "профилактическое обслуживание"
+  },
+  {
+    "id": 28,
+    "en": "planned maintenance",
+    "ru": "плановое обслуживание"
+  },
+  {
+    "id": 29,
+    "en": "breakdown repair",
+    "ru": "ремонт после поломки"
+  },
+  {
+    "id": 30,
+    "en": "oil change",
+    "ru": "замена масла"
+  },
+  {
+    "id": 31,
+    "en": "filter change",
+    "ru": "замена фильтра"
+  },
+  {
+    "id": 32,
+    "en": "greasing",
+    "ru": "смазка"
+  },
+  {
+    "id": 33,
+    "en": "wash down",
+    "ru": "мойка"
+  },
+  {
+    "id": 34,
+    "en": "battery check",
+    "ru": "проверка аккумулятора"
+  },
+  {
+    "id": 35,
+    "en": "brake test",
+    "ru": "проверка тормозов"
+  },
+  {
+    "id": 36,
+    "en": "steering test",
+    "ru": "проверка рулевого управления"
+  },
+  {
+    "id": 37,
+    "en": "hydraulic leak",
+    "ru": "утечка гидравлики"
+  },
+  {
+    "id": 38,
+    "en": "coolant level",
+    "ru": "уровень охлаждающей жидкости"
+  },
+  {
+    "id": 39,
+    "en": "engine oil level",
+    "ru": "уровень моторного масла"
+  },
+  {
+    "id": 40,
+    "en": "tyre pressure",
+    "ru": "давление в шинах"
+  },
+  {
+    "id": 41,
+    "en": "fire suppression",
+    "ru": "пожаротушение"
+  },
+  {
+    "id": 42,
+    "en": "lockout tagout",
+    "ru": "блокировка и маркировка (LOTO)"
+  },
+  {
+    "id": 43,
+    "en": "stope",
+    "ru": "очистная камера"
+  },
+  {
+    "id": 44,
+    "en": "development face",
+    "ru": "проходческий забой"
+  },
+  {
+    "id": 45,
+    "en": "production face",
+    "ru": "очистной забой"
+  },
+  {
+    "id": 46,
+    "en": "drift",
+    "ru": "штрек"
+  },
+  {
+    "id": 47,
+    "en": "crosscut",
+    "ru": "квершлаг"
+  },
+  {
+    "id": 48,
+    "en": "raise",
+    "ru": "восстающая"
+  },
+  {
+    "id": 49,
+    "en": "winze",
+    "ru": "нисходящая"
+  },
+  {
+    "id": 50,
+    "en": "shaft",
+    "ru": "ствол"
+  },
+  {
+    "id": 51,
+    "en": "ramp",
+    "ru": "уклон"
+  },
+  {
+    "id": 52,
+    "en": "level",
+    "ru": "горизонт"
+  },
+  {
+    "id": 53,
+    "en": "sublevel",
+    "ru": "подэтаж"
+  },
+  {
+    "id": 54,
+    "en": "ore pass",
+    "ru": "рудоспуск"
+  },
+  {
+    "id": 55,
+    "en": "vent raise",
+    "ru": "вентвосстающая"
+  },
+  {
+    "id": 56,
+    "en": "escape way",
+    "ru": "запасной выход"
+  },
+  {
+    "id": 57,
+    "en": "refuge chamber",
+    "ru": "убежище"
+  },
+  {
+    "id": 58,
+    "en": "bay",
+    "ru": "карман"
+  },
+  {
+    "id": 59,
+    "en": "workshop",
+    "ru": "ремонтная зона"
+  },
+  {
+    "id": 60,
+    "en": "ground control",
+    "ru": "управление горным давлением"
+  },
+  {
+    "id": 61,
+    "en": "ground support",
+    "ru": "крепление"
+  },
+  {
+    "id": 62,
+    "en": "rock bolt",
+    "ru": "анкер"
+  },
+  {
+    "id": 63,
+    "en": "cable bolt",
+    "ru": "тросовый анкер"
+  },
+  {
+    "id": 64,
+    "en": "mesh",
+    "ru": "сетка"
+  },
+  {
+    "id": 65,
+    "en": "shotcrete",
+    "ru": "торкрет"
+  },
+  {
+    "id": 66,
+    "en": "strap",
+    "ru": "полоса крепи"
+  },
+  {
+    "id": 67,
+    "en": "steel set",
+    "ru": "арочная крепь"
+  },
+  {
+    "id": 68,
+    "en": "scaling",
+    "ru": "оборка заколов"
+  },
+  {
+    "id": 69,
+    "en": "barricade",
+    "ru": "перемычка"
+  },
+  {
+    "id": 70,
+    "en": "bulkhead",
+    "ru": "капитальная перемычка"
+  },
+  {
+    "id": 71,
+    "en": "backfill",
+    "ru": "закладка"
+  },
+  {
+    "id": 72,
+    "en": "paste fill",
+    "ru": "пастовая закладка"
+  },
+  {
+    "id": 73,
+    "en": "cemented fill",
+    "ru": "цементная закладка"
+  },
+  {
+    "id": 74,
+    "en": "ventilation",
+    "ru": "вентиляция"
+  },
+  {
+    "id": 75,
+    "en": "airflow",
+    "ru": "воздушный поток"
+  },
+  {
+    "id": 76,
+    "en": "air quantity",
+    "ru": "расход воздуха"
+  },
+  {
+    "id": 77,
+    "en": "air velocity",
+    "ru": "скорость воздуха"
+  },
+  {
+    "id": 78,
+    "en": "anemometer",
+    "ru": "анемометр"
+  },
+  {
+    "id": 79,
+    "en": "gas monitoring",
+    "ru": "контроль газов"
+  },
+  {
+    "id": 80,
+    "en": "carbon monoxide",
+    "ru": "угарный газ (CO)"
+  },
+  {
+    "id": 81,
+    "en": "oxygen",
+    "ru": "кислород (O2)"
+  },
+  {
+    "id": 82,
+    "en": "diesel particulate matter",
+    "ru": "дизельные аэрозоли (DPM)"
+  },
+  {
+    "id": 83,
+    "en": "dust control",
+    "ru": "пылеподавление"
+  },
+  {
+    "id": 84,
+    "en": "water spray",
+    "ru": "водяное орошение"
+  },
+  {
+    "id": 85,
+    "en": "vent duct",
+    "ru": "вентрукав"
+  },
+  {
+    "id": 86,
+    "en": "air door",
+    "ru": "вентдверь"
+  },
+  {
+    "id": 87,
+    "en": "brattice",
+    "ru": "парусная перемычка"
+  },
+  {
+    "id": 88,
+    "en": "drilling",
+    "ru": "бурение"
+  },
+  {
+    "id": 89,
+    "en": "charging",
+    "ru": "заряжание"
+  },
+  {
+    "id": 90,
+    "en": "blast",
+    "ru": "взрыв"
+  },
+  {
+    "id": 91,
+    "en": "blast round",
+    "ru": "взрывной цикл"
+  },
+  {
+    "id": 92,
+    "en": "ANFO",
+    "ru": "АНФО"
+  },
+  {
+    "id": 93,
+    "en": "emulsion explosive",
+    "ru": "эмульсионное ВВ"
+  },
+  {
+    "id": 94,
+    "en": "detonator",
+    "ru": "детонатор"
+  },
+  {
+    "id": 95,
+    "en": "electronic detonator",
+    "ru": "электронный детонатор"
+  },
+  {
+    "id": 96,
+    "en": "primer",
+    "ru": "боевик"
+  },
+  {
+    "id": 97,
+    "en": "stemming",
+    "ru": "забойка"
+  },
+  {
+    "id": 98,
+    "en": "burden",
+    "ru": "линия сопротивления"
+  },
+  {
+    "id": 99,
+    "en": "spacing",
+    "ru": "шаг скважин"
+  },
+  {
+    "id": 100,
+    "en": "misfire",
+    "ru": "отказ заряда"
+  },
+  {
+    "id": 101,
+    "en": "re-entry",
+    "ru": "повторный вход"
+  },
+  {
+    "id": 102,
+    "en": "fumes",
+    "ru": "взрывные газы"
+  },
+  {
+    "id": 103,
+    "en": "survey",
+    "ru": "маркшейдерия"
+  },
+  {
+    "id": 104,
+    "en": "survey station",
+    "ru": "маркшейдерский пункт"
+  },
+  {
+    "id": 105,
+    "en": "reference line",
+    "ru": "референс-линия"
+  },
+  {
+    "id": 106,
+    "en": "mark-up",
+    "ru": "разметка"
+  },
+  {
+    "id": 107,
+    "en": "as-built survey",
+    "ru": "исполнительная съемка"
+  },
+  {
+    "id": 108,
+    "en": "scan",
+    "ru": "сканирование"
+  },
+  {
+    "id": 109,
+    "en": "CMS scanning",
+    "ru": "CMS-сканирование"
+  },
+  {
+    "id": 110,
+    "en": "crushing",
+    "ru": "дробление"
+  },
+  {
+    "id": 111,
+    "en": "grinding",
+    "ru": "измельчение"
+  },
+  {
+    "id": 112,
+    "en": "screening",
+    "ru": "грохочение"
+  },
+  {
+    "id": 113,
+    "en": "classification",
+    "ru": "классификация"
+  },
+  {
+    "id": 114,
+    "en": "flotation",
+    "ru": "флотация"
+  },
+  {
+    "id": 115,
+    "en": "leaching",
+    "ru": "выщелачивание"
+  },
+  {
+    "id": 116,
+    "en": "cyanidation",
+    "ru": "цианирование"
+  },
+  {
+    "id": 117,
+    "en": "CIL",
+    "ru": "CIL (уголь-в-выщелачивании)"
+  },
+  {
+    "id": 118,
+    "en": "CIP",
+    "ru": "CIP (уголь-в-пульпе)"
+  },
+  {
+    "id": 119,
+    "en": "adsorption",
+    "ru": "адсорбция"
+  },
+  {
+    "id": 120,
+    "en": "elution",
+    "ru": "десорбция"
+  },
+  {
+    "id": 121,
+    "en": "electrowinning",
+    "ru": "электроосаждение"
+  },
+  {
+    "id": 122,
+    "en": "smelting",
+    "ru": "плавка"
+  },
+  {
+    "id": 123,
+    "en": "refining",
+    "ru": "рафинирование"
+  },
+  {
+    "id": 124,
+    "en": "tailings",
+    "ru": "хвосты"
+  },
+  {
+    "id": 125,
+    "en": "tailings dam",
+    "ru": "хвостохранилище"
+  },
+  {
+    "id": 126,
+    "en": "reagent",
+    "ru": "реагент"
+  },
+  {
+    "id": 127,
+    "en": "lime",
+    "ru": "известь"
+  },
+  {
+    "id": 128,
+    "en": "cyanide",
+    "ru": "цианид"
+  },
+  {
+    "id": 129,
+    "en": "PPE",
+    "ru": "СИЗ"
+  },
+  {
+    "id": 130,
+    "en": "helmet",
+    "ru": "каска"
+  },
+  {
+    "id": 131,
+    "en": "cap lamp",
+    "ru": "головной светильник"
+  },
+  {
+    "id": 132,
+    "en": "self-rescuer",
+    "ru": "самоспасатель"
+  },
+  {
+    "id": 133,
+    "en": "risk assessment",
+    "ru": "оценка рисков"
+  },
+  {
+    "id": 134,
+    "en": "hazard identification",
+    "ru": "идентификация опасностей"
+  },
+  {
+    "id": 135,
+    "en": "toolbox talk",
+    "ru": "пятиминутка по безопасности"
+  },
+  {
+    "id": 136,
+    "en": "incident report",
+    "ru": "отчет об инциденте"
+  },
+  {
+    "id": 137,
+    "en": "near miss",
+    "ru": "почти инцидент"
+  },
+  {
+    "id": 138,
+    "en": "permit to work",
+    "ru": "наряд-допуск"
+  },
+  {
+    "id": 139,
+    "en": "budget",
+    "ru": "бюджет"
+  },
+  {
+    "id": 140,
+    "en": "cost control",
+    "ru": "контроль затрат"
+  },
+  {
+    "id": 141,
+    "en": "CAPEX",
+    "ru": "CAPEX"
+  },
+  {
+    "id": 142,
+    "en": "OPEX",
+    "ru": "OPEX"
+  },
+  {
+    "id": 143,
+    "en": "procurement",
+    "ru": "закупки"
+  },
+  {
+    "id": 144,
+    "en": "purchase order",
+    "ru": "заказ на закупку (PO)"
+  },
+  {
+    "id": 145,
+    "en": "invoice",
+    "ru": "инвойс"
+  },
+  {
+    "id": 146,
+    "en": "supplier",
+    "ru": "поставщик"
+  },
+  {
+    "id": 147,
+    "en": "contractor",
+    "ru": "подрядчик"
+  },
+  {
+    "id": 148,
+    "en": "KPI",
+    "ru": "KPI"
+  },
+  {
+    "id": 149,
+    "en": "schedule",
+    "ru": "график"
+  },
+  {
+    "id": 150,
+    "en": "deadline",
+    "ru": "дедлайн"
+  },
+  {
+    "id": 151,
+    "en": "meeting minutes",
+    "ru": "протокол встречи"
+  },
+  {
+    "id": 152,
+    "en": "action item",
+    "ru": "пункт действия"
+  },
+  {
+    "id": 153,
+    "en": "loader pre-start inspection",
+    "ru": "погрузчик: предсменный осмотр"
+  },
+  {
+    "id": 154,
+    "en": "loader daily inspection",
+    "ru": "погрузчик: ежедневный осмотр"
+  },
+  {
+    "id": 155,
+    "en": "loader weekly inspection",
+    "ru": "погрузчик: еженедельный осмотр"
+  },
+  {
+    "id": 156,
+    "en": "loader preventive maintenance",
+    "ru": "погрузчик: профилактическое обслуживание"
+  },
+  {
+    "id": 157,
+    "en": "loader planned maintenance",
+    "ru": "погрузчик: плановое обслуживание"
+  },
+  {
+    "id": 158,
+    "en": "loader breakdown repair",
+    "ru": "погрузчик: ремонт после поломки"
+  },
+  {
+    "id": 159,
+    "en": "loader oil change",
+    "ru": "погрузчик: замена масла"
+  },
+  {
+    "id": 160,
+    "en": "loader filter change",
+    "ru": "погрузчик: замена фильтра"
+  },
+  {
+    "id": 161,
+    "en": "loader greasing",
+    "ru": "погрузчик: смазка"
+  },
+  {
+    "id": 162,
+    "en": "loader wash down",
+    "ru": "погрузчик: мойка"
+  },
+  {
+    "id": 163,
+    "en": "loader battery check",
+    "ru": "погрузчик: проверка аккумулятора"
+  },
+  {
+    "id": 164,
+    "en": "loader brake test",
+    "ru": "погрузчик: проверка тормозов"
+  },
+  {
+    "id": 165,
+    "en": "loader steering test",
+    "ru": "погрузчик: проверка рулевого управления"
+  },
+  {
+    "id": 166,
+    "en": "loader hydraulic leak",
+    "ru": "погрузчик: утечка гидравлики"
+  },
+  {
+    "id": 167,
+    "en": "loader coolant level",
+    "ru": "погрузчик: уровень охлаждающей жидкости"
+  },
+  {
+    "id": 168,
+    "en": "loader engine oil level",
+    "ru": "погрузчик: уровень моторного масла"
+  },
+  {
+    "id": 169,
+    "en": "loader tyre pressure",
+    "ru": "погрузчик: давление в шинах"
+  },
+  {
+    "id": 170,
+    "en": "loader fire suppression",
+    "ru": "погрузчик: пожаротушение"
+  },
+  {
+    "id": 171,
+    "en": "loader lockout tagout",
+    "ru": "погрузчик: блокировка и маркировка (LOTO)"
+  },
+  {
+    "id": 172,
+    "en": "underground loader pre-start inspection",
+    "ru": "подземный погрузчик: предсменный осмотр"
+  },
+  {
+    "id": 173,
+    "en": "underground loader daily inspection",
+    "ru": "подземный погрузчик: ежедневный осмотр"
+  },
+  {
+    "id": 174,
+    "en": "underground loader weekly inspection",
+    "ru": "подземный погрузчик: еженедельный осмотр"
+  },
+  {
+    "id": 175,
+    "en": "underground loader preventive maintenance",
+    "ru": "подземный погрузчик: профилактическое обслуживание"
+  },
+  {
+    "id": 176,
+    "en": "underground loader planned maintenance",
+    "ru": "подземный погрузчик: плановое обслуживание"
+  },
+  {
+    "id": 177,
+    "en": "underground loader breakdown repair",
+    "ru": "подземный погрузчик: ремонт после поломки"
+  },
+  {
+    "id": 178,
+    "en": "underground loader oil change",
+    "ru": "подземный погрузчик: замена масла"
+  },
+  {
+    "id": 179,
+    "en": "underground loader filter change",
+    "ru": "подземный погрузчик: замена фильтра"
+  },
+  {
+    "id": 180,
+    "en": "underground loader greasing",
+    "ru": "подземный погрузчик: смазка"
+  },
+  {
+    "id": 181,
+    "en": "underground loader wash down",
+    "ru": "подземный погрузчик: мойка"
+  },
+  {
+    "id": 182,
+    "en": "underground loader battery check",
+    "ru": "подземный погрузчик: проверка аккумулятора"
+  },
+  {
+    "id": 183,
+    "en": "underground loader brake test",
+    "ru": "подземный погрузчик: проверка тормозов"
+  },
+  {
+    "id": 184,
+    "en": "underground loader steering test",
+    "ru": "подземный погрузчик: проверка рулевого управления"
+  },
+  {
+    "id": 185,
+    "en": "underground loader hydraulic leak",
+    "ru": "подземный погрузчик: утечка гидравлики"
+  },
+  {
+    "id": 186,
+    "en": "underground loader coolant level",
+    "ru": "подземный погрузчик: уровень охлаждающей жидкости"
+  },
+  {
+    "id": 187,
+    "en": "underground loader engine oil level",
+    "ru": "подземный погрузчик: уровень моторного масла"
+  },
+  {
+    "id": 188,
+    "en": "underground loader tyre pressure",
+    "ru": "подземный погрузчик: давление в шинах"
+  },
+  {
+    "id": 189,
+    "en": "underground loader fire suppression",
+    "ru": "подземный погрузчик: пожаротушение"
+  },
+  {
+    "id": 190,
+    "en": "underground loader lockout tagout",
+    "ru": "подземный погрузчик: блокировка и маркировка (LOTO)"
+  },
+  {
+    "id": 191,
+    "en": "truck pre-start inspection",
+    "ru": "самосвал: предсменный осмотр"
+  },
+  {
+    "id": 192,
+    "en": "truck daily inspection",
+    "ru": "самосвал: ежедневный осмотр"
+  },
+  {
+    "id": 193,
+    "en": "truck weekly inspection",
+    "ru": "самосвал: еженедельный осмотр"
+  },
+  {
+    "id": 194,
+    "en": "truck preventive maintenance",
+    "ru": "самосвал: профилактическое обслуживание"
+  },
+  {
+    "id": 195,
+    "en": "truck planned maintenance",
+    "ru": "самосвал: плановое обслуживание"
+  },
+  {
+    "id": 196,
+    "en": "truck breakdown repair",
+    "ru": "самосвал: ремонт после поломки"
+  },
+  {
+    "id": 197,
+    "en": "truck oil change",
+    "ru": "самосвал: замена масла"
+  },
+  {
+    "id": 198,
+    "en": "truck filter change",
+    "ru": "самосвал: замена фильтра"
+  },
+  {
+    "id": 199,
+    "en": "truck greasing",
+    "ru": "самосвал: смазка"
+  },
+  {
+    "id": 200,
+    "en": "truck wash down",
+    "ru": "самосвал: мойка"
+  },
+  {
+    "id": 201,
+    "en": "truck battery check",
+    "ru": "самосвал: проверка аккумулятора"
+  },
+  {
+    "id": 202,
+    "en": "truck brake test",
+    "ru": "самосвал: проверка тормозов"
+  },
+  {
+    "id": 203,
+    "en": "truck steering test",
+    "ru": "самосвал: проверка рулевого управления"
+  },
+  {
+    "id": 204,
+    "en": "truck hydraulic leak",
+    "ru": "самосвал: утечка гидравлики"
+  },
+  {
+    "id": 205,
+    "en": "truck coolant level",
+    "ru": "самосвал: уровень охлаждающей жидкости"
+  },
+  {
+    "id": 206,
+    "en": "truck engine oil level",
+    "ru": "самосвал: уровень моторного масла"
+  },
+  {
+    "id": 207,
+    "en": "truck tyre pressure",
+    "ru": "самосвал: давление в шинах"
+  },
+  {
+    "id": 208,
+    "en": "truck fire suppression",
+    "ru": "самосвал: пожаротушение"
+  },
+  {
+    "id": 209,
+    "en": "truck lockout tagout",
+    "ru": "самосвал: блокировка и маркировка (LOTO)"
+  },
+  {
+    "id": 210,
+    "en": "dump truck pre-start inspection",
+    "ru": "самосвал: предсменный осмотр"
+  },
+  {
+    "id": 211,
+    "en": "dump truck daily inspection",
+    "ru": "самосвал: ежедневный осмотр"
+  },
+  {
+    "id": 212,
+    "en": "dump truck weekly inspection",
+    "ru": "самосвал: еженедельный осмотр"
+  },
+  {
+    "id": 213,
+    "en": "dump truck preventive maintenance",
+    "ru": "самосвал: профилактическое обслуживание"
+  },
+  {
+    "id": 214,
+    "en": "dump truck planned maintenance",
+    "ru": "самосвал: плановое обслуживание"
+  },
+  {
+    "id": 215,
+    "en": "dump truck breakdown repair",
+    "ru": "самосвал: ремонт после поломки"
+  },
+  {
+    "id": 216,
+    "en": "dump truck oil change",
+    "ru": "самосвал: замена масла"
+  },
+  {
+    "id": 217,
+    "en": "dump truck filter change",
+    "ru": "самосвал: замена фильтра"
+  },
+  {
+    "id": 218,
+    "en": "dump truck greasing",
+    "ru": "самосвал: смазка"
+  },
+  {
+    "id": 219,
+    "en": "dump truck wash down",
+    "ru": "самосвал: мойка"
+  },
+  {
+    "id": 220,
+    "en": "dump truck battery check",
+    "ru": "самосвал: проверка аккумулятора"
+  },
+  {
+    "id": 221,
+    "en": "dump truck brake test",
+    "ru": "самосвал: проверка тормозов"
+  },
+  {
+    "id": 222,
+    "en": "dump truck steering test",
+    "ru": "самосвал: проверка рулевого управления"
+  },
+  {
+    "id": 223,
+    "en": "dump truck hydraulic leak",
+    "ru": "самосвал: утечка гидравлики"
+  },
+  {
+    "id": 224,
+    "en": "dump truck coolant level",
+    "ru": "самосвал: уровень охлаждающей жидкости"
+  },
+  {
+    "id": 225,
+    "en": "dump truck engine oil level",
+    "ru": "самосвал: уровень моторного масла"
+  },
+  {
+    "id": 226,
+    "en": "dump truck tyre pressure",
+    "ru": "самосвал: давление в шинах"
+  },
+  {
+    "id": 227,
+    "en": "dump truck fire suppression",
+    "ru": "самосвал: пожаротушение"
+  },
+  {
+    "id": 228,
+    "en": "dump truck lockout tagout",
+    "ru": "самосвал: блокировка и маркировка (LOTO)"
+  },
+  {
+    "id": 229,
+    "en": "drill rig pre-start inspection",
+    "ru": "буровая установка: предсменный осмотр"
+  },
+  {
+    "id": 230,
+    "en": "drill rig daily inspection",
+    "ru": "буровая установка: ежедневный осмотр"
+  },
+  {
+    "id": 231,
+    "en": "drill rig weekly inspection",
+    "ru": "буровая установка: еженедельный осмотр"
+  },
+  {
+    "id": 232,
+    "en": "drill rig preventive maintenance",
+    "ru": "буровая установка: профилактическое обслуживание"
+  },
+  {
+    "id": 233,
+    "en": "drill rig planned maintenance",
+    "ru": "буровая установка: плановое обслуживание"
+  },
+  {
+    "id": 234,
+    "en": "drill rig breakdown repair",
+    "ru": "буровая установка: ремонт после поломки"
+  },
+  {
+    "id": 235,
+    "en": "drill rig oil change",
+    "ru": "буровая установка: замена масла"
+  },
+  {
+    "id": 236,
+    "en": "drill rig filter change",
+    "ru": "буровая установка: замена фильтра"
+  },
+  {
+    "id": 237,
+    "en": "drill rig greasing",
+    "ru": "буровая установка: смазка"
+  },
+  {
+    "id": 238,
+    "en": "drill rig wash down",
+    "ru": "буровая установка: мойка"
+  },
+  {
+    "id": 239,
+    "en": "drill rig battery check",
+    "ru": "буровая установка: проверка аккумулятора"
+  },
+  {
+    "id": 240,
+    "en": "drill rig brake test",
+    "ru": "буровая установка: проверка тормозов"
+  },
+  {
+    "id": 241,
+    "en": "drill rig steering test",
+    "ru": "буровая установка: проверка рулевого управления"
+  },
+  {
+    "id": 242,
+    "en": "drill rig hydraulic leak",
+    "ru": "буровая установка: утечка гидравлики"
+  },
+  {
+    "id": 243,
+    "en": "drill rig coolant level",
+    "ru": "буровая установка: уровень охлаждающей жидкости"
+  },
+  {
+    "id": 244,
+    "en": "drill rig engine oil level",
+    "ru": "буровая установка: уровень моторного масла"
+  },
+  {
+    "id": 245,
+    "en": "drill rig tyre pressure",
+    "ru": "буровая установка: давление в шинах"
+  },
+  {
+    "id": 246,
+    "en": "drill rig fire suppression",
+    "ru": "буровая установка: пожаротушение"
+  },
+  {
+    "id": 247,
+    "en": "drill rig lockout tagout",
+    "ru": "буровая установка: блокировка и маркировка (LOTO)"
+  },
+  {
+    "id": 248,
+    "en": "jumbo pre-start inspection",
+    "ru": "буровой джамбо: предсменный осмотр"
+  },
+  {
+    "id": 249,
+    "en": "jumbo daily inspection",
+    "ru": "буровой джамбо: ежедневный осмотр"
+  },
+  {
+    "id": 250,
+    "en": "jumbo weekly inspection",
+    "ru": "буровой джамбо: еженедельный осмотр"
+  },
+  {
+    "id": 251,
+    "en": "jumbo preventive maintenance",
+    "ru": "буровой джамбо: профилактическое обслуживание"
+  },
+  {
+    "id": 252,
+    "en": "jumbo planned maintenance",
+    "ru": "буровой джамбо: плановое обслуживание"
+  },
+  {
+    "id": 253,
+    "en": "jumbo breakdown repair",
+    "ru": "буровой джамбо: ремонт после поломки"
+  },
+  {
+    "id": 254,
+    "en": "jumbo oil change",
+    "ru": "буровой джамбо: замена масла"
+  },
+  {
+    "id": 255,
+    "en": "jumbo filter change",
+    "ru": "буровой джамбо: замена фильтра"
+  },
+  {
+    "id": 256,
+    "en": "jumbo greasing",
+    "ru": "буровой джамбо: смазка"
+  },
+  {
+    "id": 257,
+    "en": "jumbo wash down",
+    "ru": "буровой джамбо: мойка"
+  },
+  {
+    "id": 258,
+    "en": "jumbo battery check",
+    "ru": "буровой джамбо: проверка аккумулятора"
+  },
+  {
+    "id": 259,
+    "en": "jumbo brake test",
+    "ru": "буровой джамбо: проверка тормозов"
+  },
+  {
+    "id": 260,
+    "en": "jumbo steering test",
+    "ru": "буровой джамбо: проверка рулевого управления"
+  },
+  {
+    "id": 261,
+    "en": "jumbo hydraulic leak",
+    "ru": "буровой джамбо: утечка гидравлики"
+  },
+  {
+    "id": 262,
+    "en": "jumbo coolant level",
+    "ru": "буровой джамбо: уровень охлаждающей жидкости"
+  },
+  {
+    "id": 263,
+    "en": "jumbo engine oil level",
+    "ru": "буровой джамбо: уровень моторного масла"
+  },
+  {
+    "id": 264,
+    "en": "jumbo tyre pressure",
+    "ru": "буровой джамбо: давление в шинах"
+  },
+  {
+    "id": 265,
+    "en": "jumbo fire suppression",
+    "ru": "буровой джамбо: пожаротушение"
+  },
+  {
+    "id": 266,
+    "en": "jumbo lockout tagout",
+    "ru": "буровой джамбо: блокировка и маркировка (LOTO)"
+  },
+  {
+    "id": 267,
+    "en": "bolter pre-start inspection",
+    "ru": "анкероустановщик: предсменный осмотр"
+  },
+  {
+    "id": 268,
+    "en": "bolter daily inspection",
+    "ru": "анкероустановщик: ежедневный осмотр"
+  },
+  {
+    "id": 269,
+    "en": "bolter weekly inspection",
+    "ru": "анкероустановщик: еженедельный осмотр"
+  },
+  {
+    "id": 270,
+    "en": "bolter preventive maintenance",
+    "ru": "анкероустановщик: профилактическое обслуживание"
+  },
+  {
+    "id": 271,
+    "en": "bolter planned maintenance",
+    "ru": "анкероустановщик: плановое обслуживание"
+  },
+  {
+    "id": 272,
+    "en": "bolter breakdown repair",
+    "ru": "анкероустановщик: ремонт после поломки"
+  },
+  {
+    "id": 273,
+    "en": "bolter oil change",
+    "ru": "анкероустановщик: замена масла"
+  },
+  {
+    "id": 274,
+    "en": "bolter filter change",
+    "ru": "анкероустановщик: замена фильтра"
+  },
+  {
+    "id": 275,
+    "en": "bolter greasing",
+    "ru": "анкероустановщик: смазка"
+  },
+  {
+    "id": 276,
+    "en": "bolter wash down",
+    "ru": "анкероустановщик: мойка"
+  },
+  {
+    "id": 277,
+    "en": "bolter battery check",
+    "ru": "анкероустановщик: проверка аккумулятора"
+  },
+  {
+    "id": 278,
+    "en": "bolter brake test",
+    "ru": "анкероустановщик: проверка тормозов"
+  },
+  {
+    "id": 279,
+    "en": "bolter steering test",
+    "ru": "анкероустановщик: проверка рулевого управления"
+  },
+  {
+    "id": 280,
+    "en": "bolter hydraulic leak",
+    "ru": "анкероустановщик: утечка гидравлики"
+  },
+  {
+    "id": 281,
+    "en": "bolter coolant level",
+    "ru": "анкероустановщик: уровень охлаждающей жидкости"
+  },
+  {
+    "id": 282,
+    "en": "bolter engine oil level",
+    "ru": "анкероустановщик: уровень моторного масла"
+  },
+  {
+    "id": 283,
+    "en": "bolter tyre pressure",
+    "ru": "анкероустановщик: давление в шинах"
+  },
+  {
+    "id": 284,
+    "en": "bolter fire suppression",
+    "ru": "анкероустановщик: пожаротушение"
+  },
+  {
+    "id": 285,
+    "en": "bolter lockout tagout",
+    "ru": "анкероустановщик: блокировка и маркировка (LOTO)"
+  },
+  {
+    "id": 286,
+    "en": "scissor lift pre-start inspection",
+    "ru": "ножничный подъемник: предсменный осмотр"
+  },
+  {
+    "id": 287,
+    "en": "scissor lift daily inspection",
+    "ru": "ножничный подъемник: ежедневный осмотр"
+  },
+  {
+    "id": 288,
+    "en": "scissor lift weekly inspection",
+    "ru": "ножничный подъемник: еженедельный осмотр"
+  },
+  {
+    "id": 289,
+    "en": "scissor lift preventive maintenance",
+    "ru": "ножничный подъемник: профилактическое обслуживание"
+  },
+  {
+    "id": 290,
+    "en": "scissor lift planned maintenance",
+    "ru": "ножничный подъемник: плановое обслуживание"
+  },
+  {
+    "id": 291,
+    "en": "scissor lift breakdown repair",
+    "ru": "ножничный подъемник: ремонт после поломки"
+  },
+  {
+    "id": 292,
+    "en": "scissor lift oil change",
+    "ru": "ножничный подъемник: замена масла"
+  },
+  {
+    "id": 293,
+    "en": "scissor lift filter change",
+    "ru": "ножничный подъемник: замена фильтра"
+  },
+  {
+    "id": 294,
+    "en": "scissor lift greasing",
+    "ru": "ножничный подъемник: смазка"
+  },
+  {
+    "id": 295,
+    "en": "scissor lift wash down",
+    "ru": "ножничный подъемник: мойка"
+  },
+  {
+    "id": 296,
+    "en": "scissor lift battery check",
+    "ru": "ножничный подъемник: проверка аккумулятора"
+  },
+  {
+    "id": 297,
+    "en": "scissor lift brake test",
+    "ru": "ножничный подъемник: проверка тормозов"
+  },
+  {
+    "id": 298,
+    "en": "scissor lift steering test",
+    "ru": "ножничный подъемник: проверка рулевого управления"
+  },
+  {
+    "id": 299,
+    "en": "scissor lift hydraulic leak",
+    "ru": "ножничный подъемник: утечка гидравлики"
+  },
+  {
+    "id": 300,
+    "en": "scissor lift coolant level",
+    "ru": "ножничный подъемник: уровень охлаждающей жидкости"
+  },
+  {
+    "id": 301,
+    "en": "scissor lift engine oil level",
+    "ru": "ножничный подъемник: уровень моторного масла"
+  },
+  {
+    "id": 302,
+    "en": "scissor lift tyre pressure",
+    "ru": "ножничный подъемник: давление в шинах"
+  },
+  {
+    "id": 303,
+    "en": "scissor lift fire suppression",
+    "ru": "ножничный подъемник: пожаротушение"
+  },
+  {
+    "id": 304,
+    "en": "scissor lift lockout tagout",
+    "ru": "ножничный подъемник: блокировка и маркировка (LOTO)"
+  },
+  {
+    "id": 305,
+    "en": "shotcrete sprayer pre-start inspection",
+    "ru": "торкрет-установка: предсменный осмотр"
+  },
+  {
+    "id": 306,
+    "en": "shotcrete sprayer daily inspection",
+    "ru": "торкрет-установка: ежедневный осмотр"
+  },
+  {
+    "id": 307,
+    "en": "shotcrete sprayer weekly inspection",
+    "ru": "торкрет-установка: еженедельный осмотр"
+  },
+  {
+    "id": 308,
+    "en": "shotcrete sprayer preventive maintenance",
+    "ru": "торкрет-установка: профилактическое обслуживание"
+  },
+  {
+    "id": 309,
+    "en": "shotcrete sprayer planned maintenance",
+    "ru": "торкрет-установка: плановое обслуживание"
+  },
+  {
+    "id": 310,
+    "en": "shotcrete sprayer breakdown repair",
+    "ru": "торкрет-установка: ремонт после поломки"
+  },
+  {
+    "id": 311,
+    "en": "shotcrete sprayer oil change",
+    "ru": "торкрет-установка: замена масла"
+  },
+  {
+    "id": 312,
+    "en": "shotcrete sprayer filter change",
+    "ru": "торкрет-установка: замена фильтра"
+  },
+  {
+    "id": 313,
+    "en": "shotcrete sprayer greasing",
+    "ru": "торкрет-установка: смазка"
+  },
+  {
+    "id": 314,
+    "en": "shotcrete sprayer wash down",
+    "ru": "торкрет-установка: мойка"
+  },
+  {
+    "id": 315,
+    "en": "shotcrete sprayer battery check",
+    "ru": "торкрет-установка: проверка аккумулятора"
+  },
+  {
+    "id": 316,
+    "en": "shotcrete sprayer brake test",
+    "ru": "торкрет-установка: проверка тормозов"
+  },
+  {
+    "id": 317,
+    "en": "shotcrete sprayer steering test",
+    "ru": "торкрет-установка: проверка рулевого управления"
+  },
+  {
+    "id": 318,
+    "en": "shotcrete sprayer hydraulic leak",
+    "ru": "торкрет-установка: утечка гидравлики"
+  },
+  {
+    "id": 319,
+    "en": "shotcrete sprayer coolant level",
+    "ru": "торкрет-установка: уровень охлаждающей жидкости"
+  },
+  {
+    "id": 320,
+    "en": "shotcrete sprayer engine oil level",
+    "ru": "торкрет-установка: уровень моторного масла"
+  },
+  {
+    "id": 321,
+    "en": "shotcrete sprayer tyre pressure",
+    "ru": "торкрет-установка: давление в шинах"
+  },
+  {
+    "id": 322,
+    "en": "shotcrete sprayer fire suppression",
+    "ru": "торкрет-установка: пожаротушение"
+  },
+  {
+    "id": 323,
+    "en": "shotcrete sprayer lockout tagout",
+    "ru": "торкрет-установка: блокировка и маркировка (LOTO)"
+  },
+  {
+    "id": 324,
+    "en": "mixer truck pre-start inspection",
+    "ru": "миксер: предсменный осмотр"
+  },
+  {
+    "id": 325,
+    "en": "mixer truck daily inspection",
+    "ru": "миксер: ежедневный осмотр"
+  },
+  {
+    "id": 326,
+    "en": "mixer truck weekly inspection",
+    "ru": "миксер: еженедельный осмотр"
+  },
+  {
+    "id": 327,
+    "en": "mixer truck preventive maintenance",
+    "ru": "миксер: профилактическое обслуживание"
+  },
+  {
+    "id": 328,
+    "en": "mixer truck planned maintenance",
+    "ru": "миксер: плановое обслуживание"
+  },
+  {
+    "id": 329,
+    "en": "mixer truck breakdown repair",
+    "ru": "миксер: ремонт после поломки"
+  },
+  {
+    "id": 330,
+    "en": "mixer truck oil change",
+    "ru": "миксер: замена масла"
+  },
+  {
+    "id": 331,
+    "en": "mixer truck filter change",
+    "ru": "миксер: замена фильтра"
+  },
+  {
+    "id": 332,
+    "en": "mixer truck greasing",
+    "ru": "миксер: смазка"
+  },
+  {
+    "id": 333,
+    "en": "mixer truck wash down",
+    "ru": "миксер: мойка"
+  },
+  {
+    "id": 334,
+    "en": "mixer truck battery check",
+    "ru": "миксер: проверка аккумулятора"
+  },
+  {
+    "id": 335,
+    "en": "mixer truck brake test",
+    "ru": "миксер: проверка тормозов"
+  },
+  {
+    "id": 336,
+    "en": "mixer truck steering test",
+    "ru": "миксер: проверка рулевого управления"
+  },
+  {
+    "id": 337,
+    "en": "mixer truck hydraulic leak",
+    "ru": "миксер: утечка гидравлики"
+  },
+  {
+    "id": 338,
+    "en": "mixer truck coolant level",
+    "ru": "миксер: уровень охлаждающей жидкости"
+  },
+  {
+    "id": 339,
+    "en": "mixer truck engine oil level",
+    "ru": "миксер: уровень моторного масла"
+  },
+  {
+    "id": 340,
+    "en": "mixer truck tyre pressure",
+    "ru": "миксер: давление в шинах"
+  },
+  {
+    "id": 341,
+    "en": "mixer truck fire suppression",
+    "ru": "миксер: пожаротушение"
+  },
+  {
+    "id": 342,
+    "en": "mixer truck lockout tagout",
+    "ru": "миксер: блокировка и маркировка (LOTO)"
+  },
+  {
+    "id": 343,
+    "en": "compressor pre-start inspection",
+    "ru": "компрессор: предсменный осмотр"
+  },
+  {
+    "id": 344,
+    "en": "compressor daily inspection",
+    "ru": "компрессор: ежедневный осмотр"
+  },
+  {
+    "id": 345,
+    "en": "compressor weekly inspection",
+    "ru": "компрессор: еженедельный осмотр"
+  },
+  {
+    "id": 346,
+    "en": "compressor preventive maintenance",
+    "ru": "компрессор: профилактическое обслуживание"
+  },
+  {
+    "id": 347,
+    "en": "compressor planned maintenance",
+    "ru": "компрессор: плановое обслуживание"
+  },
+  {
+    "id": 348,
+    "en": "compressor breakdown repair",
+    "ru": "компрессор: ремонт после поломки"
+  },
+  {
+    "id": 349,
+    "en": "compressor oil change",
+    "ru": "компрессор: замена масла"
+  },
+  {
+    "id": 350,
+    "en": "compressor filter change",
+    "ru": "компрессор: замена фильтра"
+  },
+  {
+    "id": 351,
+    "en": "compressor greasing",
+    "ru": "компрессор: смазка"
+  },
+  {
+    "id": 352,
+    "en": "compressor wash down",
+    "ru": "компрессор: мойка"
+  },
+  {
+    "id": 353,
+    "en": "compressor battery check",
+    "ru": "компрессор: проверка аккумулятора"
+  },
+  {
+    "id": 354,
+    "en": "compressor brake test",
+    "ru": "компрессор: проверка тормозов"
+  },
+  {
+    "id": 355,
+    "en": "compressor steering test",
+    "ru": "компрессор: проверка рулевого управления"
+  },
+  {
+    "id": 356,
+    "en": "compressor hydraulic leak",
+    "ru": "компрессор: утечка гидравлики"
+  },
+  {
+    "id": 357,
+    "en": "compressor coolant level",
+    "ru": "компрессор: уровень охлаждающей жидкости"
+  },
+  {
+    "id": 358,
+    "en": "compressor engine oil level",
+    "ru": "компрессор: уровень моторного масла"
+  },
+  {
+    "id": 359,
+    "en": "compressor tyre pressure",
+    "ru": "компрессор: давление в шинах"
+  },
+  {
+    "id": 360,
+    "en": "compressor fire suppression",
+    "ru": "компрессор: пожаротушение"
+  },
+  {
+    "id": 361,
+    "en": "compressor lockout tagout",
+    "ru": "компрессор: блокировка и маркировка (LOTO)"
+  },
+  {
+    "id": 362,
+    "en": "generator pre-start inspection",
+    "ru": "генератор: предсменный осмотр"
+  },
+  {
+    "id": 363,
+    "en": "generator daily inspection",
+    "ru": "генератор: ежедневный осмотр"
+  },
+  {
+    "id": 364,
+    "en": "generator weekly inspection",
+    "ru": "генератор: еженедельный осмотр"
+  },
+  {
+    "id": 365,
+    "en": "generator preventive maintenance",
+    "ru": "генератор: профилактическое обслуживание"
+  },
+  {
+    "id": 366,
+    "en": "generator planned maintenance",
+    "ru": "генератор: плановое обслуживание"
+  },
+  {
+    "id": 367,
+    "en": "generator breakdown repair",
+    "ru": "генератор: ремонт после поломки"
+  },
+  {
+    "id": 368,
+    "en": "generator oil change",
+    "ru": "генератор: замена масла"
+  },
+  {
+    "id": 369,
+    "en": "generator filter change",
+    "ru": "генератор: замена фильтра"
+  },
+  {
+    "id": 370,
+    "en": "generator greasing",
+    "ru": "генератор: смазка"
+  },
+  {
+    "id": 371,
+    "en": "generator wash down",
+    "ru": "генератор: мойка"
+  },
+  {
+    "id": 372,
+    "en": "generator battery check",
+    "ru": "генератор: проверка аккумулятора"
+  },
+  {
+    "id": 373,
+    "en": "generator brake test",
+    "ru": "генератор: проверка тормозов"
+  },
+  {
+    "id": 374,
+    "en": "generator steering test",
+    "ru": "генератор: проверка рулевого управления"
+  },
+  {
+    "id": 375,
+    "en": "generator hydraulic leak",
+    "ru": "генератор: утечка гидравлики"
+  },
+  {
+    "id": 376,
+    "en": "generator coolant level",
+    "ru": "генератор: уровень охлаждающей жидкости"
+  },
+  {
+    "id": 377,
+    "en": "generator engine oil level",
+    "ru": "генератор: уровень моторного масла"
+  },
+  {
+    "id": 378,
+    "en": "generator tyre pressure",
+    "ru": "генератор: давление в шинах"
+  },
+  {
+    "id": 379,
+    "en": "generator fire suppression",
+    "ru": "генератор: пожаротушение"
+  },
+  {
+    "id": 380,
+    "en": "generator lockout tagout",
+    "ru": "генератор: блокировка и маркировка (LOTO)"
+  },
+  {
+    "id": 381,
+    "en": "pump pre-start inspection",
+    "ru": "насос: предсменный осмотр"
+  },
+  {
+    "id": 382,
+    "en": "pump daily inspection",
+    "ru": "насос: ежедневный осмотр"
+  },
+  {
+    "id": 383,
+    "en": "pump weekly inspection",
+    "ru": "насос: еженедельный осмотр"
+  },
+  {
+    "id": 384,
+    "en": "pump preventive maintenance",
+    "ru": "насос: профилактическое обслуживание"
+  },
+  {
+    "id": 385,
+    "en": "pump planned maintenance",
+    "ru": "насос: плановое обслуживание"
+  },
+  {
+    "id": 386,
+    "en": "pump breakdown repair",
+    "ru": "насос: ремонт после поломки"
+  },
+  {
+    "id": 387,
+    "en": "pump oil change",
+    "ru": "насос: замена масла"
+  },
+  {
+    "id": 388,
+    "en": "pump filter change",
+    "ru": "насос: замена фильтра"
+  },
+  {
+    "id": 389,
+    "en": "pump greasing",
+    "ru": "насос: смазка"
+  },
+  {
+    "id": 390,
+    "en": "pump wash down",
+    "ru": "насос: мойка"
+  },
+  {
+    "id": 391,
+    "en": "pump battery check",
+    "ru": "насос: проверка аккумулятора"
+  },
+  {
+    "id": 392,
+    "en": "pump brake test",
+    "ru": "насос: проверка тормозов"
+  },
+  {
+    "id": 393,
+    "en": "pump steering test",
+    "ru": "насос: проверка рулевого управления"
+  },
+  {
+    "id": 394,
+    "en": "pump hydraulic leak",
+    "ru": "насос: утечка гидравлики"
+  },
+  {
+    "id": 395,
+    "en": "pump coolant level",
+    "ru": "насос: уровень охлаждающей жидкости"
+  },
+  {
+    "id": 396,
+    "en": "pump engine oil level",
+    "ru": "насос: уровень моторного масла"
+  },
+  {
+    "id": 397,
+    "en": "pump tyre pressure",
+    "ru": "насос: давление в шинах"
+  },
+  {
+    "id": 398,
+    "en": "pump fire suppression",
+    "ru": "насос: пожаротушение"
+  },
+  {
+    "id": 399,
+    "en": "pump lockout tagout",
+    "ru": "насос: блокировка и маркировка (LOTO)"
+  },
+  {
+    "id": 400,
+    "en": "submersible pump pre-start inspection",
+    "ru": "погружной насос: предсменный осмотр"
+  },
+  {
+    "id": 401,
+    "en": "submersible pump daily inspection",
+    "ru": "погружной насос: ежедневный осмотр"
+  },
+  {
+    "id": 402,
+    "en": "submersible pump weekly inspection",
+    "ru": "погружной насос: еженедельный осмотр"
+  },
+  {
+    "id": 403,
+    "en": "submersible pump preventive maintenance",
+    "ru": "погружной насос: профилактическое обслуживание"
+  },
+  {
+    "id": 404,
+    "en": "submersible pump planned maintenance",
+    "ru": "погружной насос: плановое обслуживание"
+  },
+  {
+    "id": 405,
+    "en": "submersible pump breakdown repair",
+    "ru": "погружной насос: ремонт после поломки"
+  },
+  {
+    "id": 406,
+    "en": "submersible pump oil change",
+    "ru": "погружной насос: замена масла"
+  },
+  {
+    "id": 407,
+    "en": "submersible pump filter change",
+    "ru": "погружной насос: замена фильтра"
+  },
+  {
+    "id": 408,
+    "en": "submersible pump greasing",
+    "ru": "погружной насос: смазка"
+  },
+  {
+    "id": 409,
+    "en": "submersible pump wash down",
+    "ru": "погружной насос: мойка"
+  },
+  {
+    "id": 410,
+    "en": "submersible pump battery check",
+    "ru": "погружной насос: проверка аккумулятора"
+  },
+  {
+    "id": 411,
+    "en": "submersible pump brake test",
+    "ru": "погружной насос: проверка тормозов"
+  },
+  {
+    "id": 412,
+    "en": "submersible pump steering test",
+    "ru": "погружной насос: проверка рулевого управления"
+  },
+  {
+    "id": 413,
+    "en": "submersible pump hydraulic leak",
+    "ru": "погружной насос: утечка гидравлики"
+  },
+  {
+    "id": 414,
+    "en": "submersible pump coolant level",
+    "ru": "погружной насос: уровень охлаждающей жидкости"
+  },
+  {
+    "id": 415,
+    "en": "submersible pump engine oil level",
+    "ru": "погружной насос: уровень моторного масла"
+  },
+  {
+    "id": 416,
+    "en": "submersible pump tyre pressure",
+    "ru": "погружной насос: давление в шинах"
+  },
+  {
+    "id": 417,
+    "en": "submersible pump fire suppression",
+    "ru": "погружной насос: пожаротушение"
+  },
+  {
+    "id": 418,
+    "en": "submersible pump lockout tagout",
+    "ru": "погружной насос: блокировка и маркировка (LOTO)"
+  },
+  {
+    "id": 419,
+    "en": "fan pre-start inspection",
+    "ru": "вентилятор: предсменный осмотр"
+  },
+  {
+    "id": 420,
+    "en": "fan daily inspection",
+    "ru": "вентилятор: ежедневный осмотр"
+  },
+  {
+    "id": 421,
+    "en": "fan weekly inspection",
+    "ru": "вентилятор: еженедельный осмотр"
+  },
+  {
+    "id": 422,
+    "en": "fan preventive maintenance",
+    "ru": "вентилятор: профилактическое обслуживание"
+  },
+  {
+    "id": 423,
+    "en": "fan planned maintenance",
+    "ru": "вентилятор: плановое обслуживание"
+  },
+  {
+    "id": 424,
+    "en": "fan breakdown repair",
+    "ru": "вентилятор: ремонт после поломки"
+  },
+  {
+    "id": 425,
+    "en": "fan oil change",
+    "ru": "вентилятор: замена масла"
+  },
+  {
+    "id": 426,
+    "en": "fan filter change",
+    "ru": "вентилятор: замена фильтра"
+  },
+  {
+    "id": 427,
+    "en": "fan greasing",
+    "ru": "вентилятор: смазка"
+  },
+  {
+    "id": 428,
+    "en": "fan wash down",
+    "ru": "вентилятор: мойка"
+  },
+  {
+    "id": 429,
+    "en": "fan battery check",
+    "ru": "вентилятор: проверка аккумулятора"
+  },
+  {
+    "id": 430,
+    "en": "fan brake test",
+    "ru": "вентилятор: проверка тормозов"
+  },
+  {
+    "id": 431,
+    "en": "fan steering test",
+    "ru": "вентилятор: проверка рулевого управления"
+  },
+  {
+    "id": 432,
+    "en": "fan hydraulic leak",
+    "ru": "вентилятор: утечка гидравлики"
+  },
+  {
+    "id": 433,
+    "en": "fan coolant level",
+    "ru": "вентилятор: уровень охлаждающей жидкости"
+  },
+  {
+    "id": 434,
+    "en": "fan engine oil level",
+    "ru": "вентилятор: уровень моторного масла"
+  },
+  {
+    "id": 435,
+    "en": "fan tyre pressure",
+    "ru": "вентилятор: давление в шинах"
+  },
+  {
+    "id": 436,
+    "en": "fan fire suppression",
+    "ru": "вентилятор: пожаротушение"
+  },
+  {
+    "id": 437,
+    "en": "fan lockout tagout",
+    "ru": "вентилятор: блокировка и маркировка (LOTO)"
+  },
+  {
+    "id": 438,
+    "en": "auxiliary fan pre-start inspection",
+    "ru": "вентилятор местного проветривания: предсменный осмотр"
+  },
+  {
+    "id": 439,
+    "en": "auxiliary fan daily inspection",
+    "ru": "вентилятор местного проветривания: ежедневный осмотр"
+  },
+  {
+    "id": 440,
+    "en": "auxiliary fan weekly inspection",
+    "ru": "вентилятор местного проветривания: еженедельный осмотр"
+  },
+  {
+    "id": 441,
+    "en": "auxiliary fan preventive maintenance",
+    "ru": "вентилятор местного проветривания: профилактическое обслуживание"
+  },
+  {
+    "id": 442,
+    "en": "auxiliary fan planned maintenance",
+    "ru": "вентилятор местного проветривания: плановое обслуживание"
+  },
+  {
+    "id": 443,
+    "en": "auxiliary fan breakdown repair",
+    "ru": "вентилятор местного проветривания: ремонт после поломки"
+  },
+  {
+    "id": 444,
+    "en": "auxiliary fan oil change",
+    "ru": "вентилятор местного проветривания: замена масла"
+  },
+  {
+    "id": 445,
+    "en": "auxiliary fan filter change",
+    "ru": "вентилятор местного проветривания: замена фильтра"
+  },
+  {
+    "id": 446,
+    "en": "auxiliary fan greasing",
+    "ru": "вентилятор местного проветривания: смазка"
+  },
+  {
+    "id": 447,
+    "en": "auxiliary fan wash down",
+    "ru": "вентилятор местного проветривания: мойка"
+  },
+  {
+    "id": 448,
+    "en": "auxiliary fan battery check",
+    "ru": "вентилятор местного проветривания: проверка аккумулятора"
+  },
+  {
+    "id": 449,
+    "en": "auxiliary fan brake test",
+    "ru": "вентилятор местного проветривания: проверка тормозов"
+  },
+  {
+    "id": 450,
+    "en": "auxiliary fan steering test",
+    "ru": "вентилятор местного проветривания: проверка рулевого управления"
+  },
+  {
+    "id": 451,
+    "en": "auxiliary fan hydraulic leak",
+    "ru": "вентилятор местного проветривания: утечка гидравлики"
+  },
+  {
+    "id": 452,
+    "en": "auxiliary fan coolant level",
+    "ru": "вентилятор местного проветривания: уровень охлаждающей жидкости"
+  },
+  {
+    "id": 453,
+    "en": "auxiliary fan engine oil level",
+    "ru": "вентилятор местного проветривания: уровень моторного масла"
+  },
+  {
+    "id": 454,
+    "en": "auxiliary fan tyre pressure",
+    "ru": "вентилятор местного проветривания: давление в шинах"
+  },
+  {
+    "id": 455,
+    "en": "auxiliary fan fire suppression",
+    "ru": "вентилятор местного проветривания: пожаротушение"
+  },
+  {
+    "id": 456,
+    "en": "auxiliary fan lockout tagout",
+    "ru": "вентилятор местного проветривания: блокировка и маркировка (LOTO)"
+  },
+  {
+    "id": 457,
+    "en": "conveyor pre-start inspection",
+    "ru": "конвейер: предсменный осмотр"
+  },
+  {
+    "id": 458,
+    "en": "conveyor daily inspection",
+    "ru": "конвейер: ежедневный осмотр"
+  },
+  {
+    "id": 459,
+    "en": "conveyor weekly inspection",
+    "ru": "конвейер: еженедельный осмотр"
+  },
+  {
+    "id": 460,
+    "en": "conveyor preventive maintenance",
+    "ru": "конвейер: профилактическое обслуживание"
+  },
+  {
+    "id": 461,
+    "en": "conveyor planned maintenance",
+    "ru": "конвейер: плановое обслуживание"
+  },
+  {
+    "id": 462,
+    "en": "conveyor breakdown repair",
+    "ru": "конвейер: ремонт после поломки"
+  },
+  {
+    "id": 463,
+    "en": "conveyor oil change",
+    "ru": "конвейер: замена масла"
+  },
+  {
+    "id": 464,
+    "en": "conveyor filter change",
+    "ru": "конвейер: замена фильтра"
+  },
+  {
+    "id": 465,
+    "en": "conveyor greasing",
+    "ru": "конвейер: смазка"
+  },
+  {
+    "id": 466,
+    "en": "conveyor wash down",
+    "ru": "конвейер: мойка"
+  },
+  {
+    "id": 467,
+    "en": "conveyor battery check",
+    "ru": "конвейер: проверка аккумулятора"
+  },
+  {
+    "id": 468,
+    "en": "conveyor brake test",
+    "ru": "конвейер: проверка тормозов"
+  },
+  {
+    "id": 469,
+    "en": "conveyor steering test",
+    "ru": "конвейер: проверка рулевого управления"
+  },
+  {
+    "id": 470,
+    "en": "conveyor hydraulic leak",
+    "ru": "конвейер: утечка гидравлики"
+  },
+  {
+    "id": 471,
+    "en": "conveyor coolant level",
+    "ru": "конвейер: уровень охлаждающей жидкости"
+  },
+  {
+    "id": 472,
+    "en": "conveyor engine oil level",
+    "ru": "конвейер: уровень моторного масла"
+  },
+  {
+    "id": 473,
+    "en": "conveyor tyre pressure",
+    "ru": "конвейер: давление в шинах"
+  },
+  {
+    "id": 474,
+    "en": "conveyor fire suppression",
+    "ru": "конвейер: пожаротушение"
+  },
+  {
+    "id": 475,
+    "en": "conveyor lockout tagout",
+    "ru": "конвейер: блокировка и маркировка (LOTO)"
+  },
+  {
+    "id": 476,
+    "en": "crusher pre-start inspection",
+    "ru": "дробилка: предсменный осмотр"
+  },
+  {
+    "id": 477,
+    "en": "crusher daily inspection",
+    "ru": "дробилка: ежедневный осмотр"
+  },
+  {
+    "id": 478,
+    "en": "crusher weekly inspection",
+    "ru": "дробилка: еженедельный осмотр"
+  },
+  {
+    "id": 479,
+    "en": "crusher preventive maintenance",
+    "ru": "дробилка: профилактическое обслуживание"
+  },
+  {
+    "id": 480,
+    "en": "crusher planned maintenance",
+    "ru": "дробилка: плановое обслуживание"
+  },
+  {
+    "id": 481,
+    "en": "crusher breakdown repair",
+    "ru": "дробилка: ремонт после поломки"
+  },
+  {
+    "id": 482,
+    "en": "crusher oil change",
+    "ru": "дробилка: замена масла"
+  },
+  {
+    "id": 483,
+    "en": "crusher filter change",
+    "ru": "дробилка: замена фильтра"
+  },
+  {
+    "id": 484,
+    "en": "crusher greasing",
+    "ru": "дробилка: смазка"
+  },
+  {
+    "id": 485,
+    "en": "crusher wash down",
+    "ru": "дробилка: мойка"
+  },
+  {
+    "id": 486,
+    "en": "crusher battery check",
+    "ru": "дробилка: проверка аккумулятора"
+  },
+  {
+    "id": 487,
+    "en": "crusher brake test",
+    "ru": "дробилка: проверка тормозов"
+  },
+  {
+    "id": 488,
+    "en": "crusher steering test",
+    "ru": "дробилка: проверка рулевого управления"
+  },
+  {
+    "id": 489,
+    "en": "crusher hydraulic leak",
+    "ru": "дробилка: утечка гидравлики"
+  },
+  {
+    "id": 490,
+    "en": "crusher coolant level",
+    "ru": "дробилка: уровень охлаждающей жидкости"
+  },
+  {
+    "id": 491,
+    "en": "crusher engine oil level",
+    "ru": "дробилка: уровень моторного масла"
+  },
+  {
+    "id": 492,
+    "en": "crusher tyre pressure",
+    "ru": "дробилка: давление в шинах"
+  },
+  {
+    "id": 493,
+    "en": "crusher fire suppression",
+    "ru": "дробилка: пожаротушение"
+  },
+  {
+    "id": 494,
+    "en": "crusher lockout tagout",
+    "ru": "дробилка: блокировка и маркировка (LOTO)"
+  },
+  {
+    "id": 495,
+    "en": "mill pre-start inspection",
+    "ru": "мельница: предсменный осмотр"
+  },
+  {
+    "id": 496,
+    "en": "mill daily inspection",
+    "ru": "мельница: ежедневный осмотр"
+  },
+  {
+    "id": 497,
+    "en": "mill weekly inspection",
+    "ru": "мельница: еженедельный осмотр"
+  },
+  {
+    "id": 498,
+    "en": "mill preventive maintenance",
+    "ru": "мельница: профилактическое обслуживание"
+  },
+  {
+    "id": 499,
+    "en": "mill planned maintenance",
+    "ru": "мельница: плановое обслуживание"
+  },
+  {
+    "id": 500,
+    "en": "mill breakdown repair",
+    "ru": "мельница: ремонт после поломки"
+  },
+  {
+    "id": 501,
+    "en": "mill oil change",
+    "ru": "мельница: замена масла"
+  },
+  {
+    "id": 502,
+    "en": "mill filter change",
+    "ru": "мельница: замена фильтра"
+  },
+  {
+    "id": 503,
+    "en": "mill greasing",
+    "ru": "мельница: смазка"
+  },
+  {
+    "id": 504,
+    "en": "mill wash down",
+    "ru": "мельница: мойка"
+  },
+  {
+    "id": 505,
+    "en": "mill battery check",
+    "ru": "мельница: проверка аккумулятора"
+  },
+  {
+    "id": 506,
+    "en": "mill brake test",
+    "ru": "мельница: проверка тормозов"
+  },
+  {
+    "id": 507,
+    "en": "mill steering test",
+    "ru": "мельница: проверка рулевого управления"
+  },
+  {
+    "id": 508,
+    "en": "mill hydraulic leak",
+    "ru": "мельница: утечка гидравлики"
+  },
+  {
+    "id": 509,
+    "en": "mill coolant level",
+    "ru": "мельница: уровень охлаждающей жидкости"
+  },
+  {
+    "id": 510,
+    "en": "mill engine oil level",
+    "ru": "мельница: уровень моторного масла"
+  },
+  {
+    "id": 511,
+    "en": "mill tyre pressure",
+    "ru": "мельница: давление в шинах"
+  },
+  {
+    "id": 512,
+    "en": "mill fire suppression",
+    "ru": "мельница: пожаротушение"
+  },
+  {
+    "id": 513,
+    "en": "mill lockout tagout",
+    "ru": "мельница: блокировка и маркировка (LOTO)"
+  },
+  {
+    "id": 514,
+    "en": "thickener pre-start inspection",
+    "ru": "сгуститель: предсменный осмотр"
+  },
+  {
+    "id": 515,
+    "en": "thickener daily inspection",
+    "ru": "сгуститель: ежедневный осмотр"
+  },
+  {
+    "id": 516,
+    "en": "thickener weekly inspection",
+    "ru": "сгуститель: еженедельный осмотр"
+  },
+  {
+    "id": 517,
+    "en": "thickener preventive maintenance",
+    "ru": "сгуститель: профилактическое обслуживание"
+  },
+  {
+    "id": 518,
+    "en": "thickener planned maintenance",
+    "ru": "сгуститель: плановое обслуживание"
+  },
+  {
+    "id": 519,
+    "en": "thickener breakdown repair",
+    "ru": "сгуститель: ремонт после поломки"
+  },
+  {
+    "id": 520,
+    "en": "thickener oil change",
+    "ru": "сгуститель: замена масла"
+  },
+  {
+    "id": 521,
+    "en": "thickener filter change",
+    "ru": "сгуститель: замена фильтра"
+  },
+  {
+    "id": 522,
+    "en": "thickener greasing",
+    "ru": "сгуститель: смазка"
+  },
+  {
+    "id": 523,
+    "en": "thickener wash down",
+    "ru": "сгуститель: мойка"
+  },
+  {
+    "id": 524,
+    "en": "thickener battery check",
+    "ru": "сгуститель: проверка аккумулятора"
+  },
+  {
+    "id": 525,
+    "en": "thickener brake test",
+    "ru": "сгуститель: проверка тормозов"
+  },
+  {
+    "id": 526,
+    "en": "thickener steering test",
+    "ru": "сгуститель: проверка рулевого управления"
+  },
+  {
+    "id": 527,
+    "en": "thickener hydraulic leak",
+    "ru": "сгуститель: утечка гидравлики"
+  },
+  {
+    "id": 528,
+    "en": "thickener coolant level",
+    "ru": "сгуститель: уровень охлаждающей жидкости"
+  },
+  {
+    "id": 529,
+    "en": "thickener engine oil level",
+    "ru": "сгуститель: уровень моторного масла"
+  },
+  {
+    "id": 530,
+    "en": "thickener tyre pressure",
+    "ru": "сгуститель: давление в шинах"
+  },
+  {
+    "id": 531,
+    "en": "thickener fire suppression",
+    "ru": "сгуститель: пожаротушение"
+  },
+  {
+    "id": 532,
+    "en": "thickener lockout tagout",
+    "ru": "сгуститель: блокировка и маркировка (LOTO)"
+  },
+  {
+    "id": 533,
+    "en": "screen pre-start inspection",
+    "ru": "грохот: предсменный осмотр"
+  },
+  {
+    "id": 534,
+    "en": "screen daily inspection",
+    "ru": "грохот: ежедневный осмотр"
+  },
+  {
+    "id": 535,
+    "en": "screen weekly inspection",
+    "ru": "грохот: еженедельный осмотр"
+  },
+  {
+    "id": 536,
+    "en": "screen preventive maintenance",
+    "ru": "грохот: профилактическое обслуживание"
+  },
+  {
+    "id": 537,
+    "en": "screen planned maintenance",
+    "ru": "грохот: плановое обслуживание"
+  },
+  {
+    "id": 538,
+    "en": "screen breakdown repair",
+    "ru": "грохот: ремонт после поломки"
+  },
+  {
+    "id": 539,
+    "en": "screen oil change",
+    "ru": "грохот: замена масла"
+  },
+  {
+    "id": 540,
+    "en": "screen filter change",
+    "ru": "грохот: замена фильтра"
+  },
+  {
+    "id": 541,
+    "en": "screen greasing",
+    "ru": "грохот: смазка"
+  },
+  {
+    "id": 542,
+    "en": "screen wash down",
+    "ru": "грохот: мойка"
+  },
+  {
+    "id": 543,
+    "en": "screen battery check",
+    "ru": "грохот: проверка аккумулятора"
+  },
+  {
+    "id": 544,
+    "en": "screen brake test",
+    "ru": "грохот: проверка тормозов"
+  },
+  {
+    "id": 545,
+    "en": "screen steering test",
+    "ru": "грохот: проверка рулевого управления"
+  },
+  {
+    "id": 546,
+    "en": "screen hydraulic leak",
+    "ru": "грохот: утечка гидравлики"
+  },
+  {
+    "id": 547,
+    "en": "screen coolant level",
+    "ru": "грохот: уровень охлаждающей жидкости"
+  },
+  {
+    "id": 548,
+    "en": "screen engine oil level",
+    "ru": "грохот: уровень моторного масла"
+  },
+  {
+    "id": 549,
+    "en": "screen tyre pressure",
+    "ru": "грохот: давление в шинах"
+  },
+  {
+    "id": 550,
+    "en": "screen fire suppression",
+    "ru": "грохот: пожаротушение"
+  },
+  {
+    "id": 551,
+    "en": "screen lockout tagout",
+    "ru": "грохот: блокировка и маркировка (LOTO)"
+  },
+  {
+    "id": 552,
+    "en": "cyclone pre-start inspection",
+    "ru": "гидроциклон: предсменный осмотр"
+  },
+  {
+    "id": 553,
+    "en": "cyclone daily inspection",
+    "ru": "гидроциклон: ежедневный осмотр"
+  },
+  {
+    "id": 554,
+    "en": "cyclone weekly inspection",
+    "ru": "гидроциклон: еженедельный осмотр"
+  },
+  {
+    "id": 555,
+    "en": "cyclone preventive maintenance",
+    "ru": "гидроциклон: профилактическое обслуживание"
+  },
+  {
+    "id": 556,
+    "en": "cyclone planned maintenance",
+    "ru": "гидроциклон: плановое обслуживание"
+  },
+  {
+    "id": 557,
+    "en": "cyclone breakdown repair",
+    "ru": "гидроциклон: ремонт после поломки"
+  },
+  {
+    "id": 558,
+    "en": "cyclone oil change",
+    "ru": "гидроциклон: замена масла"
+  },
+  {
+    "id": 559,
+    "en": "cyclone filter change",
+    "ru": "гидроциклон: замена фильтра"
+  },
+  {
+    "id": 560,
+    "en": "cyclone greasing",
+    "ru": "гидроциклон: смазка"
+  },
+  {
+    "id": 561,
+    "en": "cyclone wash down",
+    "ru": "гидроциклон: мойка"
+  },
+  {
+    "id": 562,
+    "en": "cyclone battery check",
+    "ru": "гидроциклон: проверка аккумулятора"
+  },
+  {
+    "id": 563,
+    "en": "cyclone brake test",
+    "ru": "гидроциклон: проверка тормозов"
+  },
+  {
+    "id": 564,
+    "en": "cyclone steering test",
+    "ru": "гидроциклон: проверка рулевого управления"
+  },
+  {
+    "id": 565,
+    "en": "cyclone hydraulic leak",
+    "ru": "гидроциклон: утечка гидравлики"
+  },
+  {
+    "id": 566,
+    "en": "cyclone coolant level",
+    "ru": "гидроциклон: уровень охлаждающей жидкости"
+  },
+  {
+    "id": 567,
+    "en": "cyclone engine oil level",
+    "ru": "гидроциклон: уровень моторного масла"
+  },
+  {
+    "id": 568,
+    "en": "cyclone tyre pressure",
+    "ru": "гидроциклон: давление в шинах"
+  },
+  {
+    "id": 569,
+    "en": "cyclone fire suppression",
+    "ru": "гидроциклон: пожаротушение"
+  },
+  {
+    "id": 570,
+    "en": "cyclone lockout tagout",
+    "ru": "гидроциклон: блокировка и маркировка (LOTO)"
+  },
+  {
+    "id": 571,
+    "en": "filter press pre-start inspection",
+    "ru": "фильтр-пресс: предсменный осмотр"
+  },
+  {
+    "id": 572,
+    "en": "filter press daily inspection",
+    "ru": "фильтр-пресс: ежедневный осмотр"
+  },
+  {
+    "id": 573,
+    "en": "filter press weekly inspection",
+    "ru": "фильтр-пресс: еженедельный осмотр"
+  },
+  {
+    "id": 574,
+    "en": "filter press preventive maintenance",
+    "ru": "фильтр-пресс: профилактическое обслуживание"
+  },
+  {
+    "id": 575,
+    "en": "filter press planned maintenance",
+    "ru": "фильтр-пресс: плановое обслуживание"
+  },
+  {
+    "id": 576,
+    "en": "filter press breakdown repair",
+    "ru": "фильтр-пресс: ремонт после поломки"
+  },
+  {
+    "id": 577,
+    "en": "filter press oil change",
+    "ru": "фильтр-пресс: замена масла"
+  },
+  {
+    "id": 578,
+    "en": "filter press filter change",
+    "ru": "фильтр-пресс: замена фильтра"
+  },
+  {
+    "id": 579,
+    "en": "filter press greasing",
+    "ru": "фильтр-пресс: смазка"
+  },
+  {
+    "id": 580,
+    "en": "filter press wash down",
+    "ru": "фильтр-пресс: мойка"
+  },
+  {
+    "id": 581,
+    "en": "filter press battery check",
+    "ru": "фильтр-пресс: проверка аккумулятора"
+  },
+  {
+    "id": 582,
+    "en": "filter press brake test",
+    "ru": "фильтр-пресс: проверка тормозов"
+  },
+  {
+    "id": 583,
+    "en": "filter press steering test",
+    "ru": "фильтр-пресс: проверка рулевого управления"
+  },
+  {
+    "id": 584,
+    "en": "filter press hydraulic leak",
+    "ru": "фильтр-пресс: утечка гидравлики"
+  },
+  {
+    "id": 585,
+    "en": "filter press coolant level",
+    "ru": "фильтр-пресс: уровень охлаждающей жидкости"
+  },
+  {
+    "id": 586,
+    "en": "filter press engine oil level",
+    "ru": "фильтр-пресс: уровень моторного масла"
+  },
+  {
+    "id": 587,
+    "en": "filter press tyre pressure",
+    "ru": "фильтр-пресс: давление в шинах"
+  },
+  {
+    "id": 588,
+    "en": "filter press fire suppression",
+    "ru": "фильтр-пресс: пожаротушение"
+  },
+  {
+    "id": 589,
+    "en": "filter press lockout tagout",
+    "ru": "фильтр-пресс: блокировка и маркировка (LOTO)"
+  },
+  {
+    "id": 590,
+    "en": "stope inspection",
+    "ru": "очистная камера: осмотр"
+  },
+  {
+    "id": 591,
+    "en": "stope scaling",
+    "ru": "очистная камера: оборка"
+  },
+  {
+    "id": 592,
+    "en": "stope support installation",
+    "ru": "очистная камера: установка крепи"
+  },
+  {
+    "id": 593,
+    "en": "stope drilling",
+    "ru": "очистная камера: бурение"
+  },
+  {
+    "id": 594,
+    "en": "stope charging",
+    "ru": "очистная камера: заряжание"
+  },
+  {
+    "id": 595,
+    "en": "stope mucking",
+    "ru": "очистная камера: погрузка породы"
+  },
+  {
+    "id": 596,
+    "en": "stope clean-up",
+    "ru": "очистная камера: уборка"
+  },
+  {
+    "id": 597,
+    "en": "stope survey",
+    "ru": "очистная камера: съемка"
+  },
+  {
+    "id": 598,
+    "en": "stope ventilation check",
+    "ru": "очистная камера: проверка вентиляции"
+  },
+  {
+    "id": 599,
+    "en": "development face inspection",
+    "ru": "проходческий забой: осмотр"
+  },
+  {
+    "id": 600,
+    "en": "development face scaling",
+    "ru": "проходческий забой: оборка"
+  },
+  {
+    "id": 601,
+    "en": "development face support installation",
+    "ru": "проходческий забой: установка крепи"
+  },
+  {
+    "id": 602,
+    "en": "development face drilling",
+    "ru": "проходческий забой: бурение"
+  },
+  {
+    "id": 603,
+    "en": "development face charging",
+    "ru": "проходческий забой: заряжание"
+  },
+  {
+    "id": 604,
+    "en": "development face mucking",
+    "ru": "проходческий забой: погрузка породы"
+  },
+  {
+    "id": 605,
+    "en": "development face clean-up",
+    "ru": "проходческий забой: уборка"
+  },
+  {
+    "id": 606,
+    "en": "development face survey",
+    "ru": "проходческий забой: съемка"
+  },
+  {
+    "id": 607,
+    "en": "development face ventilation check",
+    "ru": "проходческий забой: проверка вентиляции"
+  },
+  {
+    "id": 608,
+    "en": "production face inspection",
+    "ru": "очистной забой: осмотр"
+  },
+  {
+    "id": 609,
+    "en": "production face scaling",
+    "ru": "очистной забой: оборка"
+  },
+  {
+    "id": 610,
+    "en": "production face support installation",
+    "ru": "очистной забой: установка крепи"
+  },
+  {
+    "id": 611,
+    "en": "production face drilling",
+    "ru": "очистной забой: бурение"
+  },
+  {
+    "id": 612,
+    "en": "production face charging",
+    "ru": "очистной забой: заряжание"
+  },
+  {
+    "id": 613,
+    "en": "production face mucking",
+    "ru": "очистной забой: погрузка породы"
+  },
+  {
+    "id": 614,
+    "en": "production face clean-up",
+    "ru": "очистной забой: уборка"
+  },
+  {
+    "id": 615,
+    "en": "production face survey",
+    "ru": "очистной забой: съемка"
+  },
+  {
+    "id": 616,
+    "en": "production face ventilation check",
+    "ru": "очистной забой: проверка вентиляции"
+  },
+  {
+    "id": 617,
+    "en": "drift inspection",
+    "ru": "штрек: осмотр"
+  },
+  {
+    "id": 618,
+    "en": "drift scaling",
+    "ru": "штрек: оборка"
+  },
+  {
+    "id": 619,
+    "en": "drift support installation",
+    "ru": "штрек: установка крепи"
+  },
+  {
+    "id": 620,
+    "en": "drift drilling",
+    "ru": "штрек: бурение"
+  },
+  {
+    "id": 621,
+    "en": "drift charging",
+    "ru": "штрек: заряжание"
+  },
+  {
+    "id": 622,
+    "en": "drift mucking",
+    "ru": "штрек: погрузка породы"
+  },
+  {
+    "id": 623,
+    "en": "drift clean-up",
+    "ru": "штрек: уборка"
+  },
+  {
+    "id": 624,
+    "en": "drift survey",
+    "ru": "штрек: съемка"
+  },
+  {
+    "id": 625,
+    "en": "drift ventilation check",
+    "ru": "штрек: проверка вентиляции"
+  },
+  {
+    "id": 626,
+    "en": "crosscut inspection",
+    "ru": "квершлаг: осмотр"
+  },
+  {
+    "id": 627,
+    "en": "crosscut scaling",
+    "ru": "квершлаг: оборка"
+  },
+  {
+    "id": 628,
+    "en": "crosscut support installation",
+    "ru": "квершлаг: установка крепи"
+  },
+  {
+    "id": 629,
+    "en": "crosscut drilling",
+    "ru": "квершлаг: бурение"
+  },
+  {
+    "id": 630,
+    "en": "crosscut charging",
+    "ru": "квершлаг: заряжание"
+  },
+  {
+    "id": 631,
+    "en": "crosscut mucking",
+    "ru": "квершлаг: погрузка породы"
+  },
+  {
+    "id": 632,
+    "en": "crosscut clean-up",
+    "ru": "квершлаг: уборка"
+  },
+  {
+    "id": 633,
+    "en": "crosscut survey",
+    "ru": "квершлаг: съемка"
+  },
+  {
+    "id": 634,
+    "en": "crosscut ventilation check",
+    "ru": "квершлаг: проверка вентиляции"
+  },
+  {
+    "id": 635,
+    "en": "raise inspection",
+    "ru": "восстающая: осмотр"
+  },
+  {
+    "id": 636,
+    "en": "raise scaling",
+    "ru": "восстающая: оборка"
+  },
+  {
+    "id": 637,
+    "en": "raise support installation",
+    "ru": "восстающая: установка крепи"
+  },
+  {
+    "id": 638,
+    "en": "raise drilling",
+    "ru": "восстающая: бурение"
+  },
+  {
+    "id": 639,
+    "en": "raise charging",
+    "ru": "восстающая: заряжание"
+  },
+  {
+    "id": 640,
+    "en": "raise mucking",
+    "ru": "восстающая: погрузка породы"
+  },
+  {
+    "id": 641,
+    "en": "raise clean-up",
+    "ru": "восстающая: уборка"
+  },
+  {
+    "id": 642,
+    "en": "raise survey",
+    "ru": "восстающая: съемка"
+  },
+  {
+    "id": 643,
+    "en": "raise ventilation check",
+    "ru": "восстающая: проверка вентиляции"
+  },
+  {
+    "id": 644,
+    "en": "winze inspection",
+    "ru": "нисходящая: осмотр"
+  },
+  {
+    "id": 645,
+    "en": "winze scaling",
+    "ru": "нисходящая: оборка"
+  },
+  {
+    "id": 646,
+    "en": "winze support installation",
+    "ru": "нисходящая: установка крепи"
+  },
+  {
+    "id": 647,
+    "en": "winze drilling",
+    "ru": "нисходящая: бурение"
+  },
+  {
+    "id": 648,
+    "en": "winze charging",
+    "ru": "нисходящая: заряжание"
+  },
+  {
+    "id": 649,
+    "en": "winze mucking",
+    "ru": "нисходящая: погрузка породы"
+  },
+  {
+    "id": 650,
+    "en": "winze clean-up",
+    "ru": "нисходящая: уборка"
+  },
+  {
+    "id": 651,
+    "en": "winze survey",
+    "ru": "нисходящая: съемка"
+  },
+  {
+    "id": 652,
+    "en": "winze ventilation check",
+    "ru": "нисходящая: проверка вентиляции"
+  },
+  {
+    "id": 653,
+    "en": "shaft inspection",
+    "ru": "ствол: осмотр"
+  },
+  {
+    "id": 654,
+    "en": "shaft scaling",
+    "ru": "ствол: оборка"
+  },
+  {
+    "id": 655,
+    "en": "shaft support installation",
+    "ru": "ствол: установка крепи"
+  },
+  {
+    "id": 656,
+    "en": "shaft drilling",
+    "ru": "ствол: бурение"
+  },
+  {
+    "id": 657,
+    "en": "shaft charging",
+    "ru": "ствол: заряжание"
+  },
+  {
+    "id": 658,
+    "en": "shaft mucking",
+    "ru": "ствол: погрузка породы"
+  },
+  {
+    "id": 659,
+    "en": "shaft clean-up",
+    "ru": "ствол: уборка"
+  },
+  {
+    "id": 660,
+    "en": "shaft survey",
+    "ru": "ствол: съемка"
+  },
+  {
+    "id": 661,
+    "en": "shaft ventilation check",
+    "ru": "ствол: проверка вентиляции"
+  },
+  {
+    "id": 662,
+    "en": "ramp inspection",
+    "ru": "уклон: осмотр"
+  },
+  {
+    "id": 663,
+    "en": "ramp scaling",
+    "ru": "уклон: оборка"
+  },
+  {
+    "id": 664,
+    "en": "ramp support installation",
+    "ru": "уклон: установка крепи"
+  },
+  {
+    "id": 665,
+    "en": "ramp drilling",
+    "ru": "уклон: бурение"
+  },
+  {
+    "id": 666,
+    "en": "ramp charging",
+    "ru": "уклон: заряжание"
+  },
+  {
+    "id": 667,
+    "en": "ramp mucking",
+    "ru": "уклон: погрузка породы"
+  },
+  {
+    "id": 668,
+    "en": "ramp clean-up",
+    "ru": "уклон: уборка"
+  },
+  {
+    "id": 669,
+    "en": "ramp survey",
+    "ru": "уклон: съемка"
+  },
+  {
+    "id": 670,
+    "en": "ramp ventilation check",
+    "ru": "уклон: проверка вентиляции"
+  },
+  {
+    "id": 671,
+    "en": "level inspection",
+    "ru": "горизонт: осмотр"
+  },
+  {
+    "id": 672,
+    "en": "level scaling",
+    "ru": "горизонт: оборка"
+  },
+  {
+    "id": 673,
+    "en": "level support installation",
+    "ru": "горизонт: установка крепи"
+  },
+  {
+    "id": 674,
+    "en": "level drilling",
+    "ru": "горизонт: бурение"
+  },
+  {
+    "id": 675,
+    "en": "level charging",
+    "ru": "горизонт: заряжание"
+  },
+  {
+    "id": 676,
+    "en": "level mucking",
+    "ru": "горизонт: погрузка породы"
+  },
+  {
+    "id": 677,
+    "en": "level clean-up",
+    "ru": "горизонт: уборка"
+  },
+  {
+    "id": 678,
+    "en": "level survey",
+    "ru": "горизонт: съемка"
+  },
+  {
+    "id": 679,
+    "en": "level ventilation check",
+    "ru": "горизонт: проверка вентиляции"
+  },
+  {
+    "id": 680,
+    "en": "sublevel inspection",
+    "ru": "подэтаж: осмотр"
+  },
+  {
+    "id": 681,
+    "en": "sublevel scaling",
+    "ru": "подэтаж: оборка"
+  },
+  {
+    "id": 682,
+    "en": "sublevel support installation",
+    "ru": "подэтаж: установка крепи"
+  },
+  {
+    "id": 683,
+    "en": "sublevel drilling",
+    "ru": "подэтаж: бурение"
+  },
+  {
+    "id": 684,
+    "en": "sublevel charging",
+    "ru": "подэтаж: заряжание"
+  },
+  {
+    "id": 685,
+    "en": "sublevel mucking",
+    "ru": "подэтаж: погрузка породы"
+  },
+  {
+    "id": 686,
+    "en": "sublevel clean-up",
+    "ru": "подэтаж: уборка"
+  },
+  {
+    "id": 687,
+    "en": "sublevel survey",
+    "ru": "подэтаж: съемка"
+  },
+  {
+    "id": 688,
+    "en": "sublevel ventilation check",
+    "ru": "подэтаж: проверка вентиляции"
+  },
+  {
+    "id": 689,
+    "en": "ore pass inspection",
+    "ru": "рудоспуск: осмотр"
+  },
+  {
+    "id": 690,
+    "en": "ore pass scaling",
+    "ru": "рудоспуск: оборка"
+  },
+  {
+    "id": 691,
+    "en": "ore pass support installation",
+    "ru": "рудоспуск: установка крепи"
+  },
+  {
+    "id": 692,
+    "en": "ore pass drilling",
+    "ru": "рудоспуск: бурение"
+  },
+  {
+    "id": 693,
+    "en": "ore pass charging",
+    "ru": "рудоспуск: заряжание"
+  },
+  {
+    "id": 694,
+    "en": "ore pass mucking",
+    "ru": "рудоспуск: погрузка породы"
+  },
+  {
+    "id": 695,
+    "en": "ore pass clean-up",
+    "ru": "рудоспуск: уборка"
+  },
+  {
+    "id": 696,
+    "en": "ore pass survey",
+    "ru": "рудоспуск: съемка"
+  },
+  {
+    "id": 697,
+    "en": "ore pass ventilation check",
+    "ru": "рудоспуск: проверка вентиляции"
+  },
+  {
+    "id": 698,
+    "en": "vent raise inspection",
+    "ru": "вентвосстающая: осмотр"
+  },
+  {
+    "id": 699,
+    "en": "vent raise scaling",
+    "ru": "вентвосстающая: оборка"
+  },
+  {
+    "id": 700,
+    "en": "vent raise support installation",
+    "ru": "вентвосстающая: установка крепи"
+  },
+  {
+    "id": 701,
+    "en": "vent raise drilling",
+    "ru": "вентвосстающая: бурение"
+  },
+  {
+    "id": 702,
+    "en": "vent raise charging",
+    "ru": "вентвосстающая: заряжание"
+  },
+  {
+    "id": 703,
+    "en": "vent raise mucking",
+    "ru": "вентвосстающая: погрузка породы"
+  },
+  {
+    "id": 704,
+    "en": "vent raise clean-up",
+    "ru": "вентвосстающая: уборка"
+  },
+  {
+    "id": 705,
+    "en": "vent raise survey",
+    "ru": "вентвосстающая: съемка"
+  },
+  {
+    "id": 706,
+    "en": "vent raise ventilation check",
+    "ru": "вентвосстающая: проверка вентиляции"
+  },
+  {
+    "id": 707,
+    "en": "escape way inspection",
+    "ru": "запасной выход: осмотр"
+  },
+  {
+    "id": 708,
+    "en": "escape way scaling",
+    "ru": "запасной выход: оборка"
+  },
+  {
+    "id": 709,
+    "en": "escape way support installation",
+    "ru": "запасной выход: установка крепи"
+  },
+  {
+    "id": 710,
+    "en": "escape way drilling",
+    "ru": "запасной выход: бурение"
+  },
+  {
+    "id": 711,
+    "en": "escape way charging",
+    "ru": "запасной выход: заряжание"
+  },
+  {
+    "id": 712,
+    "en": "escape way mucking",
+    "ru": "запасной выход: погрузка породы"
+  },
+  {
+    "id": 713,
+    "en": "escape way clean-up",
+    "ru": "запасной выход: уборка"
+  },
+  {
+    "id": 714,
+    "en": "escape way survey",
+    "ru": "запасной выход: съемка"
+  },
+  {
+    "id": 715,
+    "en": "escape way ventilation check",
+    "ru": "запасной выход: проверка вентиляции"
+  },
+  {
+    "id": 716,
+    "en": "refuge chamber inspection",
+    "ru": "убежище: осмотр"
+  },
+  {
+    "id": 717,
+    "en": "refuge chamber scaling",
+    "ru": "убежище: оборка"
+  },
+  {
+    "id": 718,
+    "en": "refuge chamber support installation",
+    "ru": "убежище: установка крепи"
+  },
+  {
+    "id": 719,
+    "en": "refuge chamber drilling",
+    "ru": "убежище: бурение"
+  },
+  {
+    "id": 720,
+    "en": "refuge chamber charging",
+    "ru": "убежище: заряжание"
+  },
+  {
+    "id": 721,
+    "en": "refuge chamber mucking",
+    "ru": "убежище: погрузка породы"
+  },
+  {
+    "id": 722,
+    "en": "refuge chamber clean-up",
+    "ru": "убежище: уборка"
+  },
+  {
+    "id": 723,
+    "en": "refuge chamber survey",
+    "ru": "убежище: съемка"
+  },
+  {
+    "id": 724,
+    "en": "refuge chamber ventilation check",
+    "ru": "убежище: проверка вентиляции"
+  },
+  {
+    "id": 725,
+    "en": "bay inspection",
+    "ru": "карман: осмотр"
+  },
+  {
+    "id": 726,
+    "en": "bay scaling",
+    "ru": "карман: оборка"
+  },
+  {
+    "id": 727,
+    "en": "bay support installation",
+    "ru": "карман: установка крепи"
+  },
+  {
+    "id": 728,
+    "en": "bay drilling",
+    "ru": "карман: бурение"
+  },
+  {
+    "id": 729,
+    "en": "bay charging",
+    "ru": "карман: заряжание"
+  },
+  {
+    "id": 730,
+    "en": "bay mucking",
+    "ru": "карман: погрузка породы"
+  },
+  {
+    "id": 731,
+    "en": "bay clean-up",
+    "ru": "карман: уборка"
+  },
+  {
+    "id": 732,
+    "en": "bay survey",
+    "ru": "карман: съемка"
+  },
+  {
+    "id": 733,
+    "en": "bay ventilation check",
+    "ru": "карман: проверка вентиляции"
+  },
+  {
+    "id": 734,
+    "en": "workshop inspection",
+    "ru": "ремонтная зона: осмотр"
+  },
+  {
+    "id": 735,
+    "en": "workshop scaling",
+    "ru": "ремонтная зона: оборка"
+  },
+  {
+    "id": 736,
+    "en": "workshop support installation",
+    "ru": "ремонтная зона: установка крепи"
+  },
+  {
+    "id": 737,
+    "en": "workshop drilling",
+    "ru": "ремонтная зона: бурение"
+  },
+  {
+    "id": 738,
+    "en": "workshop charging",
+    "ru": "ремонтная зона: заряжание"
+  },
+  {
+    "id": 739,
+    "en": "workshop mucking",
+    "ru": "ремонтная зона: погрузка породы"
+  },
+  {
+    "id": 740,
+    "en": "workshop clean-up",
+    "ru": "ремонтная зона: уборка"
+  },
+  {
+    "id": 741,
+    "en": "workshop survey",
+    "ru": "ремонтная зона: съемка"
+  },
+  {
+    "id": 742,
+    "en": "workshop ventilation check",
+    "ru": "ремонтная зона: проверка вентиляции"
+  },
+  {
+    "id": 743,
+    "en": "crushing and grinding",
+    "ru": "дробление и измельчение"
+  },
+  {
+    "id": 744,
+    "en": "grinding and screening",
+    "ru": "измельчение и грохочение"
+  },
+  {
+    "id": 745,
+    "en": "screening and classification",
+    "ru": "грохочение и классификация"
+  },
+  {
+    "id": 746,
+    "en": "classification and flotation",
+    "ru": "классификация и флотация"
+  },
+  {
+    "id": 747,
+    "en": "flotation and leaching",
+    "ru": "флотация и выщелачивание"
+  },
+  {
+    "id": 748,
+    "en": "leaching and cyanidation",
+    "ru": "выщелачивание и цианирование"
+  },
+  {
+    "id": 749,
+    "en": "cyanidation and CIL",
+    "ru": "цианирование и CIL (уголь-в-выщелачивании)"
+  },
+  {
+    "id": 750,
+    "en": "CIL and CIP",
+    "ru": "CIL (уголь-в-выщелачивании) и CIP (уголь-в-пульпе)"
+  },
+  {
+    "id": 751,
+    "en": "CIP and adsorption",
+    "ru": "CIP (уголь-в-пульпе) и адсорбция"
+  },
+  {
+    "id": 752,
+    "en": "adsorption and elution",
+    "ru": "адсорбция и десорбция"
+  },
+  {
+    "id": 753,
+    "en": "elution and electrowinning",
+    "ru": "десорбция и электроосаждение"
+  },
+  {
+    "id": 754,
+    "en": "electrowinning and smelting",
+    "ru": "электроосаждение и плавка"
+  },
+  {
+    "id": 755,
+    "en": "smelting and refining",
+    "ru": "плавка и рафинирование"
+  },
+  {
+    "id": 756,
+    "en": "refining and tailings",
+    "ru": "рафинирование и хвосты"
+  },
+  {
+    "id": 757,
+    "en": "tailings and tailings dam",
+    "ru": "хвосты и хвостохранилище"
+  },
+  {
+    "id": 758,
+    "en": "tailings dam and reagent",
+    "ru": "хвостохранилище и реагент"
+  },
+  {
+    "id": 759,
+    "en": "reagent and lime",
+    "ru": "реагент и известь"
+  },
+  {
+    "id": 760,
+    "en": "lime and cyanide",
+    "ru": "известь и цианид"
+  },
+  {
+    "id": 761,
+    "en": "check oil level",
+    "ru": "проверить уровень масла"
+  },
+  {
+    "id": 762,
+    "en": "check brakes",
+    "ru": "проверить тормоза"
+  },
+  {
+    "id": 763,
+    "en": "check steering",
+    "ru": "проверить рулевое управление"
+  },
+  {
+    "id": 764,
+    "en": "check hydraulic hose",
+    "ru": "проверить гидрошланг"
+  },
+  {
+    "id": 765,
+    "en": "check hydraulic cylinder",
+    "ru": "проверить гидроцилиндр"
+  },
+  {
+    "id": 766,
+    "en": "check filters",
+    "ru": "проверить фильтры"
+  },
+  {
+    "id": 767,
+    "en": "check bolts",
+    "ru": "проверить анкера"
+  },
+  {
+    "id": 768,
+    "en": "check vent duct",
+    "ru": "проверить вентрукав"
+  },
+  {
+    "id": 769,
+    "en": "check gas level",
+    "ru": "проверить уровень газа"
+  },
+  {
+    "id": 770,
+    "en": "check air velocity",
+    "ru": "проверить скорость воздуха"
+  },
+  {
+    "id": 771,
+    "en": "check water level",
+    "ru": "проверить уровень воды"
+  },
+  {
+    "id": 772,
+    "en": "check work area",
+    "ru": "проверить рабочую зону"
+  },
+  {
+    "id": 773,
+    "en": "check PPE",
+    "ru": "проверить СИЗ"
+  },
+  {
+    "id": 774,
+    "en": "check tools",
+    "ru": "проверить инструменты"
+  },
+  {
+    "id": 775,
+    "en": "check equipment",
+    "ru": "проверить технику"
+  },
+  {
+    "id": 776,
+    "en": "inspect oil level",
+    "ru": "осмотреть уровень масла"
+  },
+  {
+    "id": 777,
+    "en": "inspect brakes",
+    "ru": "осмотреть тормоза"
+  },
+  {
+    "id": 778,
+    "en": "inspect steering",
+    "ru": "осмотреть рулевое управление"
+  },
+  {
+    "id": 779,
+    "en": "inspect hydraulic hose",
+    "ru": "осмотреть гидрошланг"
+  },
+  {
+    "id": 780,
+    "en": "inspect hydraulic cylinder",
+    "ru": "осмотреть гидроцилиндр"
+  },
+  {
+    "id": 781,
+    "en": "inspect filters",
+    "ru": "осмотреть фильтры"
+  },
+  {
+    "id": 782,
+    "en": "inspect bolts",
+    "ru": "осмотреть анкера"
+  },
+  {
+    "id": 783,
+    "en": "inspect vent duct",
+    "ru": "осмотреть вентрукав"
+  },
+  {
+    "id": 784,
+    "en": "inspect gas level",
+    "ru": "осмотреть уровень газа"
+  },
+  {
+    "id": 785,
+    "en": "inspect air velocity",
+    "ru": "осмотреть скорость воздуха"
+  },
+  {
+    "id": 786,
+    "en": "inspect water level",
+    "ru": "осмотреть уровень воды"
+  },
+  {
+    "id": 787,
+    "en": "inspect work area",
+    "ru": "осмотреть рабочую зону"
+  },
+  {
+    "id": 788,
+    "en": "inspect PPE",
+    "ru": "осмотреть СИЗ"
+  },
+  {
+    "id": 789,
+    "en": "inspect tools",
+    "ru": "осмотреть инструменты"
+  },
+  {
+    "id": 790,
+    "en": "inspect equipment",
+    "ru": "осмотреть технику"
+  },
+  {
+    "id": 791,
+    "en": "repair oil level",
+    "ru": "отремонтировать уровень масла"
+  },
+  {
+    "id": 792,
+    "en": "repair brakes",
+    "ru": "отремонтировать тормоза"
+  },
+  {
+    "id": 793,
+    "en": "repair steering",
+    "ru": "отремонтировать рулевое управление"
+  },
+  {
+    "id": 794,
+    "en": "repair hydraulic hose",
+    "ru": "отремонтировать гидрошланг"
+  },
+  {
+    "id": 795,
+    "en": "repair hydraulic cylinder",
+    "ru": "отремонтировать гидроцилиндр"
+  },
+  {
+    "id": 796,
+    "en": "repair filters",
+    "ru": "отремонтировать фильтры"
+  },
+  {
+    "id": 797,
+    "en": "repair bolts",
+    "ru": "отремонтировать анкера"
+  },
+  {
+    "id": 798,
+    "en": "repair vent duct",
+    "ru": "отремонтировать вентрукав"
+  },
+  {
+    "id": 799,
+    "en": "repair gas level",
+    "ru": "отремонтировать уровень газа"
+  },
+  {
+    "id": 800,
+    "en": "repair air velocity",
+    "ru": "отремонтировать скорость воздуха"
+  },
+  {
+    "id": 801,
+    "en": "repair water level",
+    "ru": "отремонтировать уровень воды"
+  },
+  {
+    "id": 802,
+    "en": "repair work area",
+    "ru": "отремонтировать рабочую зону"
+  },
+  {
+    "id": 803,
+    "en": "repair PPE",
+    "ru": "отремонтировать СИЗ"
+  },
+  {
+    "id": 804,
+    "en": "repair tools",
+    "ru": "отремонтировать инструменты"
+  },
+  {
+    "id": 805,
+    "en": "repair equipment",
+    "ru": "отремонтировать технику"
+  },
+  {
+    "id": 806,
+    "en": "replace oil level",
+    "ru": "заменить уровень масла"
+  },
+  {
+    "id": 807,
+    "en": "replace brakes",
+    "ru": "заменить тормоза"
+  },
+  {
+    "id": 808,
+    "en": "replace steering",
+    "ru": "заменить рулевое управление"
+  },
+  {
+    "id": 809,
+    "en": "replace hydraulic hose",
+    "ru": "заменить гидрошланг"
+  },
+  {
+    "id": 810,
+    "en": "replace hydraulic cylinder",
+    "ru": "заменить гидроцилиндр"
+  },
+  {
+    "id": 811,
+    "en": "replace filters",
+    "ru": "заменить фильтры"
+  },
+  {
+    "id": 812,
+    "en": "replace bolts",
+    "ru": "заменить анкера"
+  },
+  {
+    "id": 813,
+    "en": "replace vent duct",
+    "ru": "заменить вентрукав"
+  },
+  {
+    "id": 814,
+    "en": "replace gas level",
+    "ru": "заменить уровень газа"
+  },
+  {
+    "id": 815,
+    "en": "replace air velocity",
+    "ru": "заменить скорость воздуха"
+  },
+  {
+    "id": 816,
+    "en": "replace water level",
+    "ru": "заменить уровень воды"
+  },
+  {
+    "id": 817,
+    "en": "replace work area",
+    "ru": "заменить рабочую зону"
+  },
+  {
+    "id": 818,
+    "en": "replace PPE",
+    "ru": "заменить СИЗ"
+  },
+  {
+    "id": 819,
+    "en": "replace tools",
+    "ru": "заменить инструменты"
+  },
+  {
+    "id": 820,
+    "en": "replace equipment",
+    "ru": "заменить технику"
+  },
+  {
+    "id": 821,
+    "en": "install oil level",
+    "ru": "установить уровень масла"
+  },
+  {
+    "id": 822,
+    "en": "install brakes",
+    "ru": "установить тормоза"
+  },
+  {
+    "id": 823,
+    "en": "install steering",
+    "ru": "установить рулевое управление"
+  },
+  {
+    "id": 824,
+    "en": "install hydraulic hose",
+    "ru": "установить гидрошланг"
+  },
+  {
+    "id": 825,
+    "en": "install hydraulic cylinder",
+    "ru": "установить гидроцилиндр"
+  },
+  {
+    "id": 826,
+    "en": "install filters",
+    "ru": "установить фильтры"
+  },
+  {
+    "id": 827,
+    "en": "install bolts",
+    "ru": "установить анкера"
+  },
+  {
+    "id": 828,
+    "en": "install vent duct",
+    "ru": "установить вентрукав"
+  },
+  {
+    "id": 829,
+    "en": "install gas level",
+    "ru": "установить уровень газа"
+  },
+  {
+    "id": 830,
+    "en": "install air velocity",
+    "ru": "установить скорость воздуха"
+  },
+  {
+    "id": 831,
+    "en": "install water level",
+    "ru": "установить уровень воды"
+  },
+  {
+    "id": 832,
+    "en": "install work area",
+    "ru": "установить рабочую зону"
+  },
+  {
+    "id": 833,
+    "en": "install PPE",
+    "ru": "установить СИЗ"
+  },
+  {
+    "id": 834,
+    "en": "install tools",
+    "ru": "установить инструменты"
+  },
+  {
+    "id": 835,
+    "en": "install equipment",
+    "ru": "установить технику"
+  },
+  {
+    "id": 836,
+    "en": "remove oil level",
+    "ru": "снять уровень масла"
+  },
+  {
+    "id": 837,
+    "en": "remove brakes",
+    "ru": "снять тормоза"
+  },
+  {
+    "id": 838,
+    "en": "remove steering",
+    "ru": "снять рулевое управление"
+  },
+  {
+    "id": 839,
+    "en": "remove hydraulic hose",
+    "ru": "снять гидрошланг"
+  },
+  {
+    "id": 840,
+    "en": "remove hydraulic cylinder",
+    "ru": "снять гидроцилиндр"
+  },
+  {
+    "id": 841,
+    "en": "remove filters",
+    "ru": "снять фильтры"
+  },
+  {
+    "id": 842,
+    "en": "remove bolts",
+    "ru": "снять анкера"
+  },
+  {
+    "id": 843,
+    "en": "remove vent duct",
+    "ru": "снять вентрукав"
+  },
+  {
+    "id": 844,
+    "en": "remove gas level",
+    "ru": "снять уровень газа"
+  },
+  {
+    "id": 845,
+    "en": "remove air velocity",
+    "ru": "снять скорость воздуха"
+  },
+  {
+    "id": 846,
+    "en": "remove water level",
+    "ru": "снять уровень воды"
+  },
+  {
+    "id": 847,
+    "en": "remove work area",
+    "ru": "снять рабочую зону"
+  },
+  {
+    "id": 848,
+    "en": "remove PPE",
+    "ru": "снять СИЗ"
+  },
+  {
+    "id": 849,
+    "en": "remove tools",
+    "ru": "снять инструменты"
+  },
+  {
+    "id": 850,
+    "en": "remove equipment",
+    "ru": "снять технику"
+  },
+  {
+    "id": 851,
+    "en": "measure oil level",
+    "ru": "измерить уровень масла"
+  },
+  {
+    "id": 852,
+    "en": "measure brakes",
+    "ru": "измерить тормоза"
+  },
+  {
+    "id": 853,
+    "en": "measure steering",
+    "ru": "измерить рулевое управление"
+  },
+  {
+    "id": 854,
+    "en": "measure hydraulic hose",
+    "ru": "измерить гидрошланг"
+  },
+  {
+    "id": 855,
+    "en": "measure hydraulic cylinder",
+    "ru": "измерить гидроцилиндр"
+  },
+  {
+    "id": 856,
+    "en": "measure filters",
+    "ru": "измерить фильтры"
+  },
+  {
+    "id": 857,
+    "en": "measure bolts",
+    "ru": "измерить анкера"
+  },
+  {
+    "id": 858,
+    "en": "measure vent duct",
+    "ru": "измерить вентрукав"
+  },
+  {
+    "id": 859,
+    "en": "measure gas level",
+    "ru": "измерить уровень газа"
+  },
+  {
+    "id": 860,
+    "en": "measure air velocity",
+    "ru": "измерить скорость воздуха"
+  },
+  {
+    "id": 861,
+    "en": "measure water level",
+    "ru": "измерить уровень воды"
+  },
+  {
+    "id": 862,
+    "en": "measure work area",
+    "ru": "измерить рабочую зону"
+  },
+  {
+    "id": 863,
+    "en": "measure PPE",
+    "ru": "измерить СИЗ"
+  },
+  {
+    "id": 864,
+    "en": "measure tools",
+    "ru": "измерить инструменты"
+  },
+  {
+    "id": 865,
+    "en": "measure equipment",
+    "ru": "измерить технику"
+  },
+  {
+    "id": 866,
+    "en": "test oil level",
+    "ru": "проверить уровень масла"
+  },
+  {
+    "id": 867,
+    "en": "test brakes",
+    "ru": "проверить тормоза"
+  },
+  {
+    "id": 868,
+    "en": "test steering",
+    "ru": "проверить рулевое управление"
+  },
+  {
+    "id": 869,
+    "en": "test hydraulic hose",
+    "ru": "проверить гидрошланг"
+  },
+  {
+    "id": 870,
+    "en": "test hydraulic cylinder",
+    "ru": "проверить гидроцилиндр"
+  },
+  {
+    "id": 871,
+    "en": "test filters",
+    "ru": "проверить фильтры"
+  },
+  {
+    "id": 872,
+    "en": "test bolts",
+    "ru": "проверить анкера"
+  },
+  {
+    "id": 873,
+    "en": "test vent duct",
+    "ru": "проверить вентрукав"
+  },
+  {
+    "id": 874,
+    "en": "test gas level",
+    "ru": "проверить уровень газа"
+  },
+  {
+    "id": 875,
+    "en": "test air velocity",
+    "ru": "проверить скорость воздуха"
+  },
+  {
+    "id": 876,
+    "en": "test water level",
+    "ru": "проверить уровень воды"
+  },
+  {
+    "id": 877,
+    "en": "test work area",
+    "ru": "проверить рабочую зону"
+  },
+  {
+    "id": 878,
+    "en": "test PPE",
+    "ru": "проверить СИЗ"
+  },
+  {
+    "id": 879,
+    "en": "test tools",
+    "ru": "проверить инструменты"
+  },
+  {
+    "id": 880,
+    "en": "test equipment",
+    "ru": "проверить технику"
+  },
+  {
+    "id": 881,
+    "en": "calibrate oil level",
+    "ru": "калибровать уровень масла"
+  },
+  {
+    "id": 882,
+    "en": "calibrate brakes",
+    "ru": "калибровать тормоза"
+  },
+  {
+    "id": 883,
+    "en": "calibrate steering",
+    "ru": "калибровать рулевое управление"
+  },
+  {
+    "id": 884,
+    "en": "calibrate hydraulic hose",
+    "ru": "калибровать гидрошланг"
+  },
+  {
+    "id": 885,
+    "en": "calibrate hydraulic cylinder",
+    "ru": "калибровать гидроцилиндр"
+  },
+  {
+    "id": 886,
+    "en": "calibrate filters",
+    "ru": "калибровать фильтры"
+  },
+  {
+    "id": 887,
+    "en": "calibrate bolts",
+    "ru": "калибровать анкера"
+  },
+  {
+    "id": 888,
+    "en": "calibrate vent duct",
+    "ru": "калибровать вентрукав"
+  },
+  {
+    "id": 889,
+    "en": "calibrate gas level",
+    "ru": "калибровать уровень газа"
+  },
+  {
+    "id": 890,
+    "en": "calibrate air velocity",
+    "ru": "калибровать скорость воздуха"
+  },
+  {
+    "id": 891,
+    "en": "calibrate water level",
+    "ru": "калибровать уровень воды"
+  },
+  {
+    "id": 892,
+    "en": "calibrate work area",
+    "ru": "калибровать рабочую зону"
+  },
+  {
+    "id": 893,
+    "en": "calibrate PPE",
+    "ru": "калибровать СИЗ"
+  },
+  {
+    "id": 894,
+    "en": "calibrate tools",
+    "ru": "калибровать инструменты"
+  },
+  {
+    "id": 895,
+    "en": "calibrate equipment",
+    "ru": "калибровать технику"
+  },
+  {
+    "id": 896,
+    "en": "monitor oil level",
+    "ru": "контролировать уровень масла"
+  },
+  {
+    "id": 897,
+    "en": "monitor brakes",
+    "ru": "контролировать тормоза"
+  },
+  {
+    "id": 898,
+    "en": "monitor steering",
+    "ru": "контролировать рулевое управление"
+  },
+  {
+    "id": 899,
+    "en": "monitor hydraulic hose",
+    "ru": "контролировать гидрошланг"
+  },
+  {
+    "id": 900,
+    "en": "monitor hydraulic cylinder",
+    "ru": "контролировать гидроцилиндр"
+  },
+  {
+    "id": 901,
+    "en": "monitor filters",
+    "ru": "контролировать фильтры"
+  },
+  {
+    "id": 902,
+    "en": "monitor bolts",
+    "ru": "контролировать анкера"
+  },
+  {
+    "id": 903,
+    "en": "monitor vent duct",
+    "ru": "контролировать вентрукав"
+  },
+  {
+    "id": 904,
+    "en": "monitor gas level",
+    "ru": "контролировать уровень газа"
+  },
+  {
+    "id": 905,
+    "en": "monitor air velocity",
+    "ru": "контролировать скорость воздуха"
+  },
+  {
+    "id": 906,
+    "en": "monitor water level",
+    "ru": "контролировать уровень воды"
+  },
+  {
+    "id": 907,
+    "en": "monitor work area",
+    "ru": "контролировать рабочую зону"
+  },
+  {
+    "id": 908,
+    "en": "monitor PPE",
+    "ru": "контролировать СИЗ"
+  },
+  {
+    "id": 909,
+    "en": "monitor tools",
+    "ru": "контролировать инструменты"
+  },
+  {
+    "id": 910,
+    "en": "monitor equipment",
+    "ru": "контролировать технику"
+  },
+  {
+    "id": 911,
+    "en": "record oil level",
+    "ru": "зафиксировать уровень масла"
+  },
+  {
+    "id": 912,
+    "en": "record brakes",
+    "ru": "зафиксировать тормоза"
+  },
+  {
+    "id": 913,
+    "en": "record steering",
+    "ru": "зафиксировать рулевое управление"
+  },
+  {
+    "id": 914,
+    "en": "record hydraulic hose",
+    "ru": "зафиксировать гидрошланг"
+  },
+  {
+    "id": 915,
+    "en": "record hydraulic cylinder",
+    "ru": "зафиксировать гидроцилиндр"
+  },
+  {
+    "id": 916,
+    "en": "record filters",
+    "ru": "зафиксировать фильтры"
+  },
+  {
+    "id": 917,
+    "en": "record bolts",
+    "ru": "зафиксировать анкера"
+  },
+  {
+    "id": 918,
+    "en": "record vent duct",
+    "ru": "зафиксировать вентрукав"
+  },
+  {
+    "id": 919,
+    "en": "record gas level",
+    "ru": "зафиксировать уровень газа"
+  },
+  {
+    "id": 920,
+    "en": "record air velocity",
+    "ru": "зафиксировать скорость воздуха"
+  },
+  {
+    "id": 921,
+    "en": "record water level",
+    "ru": "зафиксировать уровень воды"
+  },
+  {
+    "id": 922,
+    "en": "record work area",
+    "ru": "зафиксировать рабочую зону"
+  },
+  {
+    "id": 923,
+    "en": "record PPE",
+    "ru": "зафиксировать СИЗ"
+  },
+  {
+    "id": 924,
+    "en": "record tools",
+    "ru": "зафиксировать инструменты"
+  },
+  {
+    "id": 925,
+    "en": "record equipment",
+    "ru": "зафиксировать технику"
+  },
+  {
+    "id": 926,
+    "en": "check blast pattern",
+    "ru": "проверить схему взрывания"
+  },
+  {
+    "id": 927,
+    "en": "check drill pattern",
+    "ru": "проверить схему бурения"
+  },
+  {
+    "id": 928,
+    "en": "check blast clearance",
+    "ru": "проверить допуск после взрыва"
+  },
+  {
+    "id": 929,
+    "en": "check misfire procedure",
+    "ru": "проверить процедуру по отказам"
+  },
+  {
+    "id": 930,
+    "en": "inspect blast pattern",
+    "ru": "осмотреть схему взрывания"
+  },
+  {
+    "id": 931,
+    "en": "inspect drill pattern",
+    "ru": "осмотреть схему бурения"
+  },
+  {
+    "id": 932,
+    "en": "inspect blast clearance",
+    "ru": "осмотреть допуск после взрыва"
+  },
+  {
+    "id": 933,
+    "en": "inspect misfire procedure",
+    "ru": "осмотреть процедуру по отказам"
+  },
+  {
+    "id": 934,
+    "en": "repair blast pattern",
+    "ru": "отремонтировать схему взрывания"
+  },
+  {
+    "id": 935,
+    "en": "repair drill pattern",
+    "ru": "отремонтировать схему бурения"
+  },
+  {
+    "id": 936,
+    "en": "repair blast clearance",
+    "ru": "отремонтировать допуск после взрыва"
+  },
+  {
+    "id": 937,
+    "en": "repair misfire procedure",
+    "ru": "отремонтировать процедуру по отказам"
+  },
+  {
+    "id": 938,
+    "en": "replace blast pattern",
+    "ru": "заменить схему взрывания"
+  },
+  {
+    "id": 939,
+    "en": "replace drill pattern",
+    "ru": "заменить схему бурения"
+  },
+  {
+    "id": 940,
+    "en": "replace blast clearance",
+    "ru": "заменить допуск после взрыва"
+  },
+  {
+    "id": 941,
+    "en": "replace misfire procedure",
+    "ru": "заменить процедуру по отказам"
+  },
+  {
+    "id": 942,
+    "en": "install blast pattern",
+    "ru": "установить схему взрывания"
+  },
+  {
+    "id": 943,
+    "en": "install drill pattern",
+    "ru": "установить схему бурения"
+  },
+  {
+    "id": 944,
+    "en": "install blast clearance",
+    "ru": "установить допуск после взрыва"
+  },
+  {
+    "id": 945,
+    "en": "install misfire procedure",
+    "ru": "установить процедуру по отказам"
+  },
+  {
+    "id": 946,
+    "en": "remove blast pattern",
+    "ru": "снять схему взрывания"
+  },
+  {
+    "id": 947,
+    "en": "remove drill pattern",
+    "ru": "снять схему бурения"
+  },
+  {
+    "id": 948,
+    "en": "remove blast clearance",
+    "ru": "снять допуск после взрыва"
+  },
+  {
+    "id": 949,
+    "en": "remove misfire procedure",
+    "ru": "снять процедуру по отказам"
+  },
+  {
+    "id": 950,
+    "en": "measure blast pattern",
+    "ru": "измерить схему взрывания"
+  },
+  {
+    "id": 951,
+    "en": "measure drill pattern",
+    "ru": "измерить схему бурения"
+  },
+  {
+    "id": 952,
+    "en": "measure blast clearance",
+    "ru": "измерить допуск после взрыва"
+  },
+  {
+    "id": 953,
+    "en": "measure misfire procedure",
+    "ru": "измерить процедуру по отказам"
+  },
+  {
+    "id": 954,
+    "en": "test blast pattern",
+    "ru": "проверить схему взрывания"
+  },
+  {
+    "id": 955,
+    "en": "test drill pattern",
+    "ru": "проверить схему бурения"
+  },
+  {
+    "id": 956,
+    "en": "test blast clearance",
+    "ru": "проверить допуск после взрыва"
+  },
+  {
+    "id": 957,
+    "en": "test misfire procedure",
+    "ru": "проверить процедуру по отказам"
+  },
+  {
+    "id": 958,
+    "en": "calibrate blast pattern",
+    "ru": "калибровать схему взрывания"
+  },
+  {
+    "id": 959,
+    "en": "calibrate drill pattern",
+    "ru": "калибровать схему бурения"
+  },
+  {
+    "id": 960,
+    "en": "calibrate blast clearance",
+    "ru": "калибровать допуск после взрыва"
+  },
+  {
+    "id": 961,
+    "en": "calibrate misfire procedure",
+    "ru": "калибровать процедуру по отказам"
+  },
+  {
+    "id": 962,
+    "en": "monitor blast pattern",
+    "ru": "контролировать схему взрывания"
+  },
+  {
+    "id": 963,
+    "en": "monitor drill pattern",
+    "ru": "контролировать схему бурения"
+  },
+  {
+    "id": 964,
+    "en": "monitor blast clearance",
+    "ru": "контролировать допуск после взрыва"
+  },
+  {
+    "id": 965,
+    "en": "monitor misfire procedure",
+    "ru": "контролировать процедуру по отказам"
+  },
+  {
+    "id": 966,
+    "en": "record blast pattern",
+    "ru": "зафиксировать схему взрывания"
+  },
+  {
+    "id": 967,
+    "en": "record drill pattern",
+    "ru": "зафиксировать схему бурения"
+  },
+  {
+    "id": 968,
+    "en": "record blast clearance",
+    "ru": "зафиксировать допуск после взрыва"
+  },
+  {
+    "id": 969,
+    "en": "record misfire procedure",
+    "ru": "зафиксировать процедуру по отказам"
+  },
+  {
+    "id": 970,
+    "en": "safe maintenance",
+    "ru": "безопасный обслуживание"
+  },
+  {
+    "id": 971,
+    "en": "safe repair",
+    "ru": "безопасный ремонт"
+  },
+  {
+    "id": 972,
+    "en": "safe inspection",
+    "ru": "безопасный осмотр"
+  },
+  {
+    "id": 973,
+    "en": "safe shutdown",
+    "ru": "безопасный останов"
+  },
+  {
+    "id": 974,
+    "en": "safe startup",
+    "ru": "безопасный запуск"
+  },
+  {
+    "id": 975,
+    "en": "safe risk",
+    "ru": "безопасный риск"
+  },
+  {
+    "id": 976,
+    "en": "safe control",
+    "ru": "безопасный контроль"
+  },
+  {
+    "id": 977,
+    "en": "safe procedure",
+    "ru": "безопасный процедура"
+  },
+  {
+    "id": 978,
+    "en": "safe training",
+    "ru": "безопасный обучение"
+  },
+  {
+    "id": 979,
+    "en": "safe audit",
+    "ru": "безопасный аудит"
+  },
+  {
+    "id": 980,
+    "en": "unsafe maintenance",
+    "ru": "опасный обслуживание"
+  },
+  {
+    "id": 981,
+    "en": "unsafe repair",
+    "ru": "опасный ремонт"
+  },
+  {
+    "id": 982,
+    "en": "unsafe inspection",
+    "ru": "опасный осмотр"
+  },
+  {
+    "id": 983,
+    "en": "unsafe shutdown",
+    "ru": "опасный останов"
+  },
+  {
+    "id": 984,
+    "en": "unsafe startup",
+    "ru": "опасный запуск"
+  },
+  {
+    "id": 985,
+    "en": "unsafe risk",
+    "ru": "опасный риск"
+  },
+  {
+    "id": 986,
+    "en": "unsafe control",
+    "ru": "опасный контроль"
+  },
+  {
+    "id": 987,
+    "en": "unsafe procedure",
+    "ru": "опасный процедура"
+  },
+  {
+    "id": 988,
+    "en": "unsafe training",
+    "ru": "опасный обучение"
+  },
+  {
+    "id": 989,
+    "en": "unsafe audit",
+    "ru": "опасный аудит"
+  },
+  {
+    "id": 990,
+    "en": "planned repair",
+    "ru": "плановый ремонт"
+  },
+  {
+    "id": 991,
+    "en": "planned inspection",
+    "ru": "плановый осмотр"
+  },
+  {
+    "id": 992,
+    "en": "planned shutdown",
+    "ru": "плановый останов"
+  },
+  {
+    "id": 993,
+    "en": "planned startup",
+    "ru": "плановый запуск"
+  },
+  {
+    "id": 994,
+    "en": "planned risk",
+    "ru": "плановый риск"
+  },
+  {
+    "id": 995,
+    "en": "planned control",
+    "ru": "плановый контроль"
+  },
+  {
+    "id": 996,
+    "en": "planned procedure",
+    "ru": "плановый процедура"
+  },
+  {
+    "id": 997,
+    "en": "planned training",
+    "ru": "плановый обучение"
+  },
+  {
+    "id": 998,
+    "en": "planned audit",
+    "ru": "плановый аудит"
+  },
+  {
+    "id": 999,
+    "en": "unplanned maintenance",
+    "ru": "внеплановый обслуживание"
+  },
+  {
+    "id": 1000,
+    "en": "unplanned repair",
+    "ru": "внеплановый ремонт"
+  }
+]
